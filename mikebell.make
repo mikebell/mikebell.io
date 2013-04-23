@@ -21,7 +21,7 @@ projects[libraries][version] = "2.0"
 
 projects[markdown][version] = "1.1"
 
-projects[mollom][version] = "1.1"
+projects[mollom][version] = "2.6"
 
 projects[pathauto][version] = "1.2"
 
