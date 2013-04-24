@@ -3,3 +3,27 @@
    display: none;
  }
 }
+
+h1 {
+ color: #222222;
+}
+
+.hero-unit {
+ color: #999999;
+ background-color: #222222;
+}
+
+.hero-unit h1 {
+ margin-bottom: 0;
+ font-size: 60px;
+ line-height: 1;
+ color: #eeeeee;
+ letter-spacing: -1px;
+}
+
+.hero-unit {
+ font-size: 18px;
+ font-weight: 200;
+ line-height: 30px;
+ color: #999999;
+}
