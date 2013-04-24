@@ -38,4 +38,9 @@ projects[varnish][version] = "1.0-beta1"
 projects[admin_menu][version] = "3.0-rc4"
 
 ; Themes
+projects[bootstrap][version] = "2.0-beta3"
 
+; Libraries
+;libraries[leaflet][download][type] = get
+;libraries[leaflet][download][url] = http://twitter.github.io/bootstrap/assets/bootstrap.zip
+;libraries[leaflet][directory_name] = 
