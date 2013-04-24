@@ -27,3 +27,13 @@ h1 {
  line-height: 30px;
  color: #999999;
 }
+
+a {
+ color: #0064cd;
+ text-decoration: none;
+}
+
+a:hover {
+ color: #003f81;
+ text-decoration: underline;
+}
