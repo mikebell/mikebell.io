@@ -38,6 +38,4 @@ projects[varnish][version] = "1.0-beta1"
 projects[admin_menu][version] = "3.0-rc4"
 
 ; Themes
-projects[corporateclean][version] = "1.1"
 
-projects[simpleclean][version] = "1.4"
