@@ -39,6 +39,8 @@ projects[admin_menu][version] = "3.0-rc4"
 
 projects[jquery_update][version] = "2.3"
 
+projects[features][version] = "2.0-beta2"
+
 ; Themes
 projects[bootstrap][version] = "2.0-beta3"
 
