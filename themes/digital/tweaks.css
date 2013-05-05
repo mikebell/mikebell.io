@@ -37,3 +37,7 @@ a:hover {
  color: #003f81;
  text-decoration: underline;
 }
+
+li.comment-add {
+  padding-left: 0 !IMPORTANT;
+}
