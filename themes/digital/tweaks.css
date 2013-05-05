@@ -38,6 +38,6 @@ a:hover {
  text-decoration: underline;
 }
 
-li.comment-add {
-  padding-left: 0 !IMPORTANT;
+ul.inline li.first {
+  padding-left: 0;
 }
