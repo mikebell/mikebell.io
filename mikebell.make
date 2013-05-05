@@ -37,6 +37,8 @@ projects[varnish][version] = "1.0-beta1"
 
 projects[admin_menu][version] = "3.0-rc4"
 
+projects[jquery_update][version] = "2.3"
+
 ; Themes
 projects[bootstrap][version] = "2.0-beta3"
 
