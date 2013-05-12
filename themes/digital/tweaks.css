@@ -61,3 +61,11 @@ ul.inline li.first {
      -moz-border-radius: 3px;
           border-radius: 3px;
 }
+
+.field-name-field-tags .field-items .field-item {
+  display: inline;
+}
+
+.field-name-field-tags .field-items {
+  margin-bottom: 15px;
+}
