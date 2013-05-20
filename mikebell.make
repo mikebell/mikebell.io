@@ -42,7 +42,7 @@ projects[jquery_update][version] = "2.3"
 projects[features][version] = "2.0-beta2"
 
 ; Themes
-projects[bootstrap][version] = "2.0-beta3"
+projects[bootstrap][version] = "2.0"
 
 ; Libraries
 ;libraries[leaflet][download][type] = get
