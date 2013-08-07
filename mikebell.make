@@ -41,10 +41,12 @@ projects[jquery_update][version] = "2.3"
 
 projects[features][version] = "2.0-beta2"
 
+projects[flippy][version] = "1.2"
+
 ; Themes
 projects[bootstrap][version] = "2.0"
 
 ; Libraries
 ;libraries[leaflet][download][type] = get
 ;libraries[leaflet][download][url] = http://twitter.github.io/bootstrap/assets/bootstrap.zip
-;libraries[leaflet][directory_name] = 
+;libraries[leaflet][directory_name] =
