@@ -76,9 +76,14 @@ ul.flippy {
 
 .flippy .prev {
     padding-left: 0;
+    float: left;
 }
 
 .flippy .next {
     padding-right: 0;
     float: right;
+}
+
+.node footer {
+    clear: left;
 }
