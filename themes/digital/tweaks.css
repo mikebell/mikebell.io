@@ -69,3 +69,16 @@ ul.inline li.first {
 .field-name-field-tags .field-items {
   margin-bottom: 15px;
 }
+
+ul.flippy {
+    margin: 0;
+}
+
+.flippy .prev {
+    padding-left: 0;
+}
+
+.flippy .next {
+    padding-right: 0;
+    float: right;
+}
