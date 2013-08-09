@@ -43,6 +43,8 @@ projects[features][version] = "2.0-beta2"
 
 projects[flippy][version] = "1.2"
 
+projects[highlightjs][version] = "1.0"
+
 ; Themes
 projects[bootstrap][version] = "2.0"
 
