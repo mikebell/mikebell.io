@@ -46,7 +46,7 @@ projects[flippy][version] = "1.2"
 projects[highlightjs][version] = "1.0"
 
 ; Themes
-projects[bootstrap][version] = "2.1"
+projects[bootstrap][version] = "3.0"
 
 ; Libraries
 ;libraries[leaflet][download][type] = get
