@@ -1,4 +1,18 @@
-/**
- * This file should get overwritten if Method 1 is used. If Method 2 is chosen,
- * remove this comment and start adding your styles to this file.
- */
+.field-name-field-tags .field-item {
+    display: inline;
+    margin-right: 15px;
+}
+
+ul.flippy {
+    margin: 0;
+}
+
+.flippy .prev {
+    padding-left: 0;
+    float: left;
+}
+
+.flippy .next {
+    padding-right: 0;
+    float: right;
+}
