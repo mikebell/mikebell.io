@@ -14,3 +14,7 @@ ul.flippy {
 .flippy .next {
     padding-right: 0;
 }
+
+h1 {
+  font-family: 'Open Sans', 'Helvetica', sans-serif;
+}
