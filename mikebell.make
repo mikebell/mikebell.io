@@ -45,6 +45,8 @@ projects[flippy][version] = "1.2"
 
 projects[highlightjs][version] = "1.0"
 
+projects[filefield_sources][version] = "1.9"
+
 ; Themes
 projects[bootstrap][version] = "3.0"
 
