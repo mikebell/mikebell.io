@@ -47,6 +47,8 @@ projects[highlightjs][version] = "1.0"
 
 projects[filefield_sources][version] = "1.9"
 
+projects[entityreference][version] = "1.1"
+
 ; Themes
 projects[bootstrap][version] = "3.0"
 
