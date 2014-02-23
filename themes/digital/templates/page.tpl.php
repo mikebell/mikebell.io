@@ -73,7 +73,7 @@
  * @ingroup themeable
  */
 ?>
-<header id="navbar" role="banner" class="<?php print $navbar_classes; ?>">
+<header id="navbar" role="banner" class="navbar navbar-inverse">
   <div class="container">
     <div class="navbar-header">
       <?php if ($logo): ?>
