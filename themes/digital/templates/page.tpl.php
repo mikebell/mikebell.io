@@ -114,6 +114,11 @@
 </header>
 
 <div class="main-container container">
+  <?php if (!empty($page['page_header'])): ?>
+    <div class="row">
+      <?php print render($page['page_header']); ?>
+    </div>
+  <?php endif; ?>
   <div class="row">
     <?php if (!empty($page['sidebar_first'])): ?>
       <aside class="col-sm-3" role="complementary">
