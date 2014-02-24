@@ -49,6 +49,8 @@ projects[filefield_sources][version] = "1.9"
 
 projects[entityreference][version] = "1.1"
 
+projects[disqus][version] = "1.10"
+
 ; Themes
 projects[bootstrap][version] = "3.0"
 
