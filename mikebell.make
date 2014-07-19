@@ -15,7 +15,7 @@ projects[geshifilter][version] = "1.1"
 
 projects[google_fonts][version] = "2.3"
 
-projects[google_analytics][version] = "1.3"
+projects[google_analytics][version] = "2.0"
 
 projects[libraries][version] = "2.0"
 
