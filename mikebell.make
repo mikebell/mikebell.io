@@ -29,7 +29,7 @@ projects[rules][version] = "2.3"
 
 projects[token][version] = "1.5"
 
-projects[views][version] = "3.7"
+projects[views][version] = "3.8"
 
 projects[xmlsitemap][version] = "2.0-rc2"
 
