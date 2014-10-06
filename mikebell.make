@@ -54,6 +54,8 @@ projects[disqus][version] = "1.10"
 ; Themes
 projects[bootstrap][version] = "3.0"
 
+projects[adminimal_theme][version] = "1.18"
+
 ; Libraries
 ;libraries[leaflet][download][type] = get
 ;libraries[leaflet][download][url] = http://twitter.github.io/bootstrap/assets/bootstrap.zip
