@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title><![CDATA[Sculpin Blog Skeleton]]></title>
+    <link href="/blog/tags/deployment.xml" rel="self"/>
+    <link href="/"/>
+    <updated>2015-11-22T18:44:18+00:00</updated>
+    <id>/</id>
+        <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[Git just fucking get on with it.]]></title>
+            <link href="/blog/2013/07/16/git-just-fucking-get-on-with-it"/>
+            <updated>2013-07-16T00:00:00+00:00</updated>
+            <id>/blog/2013/07/16/git-just-fucking-get-on-with-it</id>
+            <content type="html"><![CDATA[<p>Here is an unedited version of the post. Raw and uncensored:</p>
+
+<p>After many a fruitless and frustrating discussions around git best practices here's my bulletproof method:</p>
+
+<ul>
+<li>Tag it - if you want to release code you have to tag it. By tagging you also own that release if it doesn't fucking work I'll hunt you down. You did test it, right?</li>
+<li>What branch should I use? I don't give a shit. I really don't, you're a big boy now we've let you use big boy tools like the command line take some initiative.</li>
+<li>It's 5pm on a Friday before a bank holiday can we release? Wait there's a gif for this...</li>
+</ul>
+
+<p>OK so it's extreme so here's the rational slightly less angry and more rational version:</p>
+
+<ul>
+<li>Tagging  - By tagging you recognise that the build is ready for production, it's a releasable point in the code. You're also taking responsibility for that release (you may not be release manager), you've deemed it good enough to release to production.</li>
+<li>Branching - Seriously here I don't care, ideally you'll be using your own fork of the repo so you can do whatever you want (if not create a new branch don't touch dev/prod). That's the great thing about git if you want n branches you can have n branches. Just make sure when you're ready to merge back into the production repo you submit a pull request against my dev branch.</li>
+<li>No brainer here, unless it's an emergency your code release really isn't as important as you think it is. There is also a flip side to this, if your test coverage is pretty damned good then fine release, the release has to be pretty tight though.</li>
+</ul>
+
+<p>My ideal repository would be two branches, dev and prod. People submit pull requests to dev and I then merge code ready for release to prod and tag it ready for it to be released. It's simple, here's an interesting use case:</p>
+
+<blockquote>
+  <p>Company A readies a release tagged 1.0</p>
+  
+  <p>Company B has an emergency release that has to be deployed</p>
+  
+  <p>Company A doesn't want to mess around with their branch</p>
+  
+  <p>Company B branch from 0.9 applies any emergency fixes and create 1.0.1</p>
+  
+  <p>Company A merges in 1.0.1 changes from B and creates new release 1.0.2</p>
+</blockquote>
+
+<p>There are no reverts here, no backwards and forwards between companies asking wtf is going on. Just a simple logical solution.</p>
+
+<p>I hope this helps people refine their git practices.</p>
+]]></content>
+        </entry>
+    </feed>

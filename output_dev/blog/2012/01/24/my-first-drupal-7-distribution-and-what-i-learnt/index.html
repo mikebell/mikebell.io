@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My first Drupal 7 Distribution and what I learnt &mdash; Sculpin Blog Skeleton &mdash; To Get You Started</title>
+        <meta charset="utf-8">
+        <meta name="theme-color" content="#ffffff">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <meta name="robots" content="index, follow">
+        <link href="/components/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+        <link href="/components/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" />
+        <link href="/css/style.css" rel="stylesheet" type="text/css" />
+        <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+            <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+
+        <link rel="apple-touch-startup-image" href="/images/jackson/2048x2048.png">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <link rel="shortcut icon" sizes="76x76" href="/images/jackson/76x76.png">
+        <link rel="shortcut icon" sizes="120x120" href="/images/jackson/120x120.png">
+        <link rel="shortcut icon" sizes="128x128" href="/images/jackson/128x128.png">
+        <link rel="shortcut icon" sizes="152x152" href="/images/jackson/152x152.png">
+        <link rel="shortcut icon" sizes="196x196" href="/images/jackson/196x196.png">
+        <link rel="shortcut icon" sizes="512x512" href="/images/jackson/512x512.png">
+        <link rel="shortcut icon" sizes="1024x1024" href="/images/jackson/1024x1024.png">
+        <link rel="shortcut icon" sizes="2048x2048" href="/images/jackson/2048x2048.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/images/jackson/76x76.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/images/jackson/120x120.png">
+        <link rel="apple-touch-icon" sizes="128x128" href="/images/jackson/128x128.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/images/jackson/152x152.png">
+        <link rel="apple-touch-icon" sizes="196x196" href="/images/jackson/196x196.png">
+        <link rel="apple-touch-icon" sizes="512x512" href="/images/jackson/512x512.png">
+        <link rel="apple-touch-icon" sizes="1024x1024" href="/images/jackson/1024x1024.png">
+        <link rel="apple-touch-icon" sizes="2048x2048" href="/images/jackson/2048x2048.png">
+
+        <link rel="stylesheet" href="/components/highlightjs/styles/github.css" />
+        <link rel="alternate" type="application/atom+xml" href="/atom.xml" title="Sculpin Blog Skeleton activity feed" />
+        <style>
+        /** quick fix because bootstrap <pre> has a background-color. */
+        pre code { background-color: inherit; }
+        </style>
+                                    </head>
+    <body>
+        <header>
+            <div class="navbar navbar-inverse navbar-fixed-top">
+                <div class="navbar-inner">
+                    <div class="container-fluid">
+                        <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </a>
+                        <a class="brand" href="/">Sculpin Blog Skeleton</a>
+                        <div class="nav-collapse collapse">
+                            <ul class="nav">
+                                <li><a href="/blog">Posts Archive</a></li>
+                                <li><a href="/blog/categories">Categories</a></li>
+                                <li><a href="/blog/tags">Tags</a></li>
+                                <li><a href="/about">About</a></li>
+                            </ul>
+                        </div><!--/.nav-collapse -->
+                    </div>
+                </div>
+            </div>
+        </header>
+        <div class="mainContent container">
+            <div class="row-fluid">
+                <div class="span8">
+                        <article>
+        <header>
+            <h2>My first Drupal 7 Distribution and what I learnt <small>post</small></h2>
+        </header>
+        <div>
+            <p>I've been using Tumblr for a few months now as a simple way of sharing the images I find interesting and beautiful (can be found at <a href="http://ayil.co.uk">ayil.co.uk</a>). I found it was lacking in a few features that would be nice, being a Drupal developer I thought hell why not try and recreate it in Drupal 7.</p>
+
+<h2 id="i%27ve-been-here-before.">I've been here before.</h2>
+
+<p>I'm not new to profiles, I started playing around with them at the start of 2010 in Drupal 6 for a clients site. It seemed like a great way to get a site up and running quickly and cut out all the faffing about with installing modules and content types. It went pretty well but then I discovered Features and decided to move everything to them and haven't looked back (regardless of how many times I've wanted to stab my own eyes out with dependency hell).</p>
+
+<h2 id="the-start-of-something.">The start of something.</h2>
+
+<p>So why not recreate Tumblr in Drupal 7? It would have all the best bits of Tumblr and all the best bits of Drupal. Half the stuff I wanted to do comes straight out of the box, especially now that cck is in core.</p>
+
+<h2 id="queue-the-montage-sequence.">Queue the montage sequence.</h2>
+
+<p>For those not familiar with Tumblr you get 7 "content types", each of these have specific functionality such as posting a photo or standard text blog post. Creating the 7 content types was easy, a lot of point and clicking but achievable without any coding. Within a few hours I had all 7 content types mapped out and created within Drupal, it was very rough around the edges but it was there and most of all working (well almost).</p>
+
+<h2 id="shiny-new-toys.">Shiny new toys.</h2>
+
+<p>Features allowed me to export all the configuration into separate modules which were controlled by a central controller module (a concept I've used a few times and should probably write more about). Adding a dependency to this controller module in my distribution info file meant that on install it would cascade down and install all the content types and associated settings. My distribution info file also contained the bare minimum to set-up various menus and blocks.</p>
+
+<p>Since this was a personal project I decided to throw in some responsive theming for good measures, I used the Omega theme to give me a starting point but since my skills lie in code the theme never really went far, I just have no passion for web design. I highly suggest you checkout <a href="http://drupal.org/project/omega_tools">omega tools</a> as it's a great way of configuring the theme in the shortest amount of time and it even comes with some handy drush extensions.</p>
+
+<h2 id="lights...-camera...-...-is-this-thing-on%3F">Lights... Camera... ... is this thing on?</h2>
+
+<p>Since my use case was mostly media based I figured I'd check out the <a href="http://drupal.org/project/media">media module</a>. This was where it all went wrong, it's a usability nightmare, I went round in circles trying to figure out how to configure it properly to do what I wanted. In the end another colleague ended up ripping out what I'd done and replace it with something that nearly worked. I found the modal window approach to be horrible (this coming from a guy who's spent the last year living in a modal hell), here are a few of the issues I found:
+1. Upload size = 0, documented bug.
+2. Remote embed for image shows video options.
+3. Ignore above it doesn't work for video or image using the third party modules.
+4. Edge case conflict with omega theme.</p>
+
+<p>So now I'm left with a distribution that installs and works for the most part. If I was a good Samaritan I'd jump into the issue queue and help where I can but I don't have the time or the patience. I'm not familiar enough with the changes in Drupal 7 as all my work time is spent in Drupal 6 and I haven't had the opportunity to delve behind the scenes of 7 yet.</p>
+
+<h2 id="making-my-life-easier">Making my life easier</h2>
+
+<p>I use drush a lot, it's probably one of the most used command-line tools in my arsenal at the moment. For those not familiar with drush make it's command that downloads modules and 3rd party libraries so you don't have to, it's a great time saver and well worth looking into. Drupal.org allows you to package a special version of a make file so that it will grab all the modules and 3rd party libraries (only white listed ones, a relatively new feature) and build it for you. Great idea in principle but the thing that annoyed me was the structure of the make file is fundamentally different between the normal type and drupal.org standard. This was a bit of pain for two reasons, the first is it broke my CI setup as a valid d.o make file can't contain "core" whereas normal drush make requires it. Secondly as I found out after converting my file is that sandbox distributions don't have this packaging setup available. Thankfully everything was tracked in git and 2 reverts later I was back to a normal make file.</p>
+
+<h3 id="why-even-bother-with-a-make-file-testing%3F">Why even bother with a make file testing?</h3>
+
+<p>I've been burnt too many times before by developers not testing their make files, it's annoying to have to sit through a whole build process for 4-5 minutes only to have it failed because someone has either spelt the module name wrong or used an invalid release. Automating this test is a great way to save myself and others hassle down the line.</p>
+
+<h2 id="dead-and-buried%3F">Dead and buried?</h2>
+
+<p>Far from it, every week I check the Media issue queue and various twitter postings to see the improvements being made on the module. It'll get there and when it does I'll continue to build my distribution towards some kind of stable release as I still believe that this is a great project.</p>
+
+<h2 id="where-is-it%3F">Where is it?</h2>
+
+<p>It can be found <a href="http://drupal.org/sandbox/digital/1353814">here</a>. Feel free to contribute suggestions/ideas/code. Out of the box you get a responsive site which emulates around 60% of the functionality of Tumblr, it's not pretty but it's functional.</p>
+
+<h2 id="what-did-i-learn%3F">What did I learn?</h2>
+
+<p>Bucket loads, I'm now familiar with the new Drupal admin interface, I have a deeper understanding of install profiles. I also built a Jenkins setup to test various different aspects of building and creation of the profile which I'll write another blog post about. Taking on a distribution is a large task but ultimately worth it.</p>
+
+        </div>
+                            <p class="tags">
+            Tags:
+                        <a href="/blog/tags/Drupal%20Planet">Drupal Planet</a>                        </p>
+        
+                    <nav class="article">
+                <ul>
+                                            <li>Next: <a class="next" href="/blog/2012/01/24/using-jenkins-ci-and-drupal" title="Using Jenkins CI and Drupal"><span class="title">Using Jenkins CI and Drupal</span></a></li>
+                                                                <li>Previous: <a class="previous" href="/blog/2011/11/15/git-log-between-tags" title="Git log between tags"><span class="title">Git log between tags</span></a></li>
+                                    </ul>
+            </nav>
+            </article>
+
+
+
+                </div>
+                <div class="span4 sidebar">
+                    <div class="well">
+                        <h4>Sculpin Blog Skeleton <small>To Get You Started</small></h4>
+                    </div>
+                    <div class="well sidebar-nav">
+                        <h4>Links</h4>
+                        <ul class="nav">
+                            <li><a href="http://sculpin.io">sculpin.io</a></li>
+                            <li><a href="http://twitter.com/getsculpin">@getsculpin</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <footer class="container">
+            &copy; 2015 Sculpin Blog Skeleton
+        </footer>
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="/components/jquery/jquery.min.js"><\/script>')</script>
+        <script src="/components/bootstrap/js/bootstrap.min.js"></script>
+                
+                <script src="/components/highlightjs/highlight.pack.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script>
+
+                    </body>
+</html>

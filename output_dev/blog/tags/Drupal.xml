@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title><![CDATA[Sculpin Blog Skeleton]]></title>
+    <link href="/blog/tags/Drupal.xml" rel="self"/>
+    <link href="/"/>
+    <updated>2015-11-22T18:44:18+00:00</updated>
+    <id>/</id>
+        <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[Drupal + WordPress Sprints Manchester]]></title>
+            <link href="/blog/2014/07/03/drupal-wordpress-sprints-manchester"/>
+            <updated>2014-07-03T00:00:00+00:00</updated>
+            <id>/blog/2014/07/03/drupal-wordpress-sprints-manchester</id>
+            <content type="html"><![CDATA[<p>I'm proud to announce a new collaboration between the Drupal and WordPress communities in Manchester to provide a space to contribute back to each respective project. It's a great opportunity to get together and work on the projects that we love while being around like minded people.</p>
+
+<p>The first sprint will be on the 19th July at TechHub in Manchester. You can sign up here - http://www.eventbrite.com/e/drupal-wordpress-sprints-manchester-tickets-12157905623 with lunch provided.</p>
+
+<p>I'd like to thank Jenny Wong (<a href="https://twitter.com/miss_jwo">@miss_jwo</a>) for helping to arrange this, I'm really looking forward to making this a long running collaboration between the two communities.</p>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[Drupal Sprints Manchester are back!]]></title>
+            <link href="/blog/2014/04/23/drupal-sprints-manchester-are-back"/>
+            <updated>2014-04-23T00:00:00+00:00</updated>
+            <id>/blog/2014/04/23/drupal-sprints-manchester-are-back</id>
+            <content type="html"><![CDATA[<p>After a long break we’re back and ready to get sprinting again.</p>
+
+<p>I’m looking forward to getting stuck into Drupal 8 migrate in preparation for my talk at Drupal Camp Yorkshire.</p>
+
+<p>More details on the event can be found at http://www.meetup.com/nwdrupal/events/178627442/ don’t forget to read my sprint manifesto <a href="http://mikebell.io/blog/29-01-2014/manchester-drupal-sprint-manifesto-v20">here</a>.</p>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[Drupal to Octopress to Drupal]]></title>
+            <link href="/blog/2014/02/24/drupal-to-octopress-to-drupal"/>
+            <updated>2014-02-24T00:00:00+00:00</updated>
+            <id>/blog/2014/02/24/drupal-to-octopress-to-drupal</id>
+            <content type="html"><![CDATA[<p>Over the weekend I’ve been working on migrating my site away from Drupal. I managed to get everything up and running on Octopress but it just doesn’t feel right.</p>
+
+<p>It’s not as flexible as Drupal and it seems the simplest of things breaks it. In theory I like the concept of Octopress but it just seems clunky compared to Drupal.</p>
+
+<p>I’ll be slowly making upgrades to this site:</p>
+
+<ul>
+<li>Adding Disqus</li>
+<li>Tidying the theme up</li>
+<li>Adding extra theme elements</li>
+<li>Adding some colour!!!</li>
+</ul>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[Stepping Down from NWDUG]]></title>
+            <link href="/blog/2014/02/09/stepping-down-from-nwdug"/>
+            <updated>2014-02-09T00:00:00+00:00</updated>
+            <id>/blog/2014/02/09/stepping-down-from-nwdug</id>
+            <content type="html"><![CDATA[<p>As of the 6th February I’ve stepped down from NWDUG it’s something that I’ve been thinking about for a while now and I now have other things that need my focus. Phil Norton is a great person to work with and I hope that whoever steps up to help will have as much fun as I have over the past few years.</p>
+
+<p>So whats next? Well I intend to ramp up my involvement with Code Club Manchester, it’s something that I believe in strongly and think I can make a great start with it. I’ll still be running Drupal Sprints Manchester (follow at http://twitter.com/drupalsprints) but the format will be different and new rules will be put into place.</p>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[Override servers version of drush]]></title>
+            <link href="/blog/2014/01/23/override-servers-version-of-drush"/>
+            <updated>2014-01-23T00:00:00+00:00</updated>
+            <id>/blog/2014/01/23/override-servers-version-of-drush</id>
+            <content type="html"><![CDATA[<p>Recently I had to work on a server that was heavily restricted by a third party company. They were using an archaic version of drush so I decided to change it!</p>
+
+<p>I have no access to sudo or any form of root account, this made things even more interesting. No wget either.</p>
+
+<ul>
+<li>Download drush 6.2.0 to local machine</li>
+<li>Download console_table 1.1.3 (has to be this version)</li>
+<li><code>scp</code> both drush and console_table to remote server</li>
+<li><code>unzip</code> drush to ~/drush-6.2.0</li>
+<li><code>tar -zxf</code> console_table to ~/drush-6.2.0/lib/</li>
+<li>modify .bashrc / .zshrc and add the following:
+PATH="/home/badger/drush-6.2.0:$PATH”
+export PATH</li>
+<li><code>source ~/.bashrc</code> or <code>source ~/.zshrc</code></li>
+</ul>
+
+<p>There you go the latest version of drush on a locked down system.</p>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[Drupal Sprints around the World]]></title>
+            <link href="/blog/2013/10/30/drupal-sprints-around-the-world"/>
+            <updated>2013-10-30T00:00:00+00:00</updated>
+            <id>/blog/2013/10/30/drupal-sprints-around-the-world</id>
+            <content type="html"><![CDATA[<p>On the 22nd October Manchester saw it’s very first Drupal Sprint, this was run in parallel with London Sprints.</p>
+
+<p>Regular sprints are now becoming a great way to help out with Drupal Core and Contrib. In the UK there are now two sprints covering London and Manchester. In India there are 3 user groups all sprinting regularly. No doubt there are some in the US and in other countries.</p>
+
+<p>Sprints unlike regular user groups are an ideal place to flex your code knowledge and get your hands dirty. With initiatives such as the Drupal Ladder it’s proving that everyone can contribute in some fashion whether this be via code, documentation or testing. Within the first 30 minutes of Drupal Sprints Manchester we had our first commit to a contributed project (Omega 4) by a first time contributor.</p>
+
+<p>We communicated with London via Google Hangouts where we updated each other on our progress, I know in the past that London has spoken with India an impressive feat considering the time difference.</p>
+
+<p>It’s not out of the realms of possibility to organise a monthly world-wide sprint. The idea being that user groups all over the world organise a sprint for a specific date with the aim of working on core and contrib. I believe this will be possible with a minimal amount of effort as we can offload a lot of the organisation to each user group. Coordination of communication can be done through IRC. It would be a great publicity stunt as well, something that every country could benefit from especially in the run up to Drupal 8 release.</p>
+
+<p>If anyone is interested in a world wide sprint comment below and lets organise something!</p>
+
+<p><strong>Update</strong> - Thanks for the extra information Berdir and YesCT. It's really cool to see the community come together for things like this. Subject to our venue being available Manchester will be ready to sprint on the 25th January.</p>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[A Call to Arms - Support your local Drupal Community]]></title>
+            <link href="/blog/2013/10/13/a-call-to-arms-support-your-local-drupal-community"/>
+            <updated>2013-10-13T00:00:00+00:00</updated>
+            <id>/blog/2013/10/13/a-call-to-arms-support-your-local-drupal-community</id>
+            <content type="html"><![CDATA[<p>For me the the Drupal community is amazing, it's always felt like a family, one you can rely on to help and support you.</p>
+
+<p>It's time for a call to arms, people need to support their local and regional Drupal user groups and events. A lot of these events are volunteer run, it takes time and energy to run meetup after meetup and big events. The people that organise and run these events are quite something, 9 to 5 days don't exist for them.</p>
+
+<p>So this is where you come in, it's easy to help out:</p>
+
+<ol>
+<li>Volunteering - everyone needs volunteers, get in touch with your local usergroup or next camp and see if they need your help.</li>
+<li>Sponsorship - camps aren't free, they cost money and no one likes to talk about it. If your a company or individual then please consider sponsoring your local camp/meetup. It gets your name out there and some extra brownie points within the community.</li>
+<li>Spreading the word - advertise your local camp/meetup, tell your friends and colleagues, blog and tweet about it. It all helps.</li>
+</ol>
+
+<p>I'm lucky to have worked with some great people on both NWDUG (North West Drupal User Group) and DrupalCamp NW 12 so I know how much the smallest of contribution can help.</p>
+
+<p>If your in the UK and looking to support your local or regional group then take a look at DrupalCamp NW 2013 - http://camp2013.nwdrupal.org.uk/ - they're looking for sponsors and volunteers.</p>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[Drupal Sprints Manchester 26th October]]></title>
+            <link href="/blog/2013/09/27/drupal-sprints-manchester-26th-october"/>
+            <updated>2013-09-27T00:00:00+00:00</updated>
+            <id>/blog/2013/09/27/drupal-sprints-manchester-26th-october</id>
+            <content type="html"><![CDATA[<p>I'm proud to announce Drupal Sprints Manchester (UK). Last year at Drupal Camp NW I spoke with various other northern Drupalers and decided that we should get together and attempt to emulate Drupal Sprints London.</p>
+
+<p>The format is simple, Drupal developers / themers / builders get to together and work on Drupal core and contrib.</p>
+
+<p>My aim is to provide a space where people can get together and get stuck in working on Drupal and giving back to the community in the form of code, all that's required is a laptop with an development stack and your brain.</p>
+
+<p>The first meetup will be held on the 26th October at Techhub in Manchester more details can be found here - http://www.meetup.com/nwdrupal/events/142003462/</p>
+
+<p>If you intend on coming then please sign up so we have a good idea of the numbers.</p>
+
+<p>Please help spread the word!</p>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[Download Drupal to Current Directory using Drush]]></title>
+            <link href="/blog/2013/08/27/download-drupal-to-current-directory-using-drush"/>
+            <updated>2013-08-27T00:00:00+00:00</updated>
+            <id>/blog/2013/08/27/download-drupal-to-current-directory-using-drush</id>
+            <content type="html"><![CDATA[<p>This has always bugged me, you can't easily download Drupal to your current directory using drush. After a quick search I found this issue - https://drupal.org/node/495438</p>
+
+<p>The following command works well -</p>
+
+<pre><code>drush dl -d --destination=".." --drupal-project-rename="$(basename `pwd`)"
+</code></pre>
+
+<p>So what's it doing?</p>
+
+<ul>
+<li>--destination - specifies where to download Drupal to</li>
+<li>--drupal-project-rename - renames the downloaded directory to your current directory</li>
+</ul>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[Vagrant Boxes for Drupal Development]]></title>
+            <link href="/blog/2013/08/10/vagrant-boxes-for-drupal-development"/>
+            <updated>2013-08-10T00:00:00+00:00</updated>
+            <id>/blog/2013/08/10/vagrant-boxes-for-drupal-development</id>
+            <content type="html"><![CDATA[<p>During my time off I figured I'd get my dev environment setup for when I start at CTI.</p>
+
+<p>Using the really great <a href="https://puphpet.com/">puphpet.com</a> I've created two new vagrant configs, the first is for Apache the second is for Nginx.</p>
+
+<h2 id="the-changes">The Changes</h2>
+
+<ul>
+<li>Removed xhprof and dot file support</li>
+<li>Added an easier way to provision new vhosts and dbs.</li>
+<li>Added drush</li>
+</ul>
+
+<h2 id="internals">Internals</h2>
+
+<ul>
+<li>Ubuntu 12.04</li>
+<li>PHP 5.3</li>
+</ul>
+
+<h2 id="usage">Usage</h2>
+
+<p><code>
+git clone git@github.com:digital006/drupaldev-nginx.git
+mkdir sites
+vagrant up
+</code></p>
+
+<h2 id="links">Links</h2>
+
+<p>https://github.com/digital006/drupaldev-nginx</p>
+
+<p>https://github.com/digital006/drupaldev</p>
+
+<p>Hope these are useful to others.</p>
+]]></content>
+        </entry>
+    </feed>

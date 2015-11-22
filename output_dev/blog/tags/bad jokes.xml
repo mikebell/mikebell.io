@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title><![CDATA[Sculpin Blog Skeleton]]></title>
+    <link href="/blog/tags/bad jokes.xml" rel="self"/>
+    <link href="/"/>
+    <updated>2015-11-22T18:44:18+00:00</updated>
+    <id>/</id>
+        <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[Front/Back End]]></title>
+            <link href="/blog/2014/11/17/frontback-end"/>
+            <updated>2014-11-17T00:00:00+00:00</updated>
+            <id>/blog/2014/11/17/frontback-end</id>
+            <content type="html"><![CDATA[<p>Explaining front and back end development to Hannah:</p>
+
+<p>Me - "... so that's front end and back end development"</p>
+
+<p>Hannah - "I'm imagining you like a pantomime horse at the back end"</p>
+
+<p>Me - "yeah we get called the asses"</p>
+
+<p><em>chuckles</em></p>
+]]></content>
+        </entry>
+    </feed>

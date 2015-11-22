@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title><![CDATA[Sculpin Blog Skeleton]]></title>
+    <link href="/blog/tags/PSR-4.xml" rel="self"/>
+    <link href="/"/>
+    <updated>2015-11-22T18:44:18+00:00</updated>
+    <id>/</id>
+        <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[PSR-4 for dummies with practical example]]></title>
+            <link href="/blog/2014/06/01/psr-4-for-dummies-with-practical-example"/>
+            <updated>2014-06-01T00:00:00+00:00</updated>
+            <id>/blog/2014/06/01/psr-4-for-dummies-with-practical-example</id>
+            <content type="html"><![CDATA[<p>Every time I come to write a new application I always forget how to use PSR-4 so here’s my practical example</p>
+
+<p>Directories:</p>
+
+<pre><code>- src
+- - Digital
+- - - Epok
+- - - - Controller
+- - - - - HomePageController.php
+</code></pre>
+
+<p>composer.json</p>
+
+<pre><code>{
+    "require": {
+        "silex/silex": "~1.1"
+},
+    "autoload": {
+        "psr-4": {
+             "Digital\\Epok\\Controller\\": "src/Digital/Epok/Controller"
+        }
+    }
+}
+</code></pre>
+
+<p>HomePageController.php</p>
+
+<pre><code>&lt;?php
+  namespace Digital\Epok\Controller;
+
+  use Silex\Application;
+  use Symfony\Component\HttpFoundation\Request;
+
+  class HomePageController {
+    public function homePage(Request $request, Application $application) {
+      return 'Hi';
+    }
+  }
+</code></pre>
+
+<p>Hopefully this will help me remember how I should setup PSR-4 with a new project.</p>
+]]></content>
+        </entry>
+    </feed>

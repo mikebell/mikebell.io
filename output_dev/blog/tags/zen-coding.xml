@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title><![CDATA[Sculpin Blog Skeleton]]></title>
+    <link href="/blog/tags/zen-coding.xml" rel="self"/>
+    <link href="/"/>
+    <updated>2015-11-22T18:44:18+00:00</updated>
+    <id>/</id>
+        <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[Reveal.js and Zen Coding]]></title>
+            <link href="/blog/2013/08/09/reveal-js-and-zen-coding"/>
+            <updated>2013-08-09T00:00:00+00:00</updated>
+            <id>/blog/2013/08/09/reveal-js-and-zen-coding</id>
+            <content type="html"><![CDATA[<p>For those that don't know me I hate HTML and CSS odd considering the profession I'm in.</p>
+
+<p>I love when I see people do cool presentations and I really like to know how they've done it. Maybe I'm just a closet themer waiting to get out? Nah.</p>
+
+<p>After watching <a href="https://twitter.com/MartianWebDev">Andrew MacPherson</a> at <a href="http://nwdrupal.org.uk/">nwdug</a> this week I was really impressed with Reavel.js so figured I'd give it a go for my presentation next week at <a href="http://drupalyorkshire.org.uk/">Drupal Yorkshire</a>.</p>
+
+<h2 id="reveal.js">Reveal.js</h2>
+
+<p><a href="http://lab.hakim.se/reveal-js/">Reveal.js</a> is a javascript framework for creating really nice looking presentations quick and easily. It uses some HTML5 stuff mixed in with some nice CSS3/SASS magic.</p>
+
+<p>Reveal comes with a few nice themes (including solarized dark which is actually called moon for some reason). Syntax highlighting seems a bit broken on my version though.</p>
+
+<h2 id="zen-coding">Zen Coding</h2>
+
+<p>I recently found <a href="https://code.google.com/p/zen-coding/">Zen Coding</a> by looking through the list of plugins in PHPStorm. It's a really nice way of writing html in short hand:
+<code>section>h1.header+p+ul*2</code></p>
+
+<p>turns into:</p>
+
+<p><code class="xml"></p>
+
+<section>
+     <h1 class="header"></h1>
+     <p></p>
+     <ul>
+          <li></li>
+          <li></li>
+     </ul>
+</section>
+
+<p></code></p>
+
+<p>The really clean syntax means that you can easily create skeleton HTML code for layouts. If you couple this with bootstrap then it's even more powerful for prototyping sites.</p>
+
+<p>Overall I'm really happy with the results of my presentation, I'll upload them after next week.</p>
+]]></content>
+        </entry>
+    </feed>

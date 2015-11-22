@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title><![CDATA[Sculpin Blog Skeleton]]></title>
+    <link href="/blog/tags/Code Club.xml" rel="self"/>
+    <link href="/"/>
+    <updated>2015-11-22T18:44:18+00:00</updated>
+    <id>/</id>
+        <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[Code Club Manchester and You!]]></title>
+            <link href="/blog/2014/01/30/code-club-manchester-and-you"/>
+            <updated>2014-01-30T00:00:00+00:00</updated>
+            <id>/blog/2014/01/30/code-club-manchester-and-you</id>
+            <content type="html"><![CDATA[<p>I'm proud to announce that I'll be involved with Code Club Manchester! CTI has graciously sponsored this great initiative. Both me and Paul Johnson have volunteered our time to help steer the Code Club in Manchester and make sure it's as successful as possible.</p>
+
+<p>This is something that I feel really passionate about, it's important that the kids get a real feel for what programming actually is (and not just MS Word and Excel!). This practical experience will help to shape how kids feel and treat IT in the future.</p>
+
+<p>We're planning two events in February that we feel will be really interesting and important for anyone to attend:</p>
+
+<p><a href="http://www.eventbrite.com/e/digital-skills-festival-2014-conference-delegate-registration-tickets-9601954705">Code Club Manchester Launch</a> - 11th February - The official launch event as part of the Digital Skills festival.</p>
+
+<p><a href="http://www.eventbrite.co.uk/e/code-club-in-manchester-a-party-tickets-10118078445">Code Club Manchester Launch Party</a> - 11th February - A party to mark the launch of the Code Club in Manchester.</p>
+
+<p>Please sign up and come and see us!</p>
+
+<h2 id="where-do-you-come-in%3F">Where do you come in?</h2>
+
+<p>Well this is the good bit, we're looking for volunteers, people who are willing to teach and those who are willing to bug their schools and teachers to get the involved with Code Club. We know that kids will be up for it and parents are too but it's important that schools get behind it as well, that's why we need your help. Contact your school, express and interest and sign up at codeclub.org.uk</p>
+
+<h2 id="what%27s-next%3F">What's next?</h2>
+
+<p>After the launch and party on the 11th February we'll be moving into full gear and scheduling our first code club meet ups!</p>
+]]></content>
+        </entry>
+    </feed>

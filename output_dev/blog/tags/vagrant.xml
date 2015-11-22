@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title><![CDATA[Sculpin Blog Skeleton]]></title>
+    <link href="/blog/tags/vagrant.xml" rel="self"/>
+    <link href="/"/>
+    <updated>2015-11-22T18:44:18+00:00</updated>
+    <id>/</id>
+        <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[Vagrant Boxes for Drupal Development]]></title>
+            <link href="/blog/2013/08/10/vagrant-boxes-for-drupal-development"/>
+            <updated>2013-08-10T00:00:00+00:00</updated>
+            <id>/blog/2013/08/10/vagrant-boxes-for-drupal-development</id>
+            <content type="html"><![CDATA[<p>During my time off I figured I'd get my dev environment setup for when I start at CTI.</p>
+
+<p>Using the really great <a href="https://puphpet.com/">puphpet.com</a> I've created two new vagrant configs, the first is for Apache the second is for Nginx.</p>
+
+<h2 id="the-changes">The Changes</h2>
+
+<ul>
+<li>Removed xhprof and dot file support</li>
+<li>Added an easier way to provision new vhosts and dbs.</li>
+<li>Added drush</li>
+</ul>
+
+<h2 id="internals">Internals</h2>
+
+<ul>
+<li>Ubuntu 12.04</li>
+<li>PHP 5.3</li>
+</ul>
+
+<h2 id="usage">Usage</h2>
+
+<p><code>
+git clone git@github.com:digital006/drupaldev-nginx.git
+mkdir sites
+vagrant up
+</code></p>
+
+<h2 id="links">Links</h2>
+
+<p>https://github.com/digital006/drupaldev-nginx</p>
+
+<p>https://github.com/digital006/drupaldev</p>
+
+<p>Hope these are useful to others.</p>
+]]></content>
+        </entry>
+    </feed>

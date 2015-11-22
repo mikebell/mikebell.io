@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title><![CDATA[Sculpin Blog Skeleton]]></title>
+    <link href="/blog/tags/Drupal Sprints Manchester.xml" rel="self"/>
+    <link href="/"/>
+    <updated>2015-11-22T18:44:18+00:00</updated>
+    <id>/</id>
+        <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[Drupal + WordPress Sprints Manchester]]></title>
+            <link href="/blog/2014/07/03/drupal-wordpress-sprints-manchester"/>
+            <updated>2014-07-03T00:00:00+00:00</updated>
+            <id>/blog/2014/07/03/drupal-wordpress-sprints-manchester</id>
+            <content type="html"><![CDATA[<p>I'm proud to announce a new collaboration between the Drupal and WordPress communities in Manchester to provide a space to contribute back to each respective project. It's a great opportunity to get together and work on the projects that we love while being around like minded people.</p>
+
+<p>The first sprint will be on the 19th July at TechHub in Manchester. You can sign up here - http://www.eventbrite.com/e/drupal-wordpress-sprints-manchester-tickets-12157905623 with lunch provided.</p>
+
+<p>I'd like to thank Jenny Wong (<a href="https://twitter.com/miss_jwo">@miss_jwo</a>) for helping to arrange this, I'm really looking forward to making this a long running collaboration between the two communities.</p>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[Drupal Sprints Manchester are back!]]></title>
+            <link href="/blog/2014/04/23/drupal-sprints-manchester-are-back"/>
+            <updated>2014-04-23T00:00:00+00:00</updated>
+            <id>/blog/2014/04/23/drupal-sprints-manchester-are-back</id>
+            <content type="html"><![CDATA[<p>After a long break we’re back and ready to get sprinting again.</p>
+
+<p>I’m looking forward to getting stuck into Drupal 8 migrate in preparation for my talk at Drupal Camp Yorkshire.</p>
+
+<p>More details on the event can be found at http://www.meetup.com/nwdrupal/events/178627442/ don’t forget to read my sprint manifesto <a href="http://mikebell.io/blog/29-01-2014/manchester-drupal-sprint-manifesto-v20">here</a>.</p>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[Manchester Drupal Sprint Manifesto V2.0]]></title>
+            <link href="/blog/2014/01/29/manchester-drupal-sprint-manifesto-v2-0"/>
+            <updated>2014-01-29T00:00:00+00:00</updated>
+            <id>/blog/2014/01/29/manchester-drupal-sprint-manifesto-v2-0</id>
+            <content type="html"><![CDATA[<p>I really enjoy the sprints however there are few issues, some from me and some brought up by others who attend the sprints. I'm hoping to address them. With this in mind here is a revised manifesto for upcoming sprints:</p>
+
+<ol>
+<li>Must have a laptop - it’s there in the meet up description!</li>
+<li>This is not the NWDUG user group - we’re not here for every day Drupal problems, please check the next NWDUG meet up where your questions will be more than welcome.</li>
+<li>Must have a beginners knowledge of git - I’m looking into running Drupal ladder but it’s not there yet.</li>
+<li>Must be ready to delve into a problem and have the tools ready to do so.</li>
+<li>Must have a working copy of Drupal running - this can be Drupal 7 or 8 (assuming HEAD isn’t broken)</li>
+<li>Must be ready to actively contribute and not leech.</li>
+</ol>
+
+<p>It’s important that everyone that comes to the sprints feels like they’re not being imposed on and that everyone gets out what they expect. Ultimately I want everyone to be happy with the sprints. I’ll be linking to this post on every future meetup.com event.</p>
+
+<p>If anyone has any concerns with the above please feel free to contact me.</p>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[Unofficial Social Friday Night - Drupal Camp NW 2013]]></title>
+            <link href="/blog/2013/11/16/unofficial-social-friday-night-drupal-camp-nw-2013"/>
+            <updated>2013-11-16T00:00:00+00:00</updated>
+            <id>/blog/2013/11/16/unofficial-social-friday-night-drupal-camp-nw-2013</id>
+            <content type="html"><![CDATA[<p>On Friday the 22nd there will be sprints at Techhub which run in parallel with the business day at Drupal Camp NW 13. I'm hoping to be there for the sprints pending confirmation of my holiday!</p>
+
+<p>After the sprints/business day it makes sense for everyone to get together and go grab some food and drinks. Since everyone will be around the northern quarter we should make the most of it.</p>
+
+<p>For food/drinks we'll head to A Place Called Common, they serve great burgers and have food suitable for vegetarians (not sure about vegan).</p>
+
+<p>If your not fussed about drinking then next door there is Home Sweet Home which serves a great Pulled Pork and Sweet Potato bowl.</p>
+
+<p>After food and a few drinks we can move on to Odd Bar / Trof / Marble Beer House or head the other way to Port Street Beer House / Whisky Jar / Kosmonoaut (also does food but gets really busy). This is up to you guys, they're all great bars but offer different things.</p>
+
+<p>It's also worth noting that the Manchester Christmas markets will be open which is always good as long as it's not raining (can't promise anything!). The Albert Square (town hall) markets are open till 9pm, they'll be busy but they offer a great atmosphere and come with beer and food.</p>
+
+<p>Let me know in the comments if anyone has any preferences or would like suggestions for anything. Here's a map of some of the venues - http://eatmanc.mikebell.io/</p>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[Drupal Sprints around the World]]></title>
+            <link href="/blog/2013/10/30/drupal-sprints-around-the-world"/>
+            <updated>2013-10-30T00:00:00+00:00</updated>
+            <id>/blog/2013/10/30/drupal-sprints-around-the-world</id>
+            <content type="html"><![CDATA[<p>On the 22nd October Manchester saw it’s very first Drupal Sprint, this was run in parallel with London Sprints.</p>
+
+<p>Regular sprints are now becoming a great way to help out with Drupal Core and Contrib. In the UK there are now two sprints covering London and Manchester. In India there are 3 user groups all sprinting regularly. No doubt there are some in the US and in other countries.</p>
+
+<p>Sprints unlike regular user groups are an ideal place to flex your code knowledge and get your hands dirty. With initiatives such as the Drupal Ladder it’s proving that everyone can contribute in some fashion whether this be via code, documentation or testing. Within the first 30 minutes of Drupal Sprints Manchester we had our first commit to a contributed project (Omega 4) by a first time contributor.</p>
+
+<p>We communicated with London via Google Hangouts where we updated each other on our progress, I know in the past that London has spoken with India an impressive feat considering the time difference.</p>
+
+<p>It’s not out of the realms of possibility to organise a monthly world-wide sprint. The idea being that user groups all over the world organise a sprint for a specific date with the aim of working on core and contrib. I believe this will be possible with a minimal amount of effort as we can offload a lot of the organisation to each user group. Coordination of communication can be done through IRC. It would be a great publicity stunt as well, something that every country could benefit from especially in the run up to Drupal 8 release.</p>
+
+<p>If anyone is interested in a world wide sprint comment below and lets organise something!</p>
+
+<p><strong>Update</strong> - Thanks for the extra information Berdir and YesCT. It's really cool to see the community come together for things like this. Subject to our venue being available Manchester will be ready to sprint on the 25th January.</p>
+]]></content>
+        </entry>
+            <entry>
+            <title type="html"><![CDATA[Drupal Sprints Manchester 26th October]]></title>
+            <link href="/blog/2013/09/27/drupal-sprints-manchester-26th-october"/>
+            <updated>2013-09-27T00:00:00+00:00</updated>
+            <id>/blog/2013/09/27/drupal-sprints-manchester-26th-october</id>
+            <content type="html"><![CDATA[<p>I'm proud to announce Drupal Sprints Manchester (UK). Last year at Drupal Camp NW I spoke with various other northern Drupalers and decided that we should get together and attempt to emulate Drupal Sprints London.</p>
+
+<p>The format is simple, Drupal developers / themers / builders get to together and work on Drupal core and contrib.</p>
+
+<p>My aim is to provide a space where people can get together and get stuck in working on Drupal and giving back to the community in the form of code, all that's required is a laptop with an development stack and your brain.</p>
+
+<p>The first meetup will be held on the 26th October at Techhub in Manchester more details can be found here - http://www.meetup.com/nwdrupal/events/142003462/</p>
+
+<p>If you intend on coming then please sign up so we have a good idea of the numbers.</p>
+
+<p>Please help spread the word!</p>
+]]></content>
+        </entry>
+    </feed>
