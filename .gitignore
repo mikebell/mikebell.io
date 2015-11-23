@@ -50,3 +50,5 @@ files
 settings.php
 
 output_dev
+source/css/style.css
+.sass-cache
