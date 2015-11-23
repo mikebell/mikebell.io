@@ -50,7 +50,71 @@
     <body>
         <div class="container-fluid">
             <div class="col-md-2">
-                <p>Sidebar</p>
+                <aside class="cover animated">
+
+                    <div class="cover container animated">
+                        <div class="profile">
+                            <a href="http://mikebell.io/#open" title="link to homepage for mikebell.io - Blog and Stuff" id="avatar-link">
+                                <img class="profile avatar hvr-buzz-out" alt="mikebell.io - Blog and Stuff avatar" src="/content/images/2015/07/9b956ef94407e518f026ebc6860ee986.jpeg">
+                                <h1>Mike Bell - Blog &amp; Stuff</h1>
+                                <h3 id="profile-resume">Developer</h3>
+                            </a>
+
+                            <hr class="divider long">
+                            <p>Developer, Tinkerer, Coder, Hacker, Fiance.
+
+                                Powered by coffee and whisky.
+
+                                Views are my own.</p>
+                            <hr class="divider short">
+                            <div class="navigation">
+                                <div class="profile contact">
+                                    <nav class="navigation left">
+                                        <ul class="links">
+                                            <li class="links item">
+                                                <a id="blog-button" title="link to mikebell.io - Blog and Stuff blog" class="link-item" href="/#open">Blog</a>
+                                                <a id="tags-button" title="" class="link-item" href="/about">About</a>
+                                                <a id="tags-button" title="" class="link-item" href="/me-web">Me On The Web</a>
+                                                <a id="tags-button" title="" class="link-item" href="/speaking">Speaking</a>
+                                                <a id="contact-button" title="" class="link-item" href="mailto:hello@mikebell.io?subject=Hello!">Contact</a>
+                                            </li>
+                                        </ul>
+                                    </nav>
+
+                                    <nav class="navigation right">
+                                        <ul class="social expanded">
+
+                                            <!-- Twitter -->
+                                            <li class="social item hvr-grow-rotate">
+                                                <a title="@mikebell_ on Twitter" href="http://twitter.com/mikebell_" target="blank">
+                                                    <i class="icon icon-social-twitter"></i>
+                                                    <span class="label">Twitter</span>
+                                                </a>
+                                            </li>
+
+                                            <!-- Github -->
+                                            <li class="social item hvr-grow-rotate">
+                                                <a title="mikebell on Github" href="https://github.com/mikebell" target="blank">
+                                                    <i class="icon icon-social-github"></i>
+                                                    <span class="label">Github</span>
+                                                </a>
+                                            </li>
+
+                                            <!-- RSS -->
+                                            <li class="social item hvr-grow-rotate">
+                                                <a title="Subscribe to RSS" href="/rss/">
+                                                    <i class="icon icon-rss"></i>
+                                                    <span class="label">RSS</span>
+                                                </a>
+                                            </li>
+
+                                        </ul>
+                                    </nav>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </aside>
             </div>
             <div class="col-md-10">
                 <div class="">
@@ -58,7 +122,7 @@
                 </div>
             </div>
         </div>
-        <footer class="container">
+        <footer class="container-fluid">
             &copy; {{ "now"|date("Y") }} {{ site.title }}
         </footer>
 
