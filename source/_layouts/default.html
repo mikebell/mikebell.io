@@ -1,152 +1,170 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>{% block title %}{{ page.title }}{% endblock %} &mdash; {{ site.title }} &mdash; {{ site.subtitle }}</title>
-        <meta charset="utf-8">
-        <meta name="theme-color" content="#ffffff">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        {% block head_meta %}
-            <meta name="robots" content="noindex, follow">
-        {% endblock %}
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" integrity="sha384-aUGj/X2zp5rLCbBxumKTCw2Z50WgIr1vs/PFN4praOTvYXWlVyh2UtNUU0KAUhAX" crossorigin="anonymous">
-        <link href="{{ site.url }}/css/style.css" rel="stylesheet" type="text/css" />
-        <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-        <!--[if lt IE 9]>
-            <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-        <![endif]-->
+<head>
+    <title>{% block title %}{{ page.title }}{% endblock %} &mdash; {{ site.title }} &mdash; {{ site.subtitle }}</title>
+    <meta charset="utf-8">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% block head_meta %}
+    <meta name="robots" content="noindex, follow">
+    {% endblock %}
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"
+          integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ=="
+          crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css"
+          integrity="sha384-aUGj/X2zp5rLCbBxumKTCw2Z50WgIr1vs/PFN4praOTvYXWlVyh2UtNUU0KAUhAX" crossorigin="anonymous">
+    <link href="{{ site.url }}/css/style.css" rel="stylesheet" type="text/css"/>
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
 
-        <link rel="apple-touch-startup-image" href="{{ site.url }}/images/jackson/2048x2048.png">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <link rel="shortcut icon" sizes="76x76" href="{{ site.url }}/images/jackson/76x76.png">
-        <link rel="shortcut icon" sizes="120x120" href="{{ site.url }}/images/jackson/120x120.png">
-        <link rel="shortcut icon" sizes="128x128" href="{{ site.url }}/images/jackson/128x128.png">
-        <link rel="shortcut icon" sizes="152x152" href="{{ site.url }}/images/jackson/152x152.png">
-        <link rel="shortcut icon" sizes="196x196" href="{{ site.url }}/images/jackson/196x196.png">
-        <link rel="shortcut icon" sizes="512x512" href="{{ site.url }}/images/jackson/512x512.png">
-        <link rel="shortcut icon" sizes="1024x1024" href="{{ site.url }}/images/jackson/1024x1024.png">
-        <link rel="shortcut icon" sizes="2048x2048" href="{{ site.url }}/images/jackson/2048x2048.png">
-        <link rel="apple-touch-icon" sizes="76x76" href="{{ site.url }}/images/jackson/76x76.png">
-        <link rel="apple-touch-icon" sizes="120x120" href="{{ site.url }}/images/jackson/120x120.png">
-        <link rel="apple-touch-icon" sizes="128x128" href="{{ site.url }}/images/jackson/128x128.png">
-        <link rel="apple-touch-icon" sizes="152x152" href="{{ site.url }}/images/jackson/152x152.png">
-        <link rel="apple-touch-icon" sizes="196x196" href="{{ site.url }}/images/jackson/196x196.png">
-        <link rel="apple-touch-icon" sizes="512x512" href="{{ site.url }}/images/jackson/512x512.png">
-        <link rel="apple-touch-icon" sizes="1024x1024" href="{{ site.url }}/images/jackson/1024x1024.png">
-        <link rel="apple-touch-icon" sizes="2048x2048" href="{{ site.url }}/images/jackson/2048x2048.png">
+    <link rel="apple-touch-startup-image" href="{{ site.url }}/images/jackson/2048x2048.png">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <link rel="shortcut icon" sizes="76x76" href="{{ site.url }}/images/jackson/76x76.png">
+    <link rel="shortcut icon" sizes="120x120" href="{{ site.url }}/images/jackson/120x120.png">
+    <link rel="shortcut icon" sizes="128x128" href="{{ site.url }}/images/jackson/128x128.png">
+    <link rel="shortcut icon" sizes="152x152" href="{{ site.url }}/images/jackson/152x152.png">
+    <link rel="shortcut icon" sizes="196x196" href="{{ site.url }}/images/jackson/196x196.png">
+    <link rel="shortcut icon" sizes="512x512" href="{{ site.url }}/images/jackson/512x512.png">
+    <link rel="shortcut icon" sizes="1024x1024" href="{{ site.url }}/images/jackson/1024x1024.png">
+    <link rel="shortcut icon" sizes="2048x2048" href="{{ site.url }}/images/jackson/2048x2048.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="{{ site.url }}/images/jackson/76x76.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="{{ site.url }}/images/jackson/120x120.png">
+    <link rel="apple-touch-icon" sizes="128x128" href="{{ site.url }}/images/jackson/128x128.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="{{ site.url }}/images/jackson/152x152.png">
+    <link rel="apple-touch-icon" sizes="196x196" href="{{ site.url }}/images/jackson/196x196.png">
+    <link rel="apple-touch-icon" sizes="512x512" href="{{ site.url }}/images/jackson/512x512.png">
+    <link rel="apple-touch-icon" sizes="1024x1024" href="{{ site.url }}/images/jackson/1024x1024.png">
+    <link rel="apple-touch-icon" sizes="2048x2048" href="{{ site.url }}/images/jackson/2048x2048.png">
 
-        <link rel="stylesheet" href="{{ site.url }}/components/highlightjs/styles/github.css" />
-        <link rel="alternate" type="application/atom+xml" href="{{ site.url }}/atom.xml" title="{{ site.title }} activity feed" />
-        <style>
+    <link rel="stylesheet" href="{{ site.url }}/components/highlightjs/styles/github.css"/>
+    <link rel="alternate" type="application/atom+xml" href="{{ site.url }}/atom.xml"
+          title="{{ site.title }} activity feed"/>
+    <style>
         /** quick fix because bootstrap <pre> has a background-color. */
-        pre code { background-color: inherit; }
-        </style>
-        {% block head_styles %}
-        {% endblock %}
-        {% block head_scripts %}
-        {% endblock %}
-    </head>
-    <body>
-        <div class="container-fluid">
-            <div class="col-md-2">
-                <aside class="cover">
-                    <div>
-                        <div class="profile">
-                            <a href="http://mikebell.io/#open" title="link to homepage for mikebell.io - Blog and Stuff" id="avatar-link">
-                                <img class="profile avatar hvr-buzz-out" alt="mikebell.io - Blog and Stuff avatar" src="http://en.gravatar.com/userimage/19496771/9b956ef94407e518f026ebc6860ee986.jpeg">
-                                <h1>Mike Bell - Blog &amp; Stuff</h1>
-                                <h3 id="profile-resume">Developer</h3>
-                            </a>
+        pre code {
+            background-color: inherit;
+        }
+    </style>
+    {% block head_styles %}
+    {% endblock %}
+    {% block head_scripts %}
+    {% endblock %}
+</head>
+<body>
+<div class="container-fluid">
+    <div class="col-md-2">
+        <aside class="cover">
+            <div class="profile">
+                <a href="http://mikebell.io/#open" title="link to homepage for mikebell.io - Blog and Stuff"
+                   id="avatar-link">
+                    <img class="profile avatar hvr-buzz-out" alt="mikebell.io - Blog and Stuff avatar"
+                         src="http://en.gravatar.com/userimage/19496771/9b956ef94407e518f026ebc6860ee986.jpeg">
 
-                            <hr class="divider long">
-                            <p>Developer, Tinkerer, Coder, Hacker, Fiance.
+                    <h1>Mike Bell - Blog &amp; Stuff</h1>
 
-                                Powered by coffee and whisky.
+                    <h3 id="profile-resume">Developer</h3>
+                </a>
 
-                                Views are my own.</p>
-                            <hr class="divider short">
-                            <div class="navigation">
-                                <div class="profile contact">
-                                    <nav class="navigation left">
-                                        <ul class="links">
-                                            <li class="links item">
-                                                <a title="link to mikebell.io - Blog and Stuff blog" class="link-item" href="/#open">Blog</a>
-                                                <a title="link to more about me" class="link-item" href="/about">About</a>
-                                                <a title="link to me around the web" class="link-item" href="/me-web">Me On The Web</a>
-                                                <a title="link to my talks" class="link-item" href="/speaking">Speaking</a>
-                                                <a title="link to my email address" class="link-item" href="mailto:hello@mikebell.io?subject=Hello!">Contact</a>
-                                            </li>
-                                        </ul>
-                                    </nav>
+                <hr class="divider long">
+                <p>Developer, Tinkerer, Coder, Hacker, Fiance.
+                    Powered by coffee and whisky.
+                    Views are my own.</p>
+                <hr class="divider short">
+                <div class="navigation">
+                    <div class="profile contact">
+                        <nav class="navigation left">
+                            <ul class="links">
+                                <li class="links item">
+                                    <a title="link to mikebell.io - Blog and Stuff blog" class="link-item"
+                                       href="/#open">Blog</a>
+                                    <a title="link to more about me" class="link-item" href="/about">About</a>
+                                    <a title="link to me around the web" class="link-item" href="/me-web">Me On The
+                                        Web</a>
+                                    <a title="link to my talks" class="link-item" href="/speaking">Speaking</a>
+                                    <a title="link to my email address" class="link-item"
+                                       href="mailto:hello@mikebell.io?subject=Hello!">Contact</a>
+                                </li>
+                            </ul>
+                        </nav>
 
-                                    <nav class="navigation right">
-                                        <ul class="social expanded">
+                        <nav class="navigation right">
+                            <ul class="social expanded">
 
-                                            <!-- Twitter -->
-                                            <li class="social item hvr-grow-rotate">
-                                                <a title="@mikebell_ on Twitter" href="http://twitter.com/mikebell_" target="blank">
-                                                    <i class="icon icon-social-twitter"></i>
-                                                    <span class="label">Twitter</span>
-                                                </a>
-                                            </li>
+                                <!-- Twitter -->
+                                <li class="social item hvr-grow-rotate">
+                                    <a title="@mikebell_ on Twitter" href="http://twitter.com/mikebell_" target="blank">
+                                        <i class="icon icon-social-twitter"></i>
+                                        <span class="label">Twitter</span>
+                                    </a>
+                                </li>
 
-                                            <!-- Github -->
-                                            <li class="social item hvr-grow-rotate">
-                                                <a title="mikebell on Github" href="https://github.com/mikebell" target="blank">
-                                                    <i class="icon icon-social-github"></i>
-                                                    <span class="label">Github</span>
-                                                </a>
-                                            </li>
+                                <!-- Github -->
+                                <li class="social item hvr-grow-rotate">
+                                    <a title="mikebell on Github" href="https://github.com/mikebell" target="blank">
+                                        <i class="icon icon-social-github"></i>
+                                        <span class="label">Github</span>
+                                    </a>
+                                </li>
 
-                                            <!-- RSS -->
-                                            <li class="social item hvr-grow-rotate">
-                                                <a title="Subscribe to RSS" href="/rss/">
-                                                    <i class="icon icon-rss"></i>
-                                                    <span class="label">RSS</span>
-                                                </a>
-                                            </li>
+                                <!-- RSS -->
+                                <li class="social item hvr-grow-rotate">
+                                    <a title="Subscribe to RSS" href="/rss/">
+                                        <i class="icon icon-rss"></i>
+                                        <span class="label">RSS</span>
+                                    </a>
+                                </li>
 
-                                        </ul>
-                                    </nav>
-                                </div>
-                            </div>
-                        </div>
+                            </ul>
+                        </nav>
                     </div>
-                </aside>
-            </div>
-            <div class="col-md-10">
-                <div class="">
-                    {% block content_wrapper %}{% block content %}{% endblock %}{% endblock %}
                 </div>
             </div>
+        </aside>
+    </div>
+    <div class="col-md-10">
+        <div class="">
+            {% block content_wrapper %}{% block content %}{% endblock %}{% endblock %}
         </div>
-        <footer class="container-fluid">
-            &copy; {{ "now"|date("Y") }} {{ site.title }}
-        </footer>
+    </div>
+</div>
+<footer class="container-fluid">
+    &copy; {{ "now"|date("Y") }} {{ site.title }}
+</footer>
 
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="{{ site.url }}/components/jquery/jquery.min.js"><\/script>')</script>
-        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
-        {% block scripts %}
-        {% endblock %}
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="{{ site.url }}/components/jquery/jquery.min.js"><\/script>')</script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"
+        integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ=="
+        crossorigin="anonymous"></script>
+{% block scripts %}
+{% endblock %}
 
-        {% if site.google_analytics_tracking_id %}
+{% if site.google_analytics_tracking_id %}
 
-        <script type="text/javascript">
-            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+<script type="text/javascript">
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments)
+                }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-            ga('create', '{{site.google_analytics_tracking_id}}', 'auto');
-            ga('send', 'pageview');
-        </script>
-        {% endif %}
-        <script src="{{ site.url }}/components/highlightjs/highlight.pack.js"></script>
-        <script>hljs.initHighlightingOnLoad();</script>
+    ga('create', '{{site.google_analytics_tracking_id}}', 'auto');
+    ga('send', 'pageview');
+</script>
+{% endif %}
+<script src="{{ site.url }}/components/highlightjs/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
 
-        {% block scripts_after %}
-        {% endblock %}
-    </body>
+{% block scripts_after %}
+{% endblock %}
+</body>
 </html>
