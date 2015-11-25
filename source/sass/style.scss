@@ -1,3 +1,13 @@
-body {
-  background-color: black;
+div.container-fluid {
+  padding-left: 0;
+  div:first-child {
+    padding-left: 0;
+  }
+}
+
+.profile > a > img {
+  width: 7rem;
+  border: 2px solid #24BFCF;
+  border-radius: 50%;
+  box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 0.3);
 }
