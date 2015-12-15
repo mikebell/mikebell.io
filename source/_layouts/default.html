@@ -3,46 +3,21 @@
 <head>
     <title>{% block title %}{{ page.title }}{% endblock %} &mdash; {{ site.title }} &mdash; {{ site.subtitle }}</title>
     <meta charset="utf-8">
-    <meta name="theme-color" content="#ffffff">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {% block head_meta %}
     <meta name="robots" content="noindex, follow">
     {% endblock %}
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"
-          crossorigin="anonymous">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css"
-          crossorigin="anonymous">
-    <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab' rel='stylesheet' type='text/css'>
-    <link href="{{ site.url }}/css/style.css" rel="stylesheet" type="text/css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet" type="text/css">
+    <link href="{{ site.url }}/css/style.css" rel="stylesheet" type="text/css">
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-
-    <link rel="apple-touch-startup-image" href="{{ site.url }}/images/jackson/2048x2048.png">
-    <meta name="mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <link rel="shortcut icon" sizes="76x76" href="{{ site.url }}/images/jackson/76x76.png">
-    <link rel="shortcut icon" sizes="120x120" href="{{ site.url }}/images/jackson/120x120.png">
-    <link rel="shortcut icon" sizes="128x128" href="{{ site.url }}/images/jackson/128x128.png">
-    <link rel="shortcut icon" sizes="152x152" href="{{ site.url }}/images/jackson/152x152.png">
-    <link rel="shortcut icon" sizes="196x196" href="{{ site.url }}/images/jackson/196x196.png">
-    <link rel="shortcut icon" sizes="512x512" href="{{ site.url }}/images/jackson/512x512.png">
-    <link rel="shortcut icon" sizes="1024x1024" href="{{ site.url }}/images/jackson/1024x1024.png">
-    <link rel="shortcut icon" sizes="2048x2048" href="{{ site.url }}/images/jackson/2048x2048.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="{{ site.url }}/images/jackson/76x76.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="{{ site.url }}/images/jackson/120x120.png">
-    <link rel="apple-touch-icon" sizes="128x128" href="{{ site.url }}/images/jackson/128x128.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="{{ site.url }}/images/jackson/152x152.png">
-    <link rel="apple-touch-icon" sizes="196x196" href="{{ site.url }}/images/jackson/196x196.png">
-    <link rel="apple-touch-icon" sizes="512x512" href="{{ site.url }}/images/jackson/512x512.png">
-    <link rel="apple-touch-icon" sizes="1024x1024" href="{{ site.url }}/images/jackson/1024x1024.png">
-    <link rel="apple-touch-icon" sizes="2048x2048" href="{{ site.url }}/images/jackson/2048x2048.png">
-
-    <link rel="stylesheet" href="{{ site.url }}/components/highlightjs/styles/github.css"/>
-    <link rel="alternate" type="application/atom+xml" href="{{ site.url }}/atom.xml"
-          title="{{ site.title }} activity feed"/>
+    <link rel="stylesheet" href="{{ site.url }}/components/highlightjs/styles/github.css">
+    <link rel="alternate" type="application/atom+xml" href="{{ site.url }}/atom.xml" title="{{ site.title }} activity feed">
     <style>
         /** quick fix because bootstrap <pre> has a background-color. */
         pre code {
@@ -53,20 +28,46 @@
     {% endblock %}
     {% block head_scripts %}
     {% endblock %}
-</head>
+<link rel="icon" type="image/png" sizes="192x192" href="images/favicon/android-chrome-192x192.png">
+<link rel="manifest" href="images/favicon/manifest.json">
+<meta name="mobile-web-app-capable" content="yes">
+<link rel="yandex-tableau-widget" href="images/favicon/yandex-browser-manifest.json">
+<meta name="msapplication-TileColor" content="#FFFFFF">
+<meta name="msapplication-TileImage" content="images/favicon/mstile-144x144.png">
+<meta name="msapplication-config" content="images/favicon/browserconfig.xml">
+<link rel="apple-touch-icon" sizes="114x114" href="images/favicon/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="images/favicon/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="images/favicon/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="images/favicon/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-touch-icon-180x180.png">
+<link rel="apple-touch-icon" sizes="57x57" href="images/favicon/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="images/favicon/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="images/favicon/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="images/favicon/apple-touch-icon-76x76.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<link rel="icon" type="image/png" sizes="16x16" href="images/favicon/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="230x230" href="images/favicon/favicon-230x230.png">
+<link rel="icon" type="image/png" sizes="32x32" href="images/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="images/favicon/favicon-96x96.png">
+<link rel="shortcut icon" href="images/favicon/favicon.ico?v3">
+<meta property="twitter:image" content="images/favicon/twitter.png">
+<meta property="og:image" content="images/favicon/open-graph.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 1)" href="images/favicon/apple-touch-startup-image-1024x748.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)" href="images/favicon/apple-touch-startup-image-1536x2008.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)" href="images/favicon/apple-touch-startup-image-2048x1496.png">
+<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)" href="images/favicon/apple-touch-startup-image-320x460.png">
+<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" href="images/favicon/apple-touch-startup-image-640x1096.png">
+<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)" href="images/favicon/apple-touch-startup-image-640x920.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 1)" href="images/favicon/apple-touch-startup-image-768x1004.png"></head>
 <body>
 <div class="container-fluid">
     <div class="row">
         <div class="col-md-3 sidebar">
             <aside class="profile">
-                <a href="/" title="link to homepage for mikebell.io - Blog and Stuff"
-                   id="avatar-link">
-                    <img class="profile avatar hvr-buzz-out" alt="mikebell.io - Blog and Stuff avatar"
-                         src="http://en.gravatar.com/userimage/19496771/9b956ef94407e518f026ebc6860ee986.jpeg">
-
+                <a href="/" title="link to homepage for mikebell.io - Blog and Stuff" id="avatar-link">
+                    <img class="profile avatar hvr-buzz-out" alt="mikebell.io - Blog and Stuff avatar" src="http://en.gravatar.com/userimage/19496771/9b956ef94407e518f026ebc6860ee986.jpeg">
                     <h1>Mike Bell - Blog &amp; Stuff</h1>
                 </a>
-
                 <hr class="divider long">
                 <p>Developer, Tinkerer, Coder, Hacker, Fiance.
                     Powered by coffee and whisky.
@@ -80,14 +81,11 @@
                                 <li><a title="link to me around the web" class="link-item" href="/me-web">Me On The
                                     Web</a></li>
                                 <li><a title="link to my talks" class="link-item" href="/speaking">Speaking</a></li>
-                                <li><a title="link to my email address" class="link-item"
-                                       href="mailto:hello@mikebell.io?subject=Hello!">Contact</a></li>
+                                <li><a title="link to my email address" class="link-item" href="mailto:hello@mikebell.io?subject=Hello!">Contact</a></li>
                             </ul>
                         </nav>
-
                         <nav class="secondary-links">
                             <ul class="social expanded">
-
                                 <!-- Twitter -->
                                 <li class="social item hvr-grow-rotate">
                                     <a title="@mikebell_ on Twitter" href="http://twitter.com/mikebell_" target="blank">
@@ -95,7 +93,6 @@
                                         <span class="label">Twitter</span>
                                     </a>
                                 </li>
-
                                 <!-- Github -->
                                 <li class="social item hvr-grow-rotate">
                                     <a title="mikebell on Github" href="https://github.com/mikebell" target="blank">
@@ -103,7 +100,6 @@
                                         <span class="label">Github</span>
                                     </a>
                                 </li>
-
                                 <!-- RSS -->
                                 <li class="social item hvr-grow-rotate">
                                     <a title="Subscribe to RSS" href="/rss/">
@@ -111,7 +107,6 @@
                                         <span class="label">RSS</span>
                                     </a>
                                 </li>
-
                             </ul>
                         </nav>
                         <footer>
@@ -121,23 +116,17 @@
                 </div>
             </aside>
         </div>
-
         <div class="col-md-9 col-md-offset-3 content">
             {% block content_wrapper %}{% block content %}{% endblock %}{% endblock %}
         </div>
-
     </div>
 </div>
-
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="{{ site.url }}/components/jquery/jquery.min.js"><\/script>')</script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"
-        crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" crossorigin="anonymous"></script>
 {% block scripts %}
 {% endblock %}
-
 {% if site.google_analytics_tracking_id %}
-
 <script type="text/javascript">
     (function (i, s, o, g, r, a, m) {
         i['GoogleAnalyticsObject'] = r;
@@ -150,7 +139,6 @@
         a.src = g;
         m.parentNode.insertBefore(a, m)
     })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-
     ga('create', '{{site.google_analytics_tracking_id}}', 'auto');
     ga('send', 'pageview');
 </script>
