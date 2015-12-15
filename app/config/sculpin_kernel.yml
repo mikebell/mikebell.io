@@ -3,4 +3,4 @@ sculpin_content_types:
         permalink: :filename/
 
 sculpin:
-    ignore: ["node_modules/**", "sass/**"]
+    ignore: ["node_modules/**", "sass/**", "gulpfile.js", "config.rb", "package.json"]
