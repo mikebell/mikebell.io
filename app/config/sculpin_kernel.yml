@@ -1,3 +1,6 @@
 sculpin_content_types:
     posts:
         permalink: :filename/
+
+sculpin:
+    ignore: ["node_modules/**", "sass/**"]

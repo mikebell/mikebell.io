@@ -1,13 +1,128 @@
-div.container-fluid {
-  padding-left: 0;
-  div:first-child {
-    padding-left: 0;
+$darkgrey: #333;
+$lightgrey: #999;
+$lightblue: #24BFCF;
+
+html {
+  font-size: 1rem;
+}
+
+html, body, .container-fluid, .row {
+  height: 100%;
+  a:hover {
+    color: $lightblue;
+    transition: all 300ms ease 0s;
+    text-decoration: none;
+  }
+  .content {
+    color: $lightgrey;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 0.8rem;
+    h1 {
+      font-family: Roboto Slab, serif;
+      font-size: 1.6rem;
+      color: $darkgrey;
+    }
   }
 }
 
-.profile > a > img {
-  width: 7rem;
-  border: 2px solid #24BFCF;
-  border-radius: 50%;
-  box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 0.3);
+.profile {
+  color: #fff;
+  text-align: center;
+  font-family: Raleway, serif;
+  a > img {
+    border: 2px solid $lightblue;
+    border-radius: 50%;
+    box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 0.3);
+    text-align: center;
+  }
+  a > h1 {
+    color: #fff;
+    font-size: 1.6rem;
+  }
+  p {
+    font-size: 0.7rem;
+  }
+  .link-item {
+    float: none;
+    padding: 0.5rem 1.25rem;
+    display: block;
+    font-size: 0.9em;
+    color: #F8F8F8;
+    opacity: 0.8;
+  }
+  ul {
+    padding-left: 0;
+  }
+  .primary-links li {
+    line-height: 1em;
+    list-style-type: none;
+  }
+  .secondary-links li {
+    list-style-type: none;
+    display: inline;
+  }
+}
+
+body {
+  font-family: Raleway, serif;
+  h2 {
+    font-family: Roboto Slab, serif;
+    font-size: 1.6rem;
+  }
+}
+
+article {
+
+
+  a {
+    color: $darkgrey;
+  }
+  h2 {
+    color: $darkgrey;
+  }
+  h2 > a {
+    text-decoration: none;
+  }
+  h2 > a:hover {
+    color: $lightblue;
+    transition: all 300ms ease 0s;
+    text-decoration: none;
+  }
+  ul {
+    padding-left: 0;
+    li {
+      list-style-type: none;
+    }
+  }
+  .post-details {
+    margin-bottom: 10px;
+    div {
+      display: inline;
+    }
+  }
+}
+
+#avatar-link {
+  text-align: center;
+}
+
+.sidebar {
+  padding-top: 20px;
+  background: linear-gradient(150deg, rgba(19, 106, 138, 0.65) 30%, rgba(38, 120, 113, 0.44) 70%) repeat fixed 0px 0px / cover , transparent url("/images/cover.jpg") no-repeat fixed center center / cover;
+  .divider {
+    margin: 10px auto;
+    border-top: 1px solid rgba(255, 255, 255, 0.14);
+  }
+}
+
+@media (min-width: 992px) {
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 1000;
+    display: block;
+  }
 }

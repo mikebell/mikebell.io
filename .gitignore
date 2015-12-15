@@ -52,3 +52,5 @@ settings.php
 output_dev
 source/css/style.css
 .sass-cache
+source/node_modules
+source/.gulp-scss-cache

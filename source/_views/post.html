@@ -7,9 +7,13 @@
 {% block content_wrapper %}
     <article>
         <header>
-            <h2>{{ page.title }} <small>post</small></h2>
+            <h2>{{ page.title }}</h2>
         </header>
-        <div>
+        <div class="post-details">
+            <div class="post-date">{{ page.date|date('jS F Y') }} - </div>
+            <div class="eta"></div>
+        </div>
+        <div class="article-content">
             {{ page.blocks.content|raw }}
         </div>
         {% if page.categories %}
