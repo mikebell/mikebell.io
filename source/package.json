@@ -16,6 +16,7 @@
     "gulp-sass": "^2.1.1",
     "gulp-sourcemaps": "^1.6.0",
     "mkdirp": "^0.5.1",
+    "npmconf": "^2.1.2",
     "tiny-lr": "^0.2.1"
   },
   "devDependencies": {
