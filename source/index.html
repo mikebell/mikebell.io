@@ -13,10 +13,9 @@ use:
             <h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
         </header>
         <div>
-            <!--{{ post.blocks.content|raw }}-->
-            <p>{{ post.blocks.content|raw|split(' ')|slice(0,75)|join(' ')|replace({ 'h2':'h3' })|raw }} &hellip;</p>
+            {{ post.blocks.content|raw|split(' ')|slice(0,100)|join(' ')|raw }}
 
-            <a href="{{ post.url }}">Read more &rarr;</a>
+            <p><a href="{{ post.url }}">Read more</a></p>
         </div>
         {% if post.meta.tags %}
             <p class="tags">

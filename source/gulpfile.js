@@ -6,6 +6,37 @@ var sourcemaps = require('gulp-sourcemaps');
 var html5Lint = require('gulp-html5-lint');
 var favicons = require("gulp-favicons");
 
+var EXPRESS_PORT = 4000;
+var EXPRESS_ROOT = '../output_dev';
+var LIVERELOAD_PORT = 35729;
+
+function startExpress() {
+    var express = require('express');
+    var app = express();
+    app.use(require('connect-livereload')());
+    app.use(express.static(EXPRESS_ROOT));
+    app.listen(EXPRESS_PORT);
+}
+
+var lr;
+function startLivereload() {
+    lr = require('tiny-lr')();
+    lr.listen(LIVERELOAD_PORT);
+}
+
+function notifyLivereload(event) {
+
+    // `gulp.watch()` events provide an absolute path
+    // so we need to make it relative to the server root
+    var fileName = require('path').relative(EXPRESS_ROOT, event.path);
+
+    lr.changed({
+        body: {
+            files: [fileName]
+        }
+    });
+}
+
 gulp.task('default', function() {
 
 });
@@ -34,7 +65,7 @@ gulp.task('favicon', function() {
         developerName: "Mike Bell",
         developerURL: "http://mikebell.io",
         background: "#ffffff",
-        path: "images/favicon/",
+        path: "",
         url: "http://mikebell.io/",
         display: "standalone",
         orientation: "portrait",
@@ -43,4 +74,11 @@ gulp.task('favicon', function() {
         online: false,
         html: "_layouts/default.html"
     })).pipe(gulp.dest("./"));
+});
+
+gulp.task('server', function() {
+    startExpress();
+    startLivereload();
+    gulp.watch('*.html', notifyLivereload);
+    gulp.watch('*.css', notifyLivereload);
 });
