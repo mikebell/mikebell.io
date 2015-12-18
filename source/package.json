@@ -17,6 +17,7 @@
     "gulp-sourcemaps": "^1.6.0",
     "mkdirp": "^0.5.1",
     "npmconf": "^2.1.2",
+    "request": "^2.67.0",
     "tiny-lr": "^0.2.1"
   },
   "devDependencies": {
