@@ -4,12 +4,9 @@ $lightblue: #24BFCF;
 
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,700|Roboto+Slab:300,400);
 
-html {
-  font-size: 1rem;
-}
-
 html, body, .container-fluid, .row {
   height: 100%;
+  font-size: 1rem;
   a:hover {
     color: $lightblue;
     transition: all 300ms ease 0s;
