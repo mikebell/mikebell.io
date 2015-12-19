@@ -6,8 +6,11 @@ tags:
 The past three weeks have been crazy.
 
 Week 1 - Barcelona
+
 Week 2 - Packing house
+
 Week 3 - PHPNW
+
 Now - Moved in
 
 So lets just recap, I keynoted at Barcelona, packed up my flat, spoke at PHPNW and then moved house the day after.
