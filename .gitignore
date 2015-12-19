@@ -55,3 +55,4 @@ source/css/style.css
 source/node_modules
 source/.gulp-scss-cache
 /vendor/
+dist

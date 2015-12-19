@@ -5,6 +5,7 @@ var sass = require('gulp-sass');
 var sourcemaps = require('gulp-sourcemaps');
 var html5Lint = require('gulp-html5-lint');
 var favicons = require("gulp-favicons");
+var uglifycss = require('gulp-uglifycss');
 
 var EXPRESS_PORT = 4000;
 var EXPRESS_ROOT = '../output_dev';
@@ -51,6 +52,14 @@ gulp.task('sass', function() {
 
 gulp.task('sass:watch', function () {
     gulp.watch('./sass/*.scss', ['sass']);
+});
+
+gulp.task('uglify', function() {
+    gulp.src('./css/*.css')
+        .pipe(uglifycss({
+            "max-line-len": 80
+        }))
+        .pipe(gulp.dest('./dist/css/'));
 });
 
 gulp.task('html5-lint', function() {
