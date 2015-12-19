@@ -6,13 +6,14 @@
 
 {% block content_wrapper %}
     <article>
-        <header>
+        <header class="header-post">
             <h2>{{ page.title }}</h2>
         </header>
         <div class="post-details">
             <div class="post-date">{{ page.date|date('jS F Y') }} - </div>
             <div class="eta"></div>
         </div>
+        <hr class="divider">
         <div class="article-content">
             {{ page.blocks.content|raw }}
         </div>
@@ -36,11 +37,11 @@
         {% if page.previous_post or page.next_post %}
             <nav class="article">
                 <ul>
+                    {% if page.previous_post %}
+                    <li>Previous: <a class="previous" href="{{ site.url }}{{ page.previous_post.url }}" title="{{ page.previous_post.title }}"><span class="title">{{ page.previous_post.title }}</span></a></li>
+                    {% endif %}
                     {% if page.next_post %}
                         <li>Next: <a class="next" href="{{ site.url }}{{ page.next_post.url }}" title="{{ page.next_post.title }}"><span class="title">{{ page.next_post.title }}</span></a></li>
-                    {% endif %}
-                    {% if page.previous_post %}
-                        <li>Previous: <a class="previous" href="{{ site.url }}{{ page.previous_post.url }}" title="{{ page.previous_post.title }}"><span class="title">{{ page.previous_post.title }}</span></a></li>
                     {% endif %}
                 </ul>
             </nav>

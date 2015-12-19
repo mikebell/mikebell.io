@@ -1,6 +1,8 @@
 $darkgrey: #333;
-$lightgrey: #999;
+$lightgrey: #707070;
 $lightblue: #24BFCF;
+
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,700|Roboto+Slab:300,400);
 
 html {
   font-size: 1rem;
@@ -18,11 +20,15 @@ html, body, .container-fluid, .row {
     padding-left: 4rem;
     padding-right: 4rem;
     padding-top: 2rem;
+    padding-bottom: 4rem;
     font-size: 0.8rem;
     h1 {
       font-family: Roboto Slab, serif;
       font-size: 1.6rem;
       color: $darkgrey;
+    }
+    h3 {
+      font-size: 1.3rem;
     }
   }
 }
@@ -42,7 +48,7 @@ html, body, .container-fluid, .row {
     font-size: 1.6rem;
   }
   p {
-    font-size: 0.7rem;
+    font-size: 0.8rem;
   }
   .link-item {
     float: none;
@@ -79,6 +85,8 @@ article {
   }
   h2 {
     color: $darkgrey;
+    font-family: Roboto Slab, serif;
+    font-weight: lighter;
   }
   h2 > a {
     text-decoration: none;
@@ -98,6 +106,11 @@ article {
     margin-bottom: 10px;
     div {
       display: inline;
+    }
+  }
+  .header-post {
+    h2 {
+      text-align: center;
     }
   }
 }
