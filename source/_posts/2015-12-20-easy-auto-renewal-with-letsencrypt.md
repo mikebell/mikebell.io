@@ -15,6 +15,6 @@ Add the following to your nginx conf block block:
 
 Then add the following to crontab as root:
 
-    letsencrypt certonly --webroot -w /var/www/mikebell.io/ -d mikebell.io --renew-by-default
+    0 0 1 * * letsencrypt certonly --webroot -w /var/www/mikebell.io/ -d mikebell.io --renew-by-default
 
 The ```--renew-by-default``` is key here since it means that it runs without being interactive.
