@@ -14,7 +14,7 @@ use:
         </header>
         <div>
             {{ post.blocks.content|raw|split(' ')|slice(0,100)|join(' ')|raw }}
-            <p><a href="{{ post.url }}">Read more</a> - <a href="{{ site.url }}{{ post.url }}#disqus_thread">No comments</a></p>
+            <p><a href="{{ post.url }}">Read more</a> - <a href="{{ site.url }}{{ post.url }}/#disqus_thread">No comments</a></p>
         </div>
         {% if post.meta.tags %}
             <p class="tags">
