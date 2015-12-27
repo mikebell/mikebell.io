@@ -11,7 +11,7 @@ use:
     <article>
         <header>
             <h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
-            <p class="timeago" title="{{ post.date|date('c') }}">{{ page.date|date('jS F Y') }}</p>
+            <p class="timeago" title="{{ post.date|date('c') }}">{{ post.date|date('jS F Y') }}</p>
         </header>
         <div>
             {{ post.blocks.content|raw|split(' ')|slice(0,100)|join(' ')|raw }}
