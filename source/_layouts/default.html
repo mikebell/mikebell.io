@@ -9,7 +9,7 @@
     {% endblock %}
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" crossorigin="anonymous">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" crossorigin="anonymous">
-    <link href="{{ site.url }}/dist/css/style.css" rel="stylesheet" type="text/css">
+    <link href="/dist/css/style.css" rel="stylesheet" type="text/css">
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
     <script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -144,9 +144,13 @@
 <script src="{{ site.url }}/components/highlightjs/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
 <script src="/js/readingTime.min.js"></script>
+<script src="/js/jquery.timeago.js"></script>
 <script type="text/javascript">
     $(function () {
         $('article').readingTime({});
+    });
+    jQuery(document).ready(function() {
+        jQuery(".timeago").timeago();
     });
 </script>
 <script id="dsq-count-scr" src="https://mikebellio.disqus.com/count.js" async></script>

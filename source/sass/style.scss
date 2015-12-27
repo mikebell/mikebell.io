@@ -110,6 +110,16 @@ article {
       text-align: center;
     }
   }
+  header {
+    margin-bottom: 1rem;
+    h2 {
+      display: inline;
+    }
+    .timeago {
+      display: inline;
+      margin-left: 0.8rem;
+    }
+  }
 }
 
 #avatar-link {
