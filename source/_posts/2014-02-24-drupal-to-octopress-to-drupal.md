@@ -1,6 +1,6 @@
 ---
 title: Drupal to Octopress to Drupal
-slug: drupal-to-octopress-to-drupal
+slug: drupal-octopress-drupal
 tags:
   - Drupal
   - Octopress
@@ -15,4 +15,3 @@ I’ll be slowly making upgrades to this site:
 * Tidying the theme up
 * Adding extra theme elements
 * Adding some colour!!!
-

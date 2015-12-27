@@ -1,6 +1,6 @@
 ---
 title: Drupal + WordPress Sprints Manchester
-slug: drupal-wordpress-sprints-manchester
+slug: announcing-drupal-wordpress-sprints-manchester
 tags:
   - Drupal
   - Drupal Sprints Manchester
