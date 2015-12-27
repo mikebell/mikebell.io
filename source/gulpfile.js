@@ -6,6 +6,7 @@ var sourcemaps = require('gulp-sourcemaps');
 var html5Lint = require('gulp-html5-lint');
 var favicons = require("gulp-favicons");
 var uglifycss = require('gulp-uglifycss');
+var exec = require('child_process').exec;
 
 function notifyLivereload(event) {
 
@@ -34,6 +35,14 @@ gulp.task('sass', function() {
 
 gulp.task('sass:watch', function () {
     gulp.watch('./sass/*.scss', ['sass']);
+});
+
+gulp.task('generate', function(e) {
+    exec('cd .. && sculpin generate', function (err, stdout, stderr) {
+        console.log(stdout);
+        console.log(stderr);
+        e(err);
+    });
 });
 
 gulp.task('uglify', function() {
@@ -65,4 +74,11 @@ gulp.task('favicon', function() {
         online: false,
         html: "_layouts/default.html"
     })).pipe(gulp.dest("./"));
+});
+
+
+gulp.task('build', function() {
+    gulp.watch('./sass/*.scss', ['sass']);
+    gulp.watch('./css/style.css', ['uglify']);
+    gulp.watch('./dist/css/style.css', ['generate']);
 });
