@@ -8,6 +8,11 @@
     <article>
         <header class="header-post">
             <h2>{{ page.title }}</h2>
+            <div class="social-media">
+                <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" target="_blank"><span class="icon-twitter"></span></a>
+                <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" target="_blank"><span class="icon-google-plus3"></span></a>
+                <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" target="_blank"><span class="icon-facebook2"></span></a>
+            </div>
         </header>
         <div class="post-details">
             <div class="post-date">{{ page.date|date('jS F Y') }} - </div>

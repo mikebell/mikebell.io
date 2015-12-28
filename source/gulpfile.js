@@ -81,4 +81,5 @@ gulp.task('build', function() {
     gulp.watch('./sass/*.scss', ['sass']);
     gulp.watch('./css/style.css', ['uglify']);
     gulp.watch('./dist/css/style.css', ['generate']);
+    gulp.watch('./**/*.html', ['generate']);
 });
