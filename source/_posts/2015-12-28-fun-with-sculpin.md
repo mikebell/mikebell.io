@@ -18,7 +18,7 @@ It's been quite a lot of fun adding all these features. They all touch a wide ra
 These are built with free icons converted into a font and then displayed in a span tag wrapped in a link to the various different social media sites.
 
 ### Time ago
-This uses a jquery plugin call [Timeago](http://timeago.yarp.com/) which tags onto html outputted by twig, I'm slowly getting to grips with twig through examples I find around the web. For some reason I just don't get along with Symfony documentation.
+This uses a jquery plugin called [Timeago](http://timeago.yarp.com/) which tags onto html outputted by twig, I'm slowly getting to grips with twig through examples I find around the web. For some reason I just don't get along with Symfony documentation.
 
 ### Comment counts
 This is just javascript taken from Disqus, pain in the ass the get it setup though. Disqus as a whole isn't great.
