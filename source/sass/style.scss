@@ -147,6 +147,33 @@ article {
   }
 }
 
+@media (max-width: 992px) {
+  aside {
+    footer {
+      padding-bottom: 15px;
+    }
+  }
+}
+
+@media (max-width: 360px) {
+  .content {
+    padding: 1rem 2rem 2rem !important;
+  }
+  article {
+    header {
+      h2 {
+        display: block;
+        text-align: left !important;
+      }
+      .timeago,
+      .social-media {
+        display: block;
+        margin-left: 0;
+      }
+    }
+  }
+}
+
 pre {
   border: none;
   padding: 0;
