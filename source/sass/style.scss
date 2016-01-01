@@ -129,7 +129,8 @@ article {
 
 .sidebar {
   padding-top: 20px;
-  background: linear-gradient(150deg, rgba(19, 106, 138, 0.65) 30%, rgba(38, 120, 113, 0.44) 70%) repeat fixed 0px 0px / cover , transparent url("/images/cover.jpg") no-repeat fixed center center / cover;
+  //background: linear-gradient(150deg, rgba(19, 106, 138, 0.65) 30%, rgba(38, 120, 113, 0.44) 70%) repeat fixed 0px 0px / cover , transparent url("/images/cover-new.jpg") no-repeat fixed top left / cover;
+  background: linear-gradient(150deg, rgba(19, 106, 138, 0.65) 30%, rgba(38, 120, 113, 0.44) 70%) repeat fixed 0px 0px / cover , url("/images/cover-new.jpg") no-repeat center center;
   .divider {
     margin: 10px auto;
     border-top: 1px solid rgba(255, 255, 255, 0.14);
