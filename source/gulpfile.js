@@ -7,6 +7,7 @@ var html5Lint = require('gulp-html5-lint');
 var favicons = require("gulp-favicons");
 var uglifycss = require('gulp-uglifycss');
 var exec = require('child_process').exec;
+var uglify = require('gulp-uglify');
 
 function notifyLivereload(event) {
 
@@ -51,6 +52,9 @@ gulp.task('uglify', function() {
             "max-line-len": 80
         }))
         .pipe(gulp.dest('./dist/css/'));
+    gulp.src('./js/*.js')
+        .pipe(uglify())
+        .pipe(gulp.dest('./dist/js/'));
 });
 
 gulp.task('html5-lint', function() {

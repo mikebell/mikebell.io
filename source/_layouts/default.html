@@ -57,7 +57,7 @@
         <div class="col-md-3 sidebar">
             <aside class="profile">
                 <a href="/" title="link to homepage for mikebell.io - Blog and Stuff" id="avatar-link">
-                    <img class="profile avatar hvr-buzz-out" alt="mikebell.io - Blog and Stuff avatar" src="https://en.gravatar.com/userimage/19496771/9b956ef94407e518f026ebc6860ee986.jpeg">
+                    <img class="profile avatar hvr-buzz-out" alt="mikebell.io - Blog and Stuff avatar" src="https://en.gravatar.com/userimage/19496771/9b956ef94407e518f026ebc6860ee986.jpeg" width="80px" height="80px">
                     <h1>Mike Bell - Blog &amp; Stuff</h1>
                 </a>
                 <hr class="divider long">
@@ -137,16 +137,9 @@
 {% endif %}
 <script src="{{ site.url }}/components/highlightjs/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
-<script src="/js/readingTime.min.js"></script>
-<script src="/js/jquery.timeago.js"></script>
-<script type="text/javascript">
-    $(function () {
-        $('article').readingTime({});
-    });
-    jQuery(document).ready(function() {
-        jQuery(".timeago").timeago();
-    });
-</script>
+<script src="/dist/js/readingTime.js"></script>
+<script src="/dist/js/jquery.timeago.js"></script>
+<script src="/dist/js/site.js"></script>
 <script id="dsq-count-scr" src="https://mikebellio.disqus.com/count.js" async></script>
 {% block scripts_after %}
 {% endblock %}
