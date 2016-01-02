@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Speaking
 
 ---
 # Speaking
@@ -8,9 +8,6 @@ title: About
 Below is a list of conferences and events I've spoken at:
 
 Upcoming:
-
-* DrupalCon Barcelona - Keynote
-* PHPNW15
 
 Past:
 
@@ -22,4 +19,6 @@ Past:
 * Drupal Yorkshire 2013
 * Drupal Camp NW 2013 - Effective Communication for Developers.
 * Drupal Camp Yorkshire 2014 - Migration, everything I don't know about Migration but probably should
+* DrupalCon Barcelona - Keynote
+* PHPNW15
 
