@@ -4,7 +4,7 @@ slug: my-keyboards
 tags:
   - Keyboards
 ---
-I’ve gone a bit mad on keyboards recently, mostly due to [geekhack](http://geekhack.org/) and [r/mechanicalkeyboards](www.reddit.com/r/mechanicalkeyboards). I’ve got the following boards at the moment:
+I’ve gone a bit mad on keyboards recently, mostly due to [geekhack](http://geekhack.org/) and [r/mechanicalkeyboards](http://www.reddit.com/r/mechanicalkeyboards). I’ve got the following boards at the moment:
 
 
 [Ducky Shine 3 - ISO - Brown switches](http://www.amazon.co.uk/gp/product/B00FBCYAKI/ref=as_li_tf_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B00FBCYAKI&linkCode=as2&tag=mikebellio-21) -
