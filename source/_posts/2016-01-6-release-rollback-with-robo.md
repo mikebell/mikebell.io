@@ -1,5 +1,5 @@
 ---
-title: Release/Rollback with Robo
+title: Release and Rollback with Robo
 slug: release-rollback-with-robo
 tags:
   - Robo
