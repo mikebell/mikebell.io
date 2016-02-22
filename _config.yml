@@ -10,6 +10,21 @@ url: "https://mikebell.io" # the base hostname & protocol for your site
 twitter_username: mikebell_
 github_username:  mikebell
 
+gems:
+  - jekyll-paginate
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
+
+permalink: :title
+paginate: 10
+excerpt_separator: "\n\n"
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
