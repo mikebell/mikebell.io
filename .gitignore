@@ -58,3 +58,4 @@ source/.gulp-scss-cache
 dist
 _site
 _posts
+_drafts
