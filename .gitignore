@@ -57,5 +57,3 @@ source/.gulp-scss-cache
 /vendor/
 dist
 _site
-_posts
-_drafts
