@@ -23,7 +23,7 @@ layout=post
 editor=atom
 
 # Post directory
-folder=_posts/
+folder=_drafts/
 
 # Author
 author="Mike Bell"
