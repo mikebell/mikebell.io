@@ -42,13 +42,14 @@ body,
     h3 {
       font-size: 1.3rem;
     }
-
-    .post-content {
-      height: 10rem;
-    }
   }
 }
 
+.home {
+  .post-content {
+    height: 10rem;
+  }
+}
 
 body {
   font-family: Raleway, serif;
