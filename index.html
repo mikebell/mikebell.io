@@ -10,6 +10,7 @@ layout: default
     <span class="date">{{ post.date | date_to_string }}</span>
   </p>
     {{ post.excerpt }}
+    <p><a href="{{ post.url }}">Read more</a> - <a href="{{ post.url }}#disqus_thread">No comments</a></p>
   </div>
   {% endfor %}
 
