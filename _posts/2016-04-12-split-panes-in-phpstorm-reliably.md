@@ -11,4 +11,4 @@ If you want Project and Structure then:
 1. Make sure Project has docked and pinned mode ticked (using the cog).
 2. Make sure Structure has docked, pinned and split mode ticked.
 
-You then need to toggle them both a few times for it to work ```cmd+1``` and ```cmd+7``` should work.
+You then need to toggle them both a few times for it to work cmd+1 and cmd+7 should work.
