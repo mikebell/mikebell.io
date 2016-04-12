@@ -4,7 +4,6 @@ title: "Split panes in PHPStorm reliably"
 author: "Mike Bell"
 date: 2016-04-12 08:37:07
 tags:
-  - PHPStorm
 ---
 Here's an easy way to get split panes in PHPStorm without tearing your hair out!
 
