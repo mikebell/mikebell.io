@@ -21,6 +21,14 @@ body,
 }
 
 .row {
+  .home,
+  .post {
+    padding-bottom: 4rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    padding-top: 2rem;
+  }
+
   .content {
     color: $lightgrey;
     font-size: .8rem;
@@ -34,6 +42,12 @@ body,
     h3 {
       font-size: 1.3rem;
     }
+  }
+}
+
+.home {
+  .post-content {
+    height: 10rem;
   }
 }
 
@@ -185,17 +199,6 @@ article {
     position: fixed;
     top: 0;
     z-index: 1000;
-  }
-
-  .post-content {
-    height: 10rem;
-  }
-  .home,
-  .post {
-    padding-bottom: 4rem;
-    padding-left: 4rem;
-    padding-right: 4rem;
-    padding-top: 2rem;
   }
 }
 
