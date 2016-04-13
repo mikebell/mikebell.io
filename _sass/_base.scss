@@ -45,12 +45,6 @@ body,
   }
 }
 
-.home {
-  .post-content {
-    height: 10rem;
-  }
-}
-
 body {
   font-family: Raleway, serif;
 
@@ -200,6 +194,12 @@ article {
     top: 0;
     z-index: 1000;
   }
+
+  .home {
+    .post-content {
+      height: 10rem;
+    }
+  }
 }
 
 @media (max-width: 992px) {
@@ -227,6 +227,11 @@ article {
         display: block;
         margin-left: 0;
       }
+    }
+  }
+  .home {
+    .post-content {
+      height: 50rem;
     }
   }
 }
