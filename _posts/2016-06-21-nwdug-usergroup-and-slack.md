@@ -31,3 +31,5 @@ We're not just north west based either. There are people from all over the UK in
 Slack isn't costing us anything either. We don't need the features of a paid Slack account so we are happy to stick on the free plan. This isn't without it's issues though, all it would take is a change of service from Slack to throw things out the window. If that happens then we'll have to look into other alternatives.
 
 Since we introduced Slack it's certainly felt like NWDUG has grown. The meetup has extended into an all year round thing with people able to chat with each other on a daily basis.
+
+If your interested in getting involved then join here - [http://slack.nwdrupal.org.uk/](http://slack.nwdrupal.org.uk/)
