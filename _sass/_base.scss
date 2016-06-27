@@ -196,7 +196,12 @@ article {
   }
 }
 
-@media (max-width: 360px) {
+@media (max-width: 425px) {
+  .home {
+    padding-top: 0rem !important;
+    padding-left: 0rem !important;
+    padding-right: 0rem !important;
+  }
   .content {
     padding: 1rem 2rem 2rem !important;
   }
