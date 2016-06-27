@@ -197,7 +197,8 @@ article {
 }
 
 @media (max-width: 425px) {
-  .home {
+  .home,
+  .post {
     padding-top: 0rem !important;
     padding-left: 0rem !important;
     padding-right: 0rem !important;
