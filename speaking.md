@@ -6,12 +6,11 @@ layout: page
 ---
 I'm very keen to speak at events on a wide range of topics both tech and mental health related. If your interested in having me speak at your event then get in touch at hello @ this domain.
 
-Upcoming:
+All (most recent at the top):
 
-* NWDUG 12th July - REST in Drupal 8
-
-Past (most recent at the top):
-
+* PHPNW 2/8/16 - Always Be X of Remote Working
+* Manchester Girl Geeks Barcamp - Always Be X of Remote Working
+* NWDUG 12th July 2016 - REST in Drupal 8
 * Drupal Camp London 2016 - REST in Drupal 8
 * DrupalCon Barcelona - Mental Health and Open Source - [Youtube](https://youtu.be/TdEVaOjL20s?t=2925)
 * PHPNW15
