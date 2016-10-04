@@ -21,4 +21,5 @@ Do I tell them:
 All these things I have to deal with on a daily basis. My anxiety scares me into being something I'm not. Medication helps but I'm aware of the anxiety clawing at the back of my brain waiting to get out and explode. The scary thing is is that I can hide it so well. I guess to a certain extent that's how I cope with things, pushing it away until I'm ready to deal with it or things get out of hand. It seems to work for me up to a point.
 
 You: Hey, how are you?
+
 Me: I'm good thanks, you?
