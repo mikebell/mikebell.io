@@ -16,7 +16,7 @@ markdown: kramdown
 highlighter: rouge
 
 permalink: :title/
-paginate: 10
+paginate: 5
 excerpt_separator: "\n\n"
 
 defaults:
