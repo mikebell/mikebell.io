@@ -2,7 +2,6 @@
 layout: default
 ---
 <div class="post">
-
   <header class="post-header">
     <h2 class="post-title">{{ page.title }}</h2>
     <div class="social-media">
@@ -13,8 +12,6 @@ layout: default
     <div class="post-details">
       <p>{{ page.date | date_to_string }}{% if page.meta %} • {{ page.meta }}{% endif %} - <span class="eta"></span></p>
     </div>
-
-
   </header>
 
   <article class="post-content">
@@ -37,5 +34,4 @@ layout: default
   <noscript>Please enable JavaScript to view the
     <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered byDisqus.</a>
   </noscript>
-
 </div>
