@@ -1,7 +1,7 @@
 ---
-title: Me on the Web
-
-tags:
+layout: page
+title: Me on the web
+permalink: /me-web/
 ---
 Here is a list of my accounts on various different sites.
 
