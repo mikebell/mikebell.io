@@ -28,7 +28,7 @@ So in theory I have all the prerequisites to building this functionality. In rea
 
 The real problem is in my head. Conceptually I have no idea how the components fit together, how does part A effect part B, how do I achieve the end goal. This is just the start of my problems. I spent 4 hours on this issue, I built a ctool context plugin, it works but doesn't do anything useful but it's there. I spent the hours writing basic code, reading blog posts on things vaugely related and researching.
 
-### I wasted time because I was too scared of admitting I have no idea what I'm doing.
+> I wasted time because I was too scared of admitting I have no idea what I'm doing.
 
 The thing I realise now is that while I understand and can figure out the basic concepts if the grander scheme isn't there it's useless. I should have asked for help, I should have admitted that I didn't know how the end result fit together.
 
