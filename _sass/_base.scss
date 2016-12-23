@@ -113,3 +113,13 @@ blockquote {
 blockquote p {
   display: inline;
 }
+
+.post-type {
+  .header-row {
+    transition: all 0.5s ease-in-out;
+    opacity: 0.2;
+  }
+  .header-row:hover {
+    opacity: 1;
+  }
+}

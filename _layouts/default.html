@@ -2,13 +2,11 @@
 <html>
   {% include head.html %}
   <body>
-    <div class="container-fixed">
-      <div class="row">
+    <div class="container-fixed{% if page.date %} post-type{% endif %}">
+      <div class="row header-row">
         <div class="col-md-8 col-md-offset-2">
           <h1><a href="/">Mike Bell - Blog and Stuff</a></h1>
         </div>
-      </div>
-      <div class="row">
         <div class="col-md-8 col-md-offset-2">
           {% include menu.html %}
         </div>
