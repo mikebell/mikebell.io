@@ -124,8 +124,17 @@ blockquote p {
   .header-row {
     transition: all 0.5s ease-in-out;
     opacity: 0.2;
+    h1 {
+      float: left;
+    }
   }
   .header-row:hover {
     opacity: 1;
   }
+}
+
+.code-icon {
+  margin-top: 27px;
+  margin-right: 10px;
+  float: left;
 }
