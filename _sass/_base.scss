@@ -36,6 +36,12 @@ body{
   .social-media {
     float: right;
   }
+
+  .links {
+    .active a {
+      color: $lightblue;
+    }
+  }
 }
 
 .container-fixed {

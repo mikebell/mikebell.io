@@ -1,0 +1,11 @@
+- title: About
+  href: "/about"
+
+- title: Me on the web
+  href: "/me-web"
+
+- title: Speaking
+  href: "/speaking"
+
+- title: Contact
+  href: "mailto:hello@mikebell.io?subject=Hello!"
