@@ -13,17 +13,23 @@ body{
 
   a:hover {
     color: $lightblue;
-    text-decoration: none;
     transition: all 300ms ease 0s;
     fill: $lightblue;
   }
 
   a {
     color: $darkgrey;
+    text-decoration: underline;
   }
 
   h1 {
     font-size: 40px;
+    a {
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: none;
+    }
   }
 
   p {
