@@ -145,3 +145,20 @@ blockquote p {
   margin-right: 10px;
   float: left;
 }
+
+.pagination {
+  li {
+    a {
+      color: $darkgrey;
+    }
+    a:hover {
+      color: $lightblue;
+    }
+  }
+  .active {
+    a {
+      background-color: $darkgrey;
+      border-color: $darkgrey;
+    }
+  }
+}
