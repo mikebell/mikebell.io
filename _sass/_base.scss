@@ -15,6 +15,7 @@ body{
     color: $lightblue;
     text-decoration: none;
     transition: all 300ms ease 0s;
+    fill: $lightblue;
   }
 
   a {
@@ -134,7 +135,7 @@ blockquote p {
 }
 
 .code-icon {
-  margin-top: 27px;
+  margin-top: 7px;
   margin-right: 10px;
   float: left;
 }
