@@ -160,6 +160,10 @@ blockquote p {
       background-color: $darkgrey;
       border-color: $darkgrey;
     }
+    a:hover {
+      background-color: $lightblue;
+      border-color: $lightblue;
+    }
   }
 }
 
