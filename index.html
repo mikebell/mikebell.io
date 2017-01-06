@@ -9,7 +9,14 @@ layout: default
     <span class="date">{{ post.date | date_to_string }}</span>
   </p>
     <p>{{ post.content | strip_html | truncatewords:50 }}</p>
-    <p><a href="{{ post.url }}">Read more</a> - <a href="{{ post.url }}#disqus_thread">Add a comment</a></p>
+    <div class="btn-toolbar" role="toolbar" aria-label="Toolbar with button groups">
+        <div class="btn-group" role="group" aria-label="Read more group">
+            <a href="{{ post.url }}"><button type="button" class="btn btn-primary">Read more</button></a>
+        </div>
+        <div class="btn-group" role="group" aria-label="Add a comment group">
+            <a href="{{ post.url }}#disqus_thread"><button type="button" class="btn btn-default">Add a comment</button></a>
+        </div>
+    </div>
   </div>
   {% endfor %}
   {% if paginator.total_pages > 1 %}

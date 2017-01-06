@@ -162,3 +162,21 @@ blockquote p {
     }
   }
 }
+
+.btn-primary {
+  background-color: $darkgrey;
+  border-color: $darkgrey;
+}
+
+.btn-primary:hover {
+  background-color: $lightblue;
+  border-color: $lightblue;
+}
+
+.btn-default {
+  border-color: #fff;
+}
+
+.btn-default:hover {
+  border-color: #e6e6e6;
+}
