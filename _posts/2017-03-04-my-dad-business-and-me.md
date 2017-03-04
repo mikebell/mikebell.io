@@ -2,7 +2,7 @@
 layout: post
 title: "My dad, business and me"
 author: "Mike Bell"
-date: 2017-03-04 21:00:00
+date: 2017-03-04 20:00:00
 ---
 
 I have this memory of when I was young, we used to go camping in something called a Dandy, one day I remember my dad making sketches on a scrap bit of paper, I was young I didn't really understand what they were but he seemed quite excited at it.
