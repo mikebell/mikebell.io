@@ -1,15 +1,20 @@
-pipeline {
-    agent any
+node ('node') {
+    try {
+        stage('Checkout'){
+            checkout scm
+        }
 
-    stage('Build') {
-        steps {
-            sh 'source /var/lib/jenkins/.rvm/scripts/rvm && rvm use ruby-2.2.1 && jekyll build'
+        stage('Build') {
+                sh 'source /var/lib/jenkins/.rvm/scripts/rvm && rvm use ruby-2.2.1 && jekyll build'
+        }
+
+        stage('Deploy') {
+                sh 'cp -Rv _site/* /var/www/mikebell.io'
         }
     }
+    catch (err) {
+        currentBuild.result = "FAILURE"
 
-    stage('Deploy') {
-        steps {
-            sh 'cp -Rv _site/* /var/www/mikebell.io'
-        }
+        throw err
     }
 }
