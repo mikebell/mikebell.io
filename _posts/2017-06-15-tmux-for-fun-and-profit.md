@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## TMUX For Fun and Profit
 
