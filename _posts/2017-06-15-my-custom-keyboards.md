@@ -66,7 +66,24 @@ One of my main issues with this board is the same as the NERD60 the stabalisers 
 
 This board also has customisable firmware, it's a bit harder to use than the NERD60s since the instructions are in Korean and uses the column/row notation for keymapping.
 
+A build log for this can be found [here](http://imgur.com/a/8Iw4j).
+
 ### Future Board - Let's Split
 
+After I reached my endgame board (cough) I decided to take a look at none standard boards, enter the Let's Split
 
+![Let's Split](https://camo.githubusercontent.com/520594ec4d3678bdb9002f1ac4edf827cb6896c8/687474703a2f2f692e696d6775722e636f6d2f714658687575312e6a7067)
+
+I started to design my own keyboard but ended up with something similar to this so I decided to order the parts for this build.
+
+I'll be posting a full build log of this when everything arrives.
+
+The main build points for this are:
+
+* Zealios 62g - apparently these are the most amazing switches ever so I'm looking forward to trying them out. They're 62g tactile no click switches with supposed amazing build qualit.
+* No stabalisers, screw you cherry no more mushy key presses!
+* Split halfs so I can move them around based on my hand orientation.
+* Ability to "tent" the boards so they're more ergonomic.
+
+Needless to say I'm hoping this to be my last board for a while. If your interested in buying my NERD60 then get in touch it needs a good home.
 
