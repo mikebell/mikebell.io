@@ -55,12 +55,12 @@ Here is a working example of my dev tmuxinator config:
 	root: ~/
 
 	windows:
-  		- editor:
-      		layout: main-horizontal
-      		panes:
-        		  - cd ~/Sites/projects/
-      		    - cd ~/Vagrant/Convivio-VM && vagrant up
-    		      - cd ~/Vagrant/Convivio-VM
+  	- editor:
+  		layout: main-horizontal
+  		panes:
+  		  - cd ~/Sites/projects/
+  	    - cd ~/Vagrant/Convivio-VM && vagrant up
+        - cd ~/Vagrant/Convivio-VM
 
 What this does is create me a horizontal terminal and then two columns below it. The main terminal opens my project directory, the first column opens my VM directory and then brings it up, the third column moves me into the VM directory so I can run ```vagrant ssh``` when it's up.
 
