@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-## TMUX For Fun and Profit
-
 I've known about TMUX for a few years now but never got around to checking it out. It's not until the past few weeks where I've spent most of my time in the terminal for various projects that I've really felt the need to dig in and learn the basics.
 
 ### Installation - TMUX
