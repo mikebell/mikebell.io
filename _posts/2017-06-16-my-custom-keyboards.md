@@ -14,7 +14,7 @@ At the moment I have 4 keyboards in my office:
 
 ### Ducky Shine 3 TKL ISO (MX Brown)
 
-![Ducky Shine 3 ISO](http://i.imgur.com/QGkCUtV.png)
+![Ducky Shine 3 ISO](https://i.imgur.com/QGkCUtV.png)
 
 Basically the above keyboard but without the numberpad. This is my longest serving board and up until a few weeks ago was in active service. It's now waiting to be cleaned and pieced back together before I hand it over to my Dad.
 
