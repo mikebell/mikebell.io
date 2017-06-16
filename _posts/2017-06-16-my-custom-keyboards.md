@@ -14,7 +14,7 @@ At the moment I have 4 keyboards in my office:
 
 ### Ducky Shine 3 TKL ISO (MX Brown)
 
-![DK9008_Shine3_11.jpg]({{site.baseurl}}/_posts/DK9008_Shine3_11.jpg)
+![Ducky Shine 3 ISO](http://i.imgur.com/QGkCUtV.png)
 
 Basically the above keyboard but without the numberpad. This is my longest serving board and up until a few weeks ago was in active service. It's now waiting to be cleaned and pieced back together before I hand it over to my Dad.
 
@@ -30,13 +30,13 @@ It's a bit of a hybrid monster, a 60% but with a arrow keys, the none standard l
 
 ### Poker 2 ISO (MX Brown)
 
-![Poker 2 ISO](http://i.imgur.com/oaryVv5.jpg)
+![Poker 2 ISO](https://i.imgur.com/oaryVv5.jpg)
 
 I learnt my lessons with the Pro so grabbed a Poker 2, overall a solid board but the function key and arrow combition made my fingers hurt after a while so it got retired pretty quickly. The keycaps on this board are PBT which are amazing, they have a really satisfying clack to them. Plus my version was white so they looked quite different to most boards.
 
 ### NERD 60 (Gateron Brown)
 
-![NERD 60](http://i.imgur.com/lEH9IIF.jpg)
+![NERD 60](https://i.imgur.com/lEH9IIF.jpg)
 
 This was my first foray into custom building. It's [GON](http://http://www.gonskeyboardworks.com/) NERD 60 shipped all the way from Korea. The PCB was pre-soldiered making things a lot easier I just had to install the Gateron Brown switches and flash the firmware.
 
@@ -52,7 +52,7 @@ Overall this board (without keycaps) cost me around £250. I have a small build 
 
 ### Winkeyless B.87 (Gateron Brown)
 
-![Winkeyless B.87](http://i.imgur.com/GpfPZqK.jpg)
+![Winkeyless B.87](https://i.imgur.com/GpfPZqK.jpg)
 
 This is my latest and greatest creation and my current daily driver. I considered this end game for me (for about a week or so). I bought the parts (fully soldiered) form [Winkeyless](http://winkeyless.kr/) another Korean company (they love custom keyboards!).
 
