@@ -18,10 +18,10 @@ We're planning two events in February that we feel will be really interesting an
 
 Please sign up and come and see us!
 
-##Where do you come in?
+##W here do you come in?
 
 Well this is the good bit, we're looking for volunteers, people who are willing to teach and those who are willing to bug their schools and teachers to get the involved with Code Club. We know that kids will be up for it and parents are too but it's important that schools get behind it as well, that's why we need your help. Contact your school, express and interest and sign up at codeclub.org.uk
 
-##What's next?
+## What's next?
 
 After the launch and party on the 11th February we'll be moving into full gear and scheduling our first code club meet ups!

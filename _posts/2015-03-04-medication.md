@@ -3,7 +3,7 @@ title: Medication
 
 tags:
 ---
-##Everything I know now and what I didn't know then.
+## Everything I know now and what I didn't know then.
 
 Medication is a scary subject. No one really likes to talk about it and who blames them? Talking about medication puts you out there, it's easy to find out what those medications are prescribed for.
 

@@ -13,13 +13,13 @@ I love when I see people do cool presentations and I really like to know how the
 
 After watching [Andrew MacPherson](https://twitter.com/MartianWebDev) at [nwdug](http://nwdrupal.org.uk/) this week I was really impressed with Reavel.js so figured I'd give it a go for my presentation next week at [Drupal Yorkshire](http://drupalyorkshire.org.uk/).
 
-##Reveal.js
+## Reveal.js
 
 [Reveal.js](http://lab.hakim.se/reveal-js/) is a javascript framework for creating really nice looking presentations quick and easily. It uses some HTML5 stuff mixed in with some nice CSS3/SASS magic.
 
 Reveal comes with a few nice themes (including solarized dark which is actually called moon for some reason). Syntax highlighting seems a bit broken on my version though.
 
-##Zen Coding
+## Zen Coding
 I recently found [Zen Coding](https://code.google.com/p/zen-coding/) by looking through the list of plugins in PHPStorm. It's a really nice way of writing html in short hand:
 <code>section>h1.header+p+ul*2</code>
 
