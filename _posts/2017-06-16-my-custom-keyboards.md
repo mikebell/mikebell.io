@@ -12,7 +12,7 @@ At the moment I have 4 keyboards in my office:
 * NERD 60
 * Winkeyless B.87
 
-### Ducky Shine 3 TKL ISO (MX Brown)
+### Ducky Shine 3 TKL ISO (MX Brown)
 
 ![Ducky Shine 3 ISO](https://i.imgur.com/QGkCUtV.png)
 
@@ -32,7 +32,7 @@ It's a bit of a hybrid monster, a 60% but with a arrow keys, the none standard l
 
 ![Poker 2 ISO](https://i.imgur.com/oaryVv5.jpg)
 
-I learnt my lessons with the Pro so grabbed a Poker 2, overall a solid board but the function key and arrow combition made my fingers hurt after a while so it got retired pretty quickly. The keycaps on this board are PBT which are amazing, they have a really satisfying clack to them. Plus my version was white so they looked quite different to most boards.
+I learnt my lessons with the Pro so grabbed a Poker 2, overall a solid board but the function key and arrow combition made my fingers hurt after a while so it got retired pretty quickly. The keycaps on this board are PBT which are amazing, they have a really satisfying clack to them (not pictured). Plus my version was white so they looked quite different to most boards.
 
 This is also my first ANSI board (American), note the horizontal enter key and different size shift keys. I considered moving to ANSI for a while since keycap sets are easier to find and the boards are a bit cheaper as well. I couldn't get used to the enter key though so I'll be ISO for life.
 
