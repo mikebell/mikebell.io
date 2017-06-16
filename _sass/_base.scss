@@ -73,10 +73,9 @@ body{
 pre {
   border: 0;
   padding: 0;
-}
-
-pre code {
+  code {
     font-size: 14px;
+  }
 }
 
 @font-face {
@@ -199,4 +198,11 @@ ol, ul {
 .post-content, post {
   margin-top: 50px;
   margin-bottom: 50px;
+}
+
+.article {
+  img {
+    max-width: 100%;
+    display: block;
+  }
 }
