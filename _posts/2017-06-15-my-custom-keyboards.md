@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 I've got quite an expensive hobby at the moment - keyboards.
 
@@ -11,8 +11,6 @@ At the moment I have 4 keyboards in my office:
 * Ducky Shine 3 TKL ISO
 * NERD 60
 * Winkeyless B.87
-
-In order of purchase here are my collection:
 
 ### Ducky Shine 3 TKL ISO (MX Brown)
 
@@ -58,13 +56,13 @@ Overall this board (without keycaps) cost me around £250. I have a small build 
 
 This is my latest and greatest creation and my current daily driver. I considered this end game for me (for about a week or so). I bought the parts (fully soldiered) form [Winkeyless](http://winkeyless.kr/) another Korean company (they love custom keyboards!).
 
-Again I opted for Gateron Browns since I've grown quite attached to them and they're cheap.
+Again I opted for Gateron Browns since I've grown quite attached to them and they're cheap. If I use them again I'm going to get some lubricant for the stems.
 
 This keyboard has white in switch LEDs with RGB backlighting. The case is frosted acrylic so the lights shine through really well.
 
-One of my main issues with this board is the same as the NERD60 the stabalisers are horrible, my backspace key squeeks which is horrible!
+One of my main issues with this board is the same as the NERD60 the stabalisers are horrible, my backspace key squeeks which is horrible! Because they're PCB mounted stabalisers removing them to mod them would mean desoldering all the LEDs and switches first, something I'm really not keen on doing because of a couple of issues I had while building the board.
 
-This board also has customisable firmware, it's a bit harder to use than the NERD60s since the instructions are in Korean and uses the column/row notation for keymapping.
+This board also has customisable firmware, it's a bit harder to use than the NERD60s since the instructions are in Korean and uses the column/row notation for keymapping. Thankfully google translate and a few other blog posts around the net have some decent instructions. I have a lot of the RGB functions bound to a second layer which is activated by CAPS key (FN in this case).
 
 A build log for this can be found [here](http://imgur.com/a/8Iw4j).
 
@@ -85,5 +83,6 @@ The main build points for this are:
 * Split halfs so I can move them around based on my hand orientation.
 * Ability to "tent" the boards so they're more ergonomic.
 
-Needless to say I'm hoping this to be my last board for a while. If your interested in buying my NERD60 then get in touch it needs a good home.
+---
 
+Needless to say I'm hoping this to be my last board for a while. If your interested in buying my NERD60 then get in touch it needs a good home.
