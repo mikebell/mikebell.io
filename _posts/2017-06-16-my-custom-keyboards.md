@@ -28,11 +28,13 @@ It has some neet features, including different LED modes (mine was the white edi
 
 It's a bit of a hybrid monster, a 60% but with a arrow keys, the none standard layout made it really difficult to use and in the end I sold it to a friend. I quickly learnt that having short shifts was really annoying.
 
-### Poker 2 ISO (MX Brown)
+### Poker 2 ANSI (MX Brown)
 
 ![Poker 2 ISO](https://i.imgur.com/oaryVv5.jpg)
 
 I learnt my lessons with the Pro so grabbed a Poker 2, overall a solid board but the function key and arrow combition made my fingers hurt after a while so it got retired pretty quickly. The keycaps on this board are PBT which are amazing, they have a really satisfying clack to them. Plus my version was white so they looked quite different to most boards.
+
+This is also my first ANSI board (American), note the horizontal enter key and different size shift keys. I considered moving to ANSI for a while since keycap sets are easier to find and the boards are a bit cheaper as well. I couldn't get used to the enter key though so I'll be ISO for life.
 
 ### NERD 60 (Gateron Brown)
 
