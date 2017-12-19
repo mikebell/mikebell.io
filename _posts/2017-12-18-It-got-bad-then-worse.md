@@ -1,6 +1,3 @@
----
-published: false
----
 I've always tried to be open and public about my dealings with mental health which is why this post is probably the hardest I've ever written.
 
 It started a few months ago when I noticed that stress from work was building up to a point where I couldn't handle it anymore, depression and anxiety hit hard and I lost control again. While not as bad as my first breakdown what happened after was the worst experience of my life.
