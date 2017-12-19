@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 After [this](https://mikebell.io/It-got-bad-then-worse/) post I figured I should write more since I've always found it cathartic.
 
