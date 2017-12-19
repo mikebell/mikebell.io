@@ -1,5 +1,6 @@
-## It got bad then it got worse
-
+---
+published: false
+---
 I've always tried to be open and public about my dealings with mental health which is why this post is probably the hardest I've ever written.
 
 It started a few months ago when I noticed that stress from work was building up to a point where I couldn't handle it anymore, depression and anxiety hit hard and I lost control again. While not as bad as my first breakdown what happened after was the worst experience of my life.
@@ -26,7 +27,7 @@ There's also a set of less common side effects:
 
 * thoughts about harming yourself or ending your life
 
-I've never had thoughts about self harm let alone gone through with it.
+I've never had thoughts about self harm before let alone gone through with it.
 
 My wife was away for the night so my usual ritual is get a few beers in and settle in for a late night of gaming. A few beers in I started feeling extremely depressed, I lost control of how much I was drinking and moved on to whisky. Around 10pm I knew I was going to hurt myself. I went downstairs and grabbed a knife from the kitchen and took it into my office. It sat on my desk for two hours while I drank whisky and slowly got worse. It wasn't a matter of should I do it was *when* should I do it. I tried to message my family but they were all in bed by midnight. I started to cry and beg myself not to do it but I knew that wouldn't work. I then started to cut the top of my arm. The knife wasn't sharp enough so I only ended up scratching the surface. I was distraught I needed to feel relief so I grabbed my razor and broke it apart and started again, this time it worked and I managed to cut all the way down my arm multiple times.
 
