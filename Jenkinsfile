@@ -7,6 +7,7 @@ pipeline {
         stage('Ruby setup') {
             steps {
                 sh 'source /var/lib/jenkins/.rvm/scripts/rvm'
+                sh 'rvm install ruby-2.3.6'
                 sh 'rvm use'
                 sh 'gem install bundler'
                 sh 'bundle install'
