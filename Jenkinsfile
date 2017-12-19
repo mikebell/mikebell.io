@@ -4,10 +4,16 @@ pipeline {
     agent any
 
     stages {
-        stage('Build and generate') {
+        stage('Ruby setup') {
             steps {
                 sh 'source /var/lib/jenkins/.rvm/scripts/rvm'
-                sh 'rvm use ruby-2.2.1'
+                sh 'rvm use'
+                sh 'gem install bundler'
+                sh 'bundle install'
+            }
+        }
+        stage('Build') {
+            steps {
                 sh 'jekyll build'
                 archiveArtifacts artifacts: '**', fingerprint: true
             }
