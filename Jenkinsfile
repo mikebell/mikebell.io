@@ -6,7 +6,10 @@ pipeline {
     stages {
         stage('Ruby setup') {
             steps {
-                sh 'source /var/lib/jenkins/.rvm/scripts/rvm && rvm use 2.3.6 && gem install bundler && bundle install'
+                sh 'source /var/lib/jenkins/.rvm/scripts/rvm'
+                sh 'rvm use 2.3.6'
+                sh 'gem install bundler'
+                sh 'bundle install'
             }
         }
         stage('Build') {
