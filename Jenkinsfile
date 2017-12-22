@@ -4,16 +4,9 @@ pipeline {
     agent any
 
     stages {
-        stage('Ruby setup') {
-            steps {
-                sh 'source \"$HOME/.rvm/scripts/rvm\" && rvm use 2.3.6'
-                sh 'source \"$HOME/.rvm/scripts/rvm\" && gem install bundler'
-                sh 'source \"$HOME/.rvm/scripts/rvm\" && bundle install'
-            }
-        }
         stage('Build') {
             steps {
-                sh 'source \"$HOME/.rvm/scripts/rvm\" && jekyll build'
+                sh 'source \"$HOME/.rvm/scripts/rvm\" && rvm use 2.3.6 && gem install bundler && bundle install && jekyll build'
                 archiveArtifacts artifacts: '**', fingerprint: true
             }
         }
