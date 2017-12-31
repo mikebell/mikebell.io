@@ -4,7 +4,7 @@ pipeline {
     agent none
 
     environment {
-        $JEKYLL_VERSION = '3.5'
+        JEKYLL_VERSION = '3.5'
     }
 
     stages {
