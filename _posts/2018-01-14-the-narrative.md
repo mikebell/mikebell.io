@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 When I look at my arm I hate it, it doesn't feel a part of my body, the scars are a constant reminder that I went through a dark time and it's something that makes me feel angry and ashamed. Living with this is something I'm struggling with at the moment. I hate having to keep my arm covered all the time it's frustrating since I really don't like having my forearms covered at all.
 
