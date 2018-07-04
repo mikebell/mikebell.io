@@ -3,7 +3,7 @@
 pipeline {
     agent {
         docker {
-            image 'jekyll:jekyll:latest'
+            image 'jekyll/builder'
             args '--rm --volume=\"$PWD:/srv/jekyll\" -it jekyll/builder:$JEKYLL_VERSION jekyll build'
         }
     }
