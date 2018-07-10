@@ -1,21 +1,22 @@
 #!/usr/bin/env groovy
 
 pipeline {
+    environment {
+        JEKYLL_VERSION = '3.8'
+    }
+
     agent {
         docker {
             image 'jekyll/builder'
         }
     }
 
-    environment {
-        JEKYLL_VERSION = '3.8'
-    }
-
     stages {
         stage('Build') {
             steps {
-                sh 'jekyll --version'
-                archiveArtifacts artifacts: '**', fingerprint: true
+                docker.image('jekyll/builder').inside {
+                    sh 'jekyll --version'
+                }
             }
         }
         stage('Deploy') {
