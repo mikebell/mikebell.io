@@ -1,8 +1,10 @@
 #!/usr/bin/env groovy
 
 pipeline {
-    agent docker {
-        image 'jekyll:builder'
+    agent {
+        docker {
+            image 'jekyll:builder'
+        }
     }
 
     environment {
