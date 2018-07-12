@@ -3,7 +3,7 @@
 pipeline {
     agent {
         docker {
-            image 'jekyll:builder'
+            image 'jekyll/builder'
         }
     }
 
