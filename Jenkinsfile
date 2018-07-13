@@ -10,7 +10,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                sh 'docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/builder:$JEKYLL_VERSION jekyll build'
+                sh 'docker run --rm --volume="$PWD:/srv/jekyll" jekyll/builder:$JEKYLL_VERSION jekyll build'
             }
         }
         stage('Deploy') {
