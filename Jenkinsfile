@@ -4,7 +4,7 @@ pipeline {
     agent any
 
     environment {
-        JEKYLL_VERSION = '3.5'
+        JEKYLL_VERSION = '3.8'
     }
 
     stages {
@@ -16,7 +16,6 @@ pipeline {
         stage('Deploy') {
             steps {
                 sh 'rsync -avh --exclude=\".git/\" --exclude=\"output_prod\" \"/var/lib/jenkins/jobs/mikebell.io-v2/workspace/_site/\" \"/var/www/mikebell.io/\"'
-                sh 'Test'
             }
         }
     }
