@@ -26,4 +26,4 @@ Honourable mentions:
 
 I'm co-organiser of NWDUG so I tend to speak there at least once a year. If your interested in speaking here then get in touch we'd love to have you.
 
-* NWDUG (multiple times 2010 - Present)
+* NWDUG (multiple times 2010 - 2017)
