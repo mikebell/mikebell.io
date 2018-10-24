@@ -1,4 +1,4 @@
-A list of resources that might be helpful if your in the UK
+A list of resources that might be helpful if your in the UK.
 
 ## Urgent
 
