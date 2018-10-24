@@ -1,3 +1,8 @@
+---
+layout: page
+title: Mental Health Resources
+permalink: /mental-health-resources/
+---
 A list of resources that might be helpful if your in the UK.
 
 ## Urgent
