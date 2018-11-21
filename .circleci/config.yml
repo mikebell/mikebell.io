@@ -14,5 +14,5 @@ jobs:
       - run:
           name: build jekyll site
           command: jekyll build
-
-
+      - store_artifacts:
+          path: /srv/jekyll/_site
