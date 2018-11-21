@@ -8,10 +8,11 @@ jobs:
     docker:
       # specify the version you desire here
        - image: jekyll/builder:3.8
+    working_directory: /srv/jekyll
     steps:
       - checkout
       - run:
           name: build jekyll site
-          command: ls -lash /src/jekyll
+          command: jekyll buid
 
 
