@@ -19,6 +19,14 @@ permalink: :title/
 paginate: 5
 excerpt_separator: "\n\n"
 
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - s3_website.yml
+  - .circleci
+  - Jenkinsfile
+
 defaults:
   -
     scope:
