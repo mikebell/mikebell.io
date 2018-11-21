@@ -13,6 +13,6 @@ jobs:
       - checkout
       - run:
           name: build jekyll site
-          command: jekyll buid
+          command: jekyll build
 
 
