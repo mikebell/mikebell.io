@@ -12,6 +12,9 @@ jobs:
     steps:
       - checkout
       - run:
+          name: where are we
+          command: ls -lash
+      - run:
           name: build jekyll site
           command: jekyll build
 
