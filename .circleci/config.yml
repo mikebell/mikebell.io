@@ -8,12 +8,8 @@ jobs:
     docker:
       # specify the version you desire here
        - image: jekyll/builder:3.8
-    working_directory: ~/project
     steps:
       - checkout
-      - run:
-          name: where are we
-          command: ls -lash
       - run:
           name: build jekyll site
           command: jekyll build
