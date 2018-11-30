@@ -26,6 +26,7 @@ exclude:
   - s3_website.yml
   - .circleci
   - Jenkinsfile
+  - docker-compose.yml
 
 defaults:
   -
