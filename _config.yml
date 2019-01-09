@@ -27,6 +27,7 @@ exclude:
   - .circleci
   - Jenkinsfile
   - docker-compose.yml
+  - concourse.yml
 
 defaults:
   -
