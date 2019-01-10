@@ -48,7 +48,8 @@ jobs:
   - put: sync-resource
     params: {
       CONCOURSEPRIV: ((concourse-priv)),
-      "sync_dir": "site"
+      "sync_dir": "site",
+      "rsync_opts": ["-c"]
       }
 # - name: Publish
 #   plan:
