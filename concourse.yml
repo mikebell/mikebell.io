@@ -16,7 +16,7 @@ resources:
   type: rsync-resource
   source:
     server: mikebell.io
-    base_dir: /var/www/mikebell.io-test
+    base_dir: /var/www/mikebell.io
     user : digital
     private_key: ((concourse-priv))
     disable_version_path: true
