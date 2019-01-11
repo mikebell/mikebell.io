@@ -49,7 +49,7 @@ jobs:
     params: {
       CONCOURSEPRIV: ((concourse-priv)),
       "sync_dir": "site",
-      "rsync_opts": ["-c"]
+      # "rsync_opts": ["-c"]
       }
 # - name: Publish
 #   plan:
