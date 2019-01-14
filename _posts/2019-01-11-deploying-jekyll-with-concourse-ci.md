@@ -1,7 +1,7 @@
 ---
 published: true
 title: Deploying Jekyll with Concourse CI
---
+---
 
 Sometimes the best way of learning something is to just dive in and start using it. I find it really useful to pick an existing working implementation of something and the build it using something else. In this case it's my blog build and deployment. This was working perfectly fine using docker and jenkins but I got tired of just how heavy Jenkins was.
 
