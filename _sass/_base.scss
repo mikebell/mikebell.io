@@ -6,10 +6,10 @@ $white: #fff;
 $body-font-size: 18px;
 $icon-font-size: 2rem;
 
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,700|Roboto+Slab:300,400);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,700|Roboto+Slab:300,400|Montserrat);
 
 body{
-  font-family: Raleway, serif;
+  font-family: Montserrat, serif;
 
   a:hover {
     color: $lightblue;
@@ -136,9 +136,6 @@ blockquote p {
   .header-row {
     transition: all 0.5s ease-in-out;
     opacity: 0.2;
-    h1 {
-      float: left;
-    }
   }
   .header-row:hover {
     opacity: 1;
