@@ -57,3 +57,5 @@ source/.gulp-scss-cache
 /vendor/
 dist
 _site
+
+.env
