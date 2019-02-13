@@ -36,7 +36,9 @@ jobs:
       - name: site
       image_resource:
         type: docker-image
-        source: {repository: jekyll/builder}
+        source: 
+          repository: jekyll/jekyll
+          tag: "3.8"
       run:
         path: sh
         args:
