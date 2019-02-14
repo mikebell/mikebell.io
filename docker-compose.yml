@@ -1,7 +1,7 @@
 version: "3"
 services:
   serve:
-    command: jekyll serve --force_polling --incremental
+    command: jekyll serve --force_polling
     image: jekyll/jekyll:latest
     volumes:
       - .:/srv/jekyll
