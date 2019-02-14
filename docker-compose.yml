@@ -10,10 +10,20 @@ services:
       - 4000:4000
       - 35729:35729
       - 3000:3000
-      -   80:4000
+      # -   80:4000
+    labels:
+      - 'traefik.backend=mikebellio_jekyll'
+      - 'traefik.port=4000'
+      - 'traefik.frontend.rule=Host:mikebellio.localhost'
+      - 'traefik.docker.network=traefik'
+    networks:
+      - traefik
   build:
     command: jekyll build
     image: jekyll/jekyll:latest
     volumes:
       - .:/srv/jekyll
       - ./vendor/bundle:/usr/local/bundle
+networks:
+  traefik:
+    external: true
