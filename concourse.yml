@@ -17,7 +17,7 @@ resources:
   source:
     server: mikebell.io
     base_dir: /var/www/mikebell.io
-    user : digital
+    user : deploy
     private_key: ((concourse-priv))
     disable_version_path: true
 
@@ -44,7 +44,6 @@ jobs:
         args:
         - -exc
         - |
-          ls -lash
           chown jekyll:jekyll site
           jekyll build -s mikebell-io -d site
   - put: sync-resource
@@ -52,6 +51,3 @@ jobs:
       CONCOURSEPRIV: ((concourse-priv)),
       "sync_dir": "site",
       }
-# - name: Publish
-#   plan:
-#     put: sync-resource
