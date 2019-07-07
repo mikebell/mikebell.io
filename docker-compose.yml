@@ -19,7 +19,7 @@ services:
     networks:
       - traefik
   build:
-    command: jekyll build
+    command: jekyll build -d site
     image: jekyll/jekyll:3.8
     volumes:
       - .:/srv/jekyll
