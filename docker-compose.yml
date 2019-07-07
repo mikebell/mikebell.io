@@ -2,7 +2,7 @@ version: "3"
 services:
   serve:
     command: jekyll serve --force_polling
-    image: jekyll/jekyll:latest
+    image: jekyll/jekyll:3.8
     volumes:
       - .:/srv/jekyll
       - ./vendor/bundle:/usr/local/bundle
@@ -20,7 +20,7 @@ services:
       - traefik
   build:
     command: jekyll build
-    image: jekyll/jekyll:latest
+    image: jekyll/jekyll:3.8
     volumes:
       - .:/srv/jekyll
       - ./vendor/bundle:/usr/local/bundle
