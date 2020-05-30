@@ -1,9 +1,9 @@
 ---
 title: Retiring the drupal.org forum.
-path: ""
-date: ""
+path: "retiring-the-drupal-org-forum"
+date: "2011-02-06"
 layout: post
-description: ""
+description: "Please retire the drupal.org forums"
 ---
 <p><strong>Note</strong>: Due to popular demand I&#39;m publishing this early, there will be future revisions.</p><p>There&#39;s a post on the drupal.org mailing list which caught my attention -&nbsp;<a href="http://bit.ly/g56sOj" target="_blank">http://bit.ly/g56sOj</a></p><blockquote>
 <pre>

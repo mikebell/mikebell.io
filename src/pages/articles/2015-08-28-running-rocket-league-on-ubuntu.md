@@ -1,7 +1,7 @@
 ---
 title: Running Rocket League on Ubuntu
 path: "running-rock-league-on-ubuntu"
-date: ""
+date: "2015-08-28"
 layout: post
 description: ""
 ---

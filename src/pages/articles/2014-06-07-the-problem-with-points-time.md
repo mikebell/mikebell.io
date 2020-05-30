@@ -1,8 +1,8 @@
 ---
 title: The Problem with Points = Time
 
-path: ""
-date: ""
+path: "the-problem-with-points-equals-time"
+date: "2014-06-07"
 layout: post
 description: ""
 tags:

@@ -1,7 +1,7 @@
 ---
-title: Fucking tough.
-path: ""
-date: ""
+title: Life is fucking tough.
+path: "life-is-fucking-tough"
+date: "2015-06-19"
 layout: post
 description: ""
 ---

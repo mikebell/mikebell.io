@@ -1,8 +1,8 @@
 ---
 title: Testing with Codeception and Drupal Projects
 
-path: ""
-date: ""
+path: "testing-with-codeception"
+date: "2013-04-12"
 layout: post
 description: ""
 tags:

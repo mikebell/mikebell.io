@@ -1,8 +1,8 @@
 ---
 title: PSR-4 for dummies with practical example
 
-path: ""
-date: ""
+path: "psr-4-for-dummies"
+date: "2014-06-01"
 layout: post
 description: ""
 tags:

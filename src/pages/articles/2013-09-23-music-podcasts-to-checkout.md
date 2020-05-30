@@ -1,8 +1,8 @@
 ---
 title: Music podcasts to checkout
 
-path: ""
-date: ""
+path: "music-podcasts-to-checkout"
+date: "2013-09-23"
 layout: post
 description: ""
 tags:

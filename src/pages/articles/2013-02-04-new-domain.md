@@ -1,7 +1,7 @@
 ---
 title: New domain!
-path: ""
-date: ""
+path: "new-domain"
+date: "2013-02-04"
 layout: post
 description: ""
 ---

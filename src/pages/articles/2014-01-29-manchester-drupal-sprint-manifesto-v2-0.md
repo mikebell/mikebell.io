@@ -1,8 +1,8 @@
 ---
 title: Manchester Drupal Sprint Manifesto V2.0
 
-path: ""
-date: ""
+path: "manchsester-drupal-sprint-manifesto-v-2"
+date: "2014-01-29"
 layout: post
 description: ""
 tags:

@@ -1,8 +1,8 @@
 ---
 title: Drush Commands at Drupal Yorkshire
 
-path: ""
-date: ""
+path: "drush-commands-at-drupal-yorkshire"
+date: "2013-07-29"
 layout: post
 description: ""
 tags:

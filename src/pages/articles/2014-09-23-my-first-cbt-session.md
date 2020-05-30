@@ -1,7 +1,7 @@
 ---
 title: My first CBT session
-path: ""
-date: ""
+path: "my-first-cbt-session"
+date: "2014-09-23"
 layout: post
 description: ""
 ---

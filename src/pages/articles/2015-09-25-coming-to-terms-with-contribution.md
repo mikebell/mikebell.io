@@ -1,7 +1,7 @@
 ---
 title: Coming to terms with contribution
 path: "coming-to-terms-with-contribution"
-date: ""
+date: "2015-09-25"
 layout: post
 description: ""
 ---

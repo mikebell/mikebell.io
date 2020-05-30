@@ -1,8 +1,8 @@
 ---
 title: Music that shaped me
 
-path: ""
-date: ""
+path: "music-that-shaped-me"
+date: "2014-04-20"
 layout: post
 description: ""
 tags:

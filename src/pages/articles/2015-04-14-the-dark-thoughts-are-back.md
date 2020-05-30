@@ -1,7 +1,7 @@
 ---
 title: The Dark Thoughts Are Back
-path: ""
-date: ""
+path: "the-dark-thoughts-are-back"
+date: "2015-04-14"
 layout: post
 description: ""
 ---

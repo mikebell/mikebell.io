@@ -1,8 +1,8 @@
 ---
 title: Drupal + WordPress Sprints Manchester
 
-path: ""
-date: ""
+path: "drupal-wordpress-sprints-manchester"
+date: "2014-07-03"
 layout: post
 description: ""
 tags:

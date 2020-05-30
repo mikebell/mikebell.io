@@ -1,7 +1,7 @@
 ---
 title: A Tale of Christmas Testing
-path: ""
-date: ""
+path: "a-tale-of-christmas-testing"
+date: "2013-12-24"
 layout: post
 description: ""
 ---

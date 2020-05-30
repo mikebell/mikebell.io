@@ -1,8 +1,8 @@
 ---
 title: Git just fucking get on with it.
 
-path: ""
-date: ""
+path: "git-just-fucking-get-on-with-it"
+date: "2013-07-16"
 layout: post
 description: ""
 tags:

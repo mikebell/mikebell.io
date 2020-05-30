@@ -1,7 +1,7 @@
 ---
 title: Six Months and a Bit
-path: ""
-date: ""
+path: "six-months-and-a-bit"
+date: "2013-07-29"
 layout: post
 description: ""
 ---

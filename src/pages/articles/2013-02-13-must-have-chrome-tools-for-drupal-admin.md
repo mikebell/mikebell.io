@@ -1,8 +1,8 @@
 ---
 title: Must have Chrome tools for Drupal Admin
 
-path: ""
-date: ""
+path: "must-have-chrom-tools-for-drupal-admin"
+date: "2013-02-13"
 layout: post
 description: ""
 tags:

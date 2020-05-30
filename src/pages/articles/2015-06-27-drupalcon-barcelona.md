@@ -1,7 +1,7 @@
 ---
 title: Drupalcon Barcelona
 path: "drupalcon-barcelona"
-date: ""
+date: "2015-06-27"
 layout: post
 description: ""
 ---

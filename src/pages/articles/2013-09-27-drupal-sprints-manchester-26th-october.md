@@ -1,8 +1,8 @@
 ---
 title: Drupal Sprints Manchester 26th October
 
-path: ""
-date: ""
+path: "drupal-sprints-manchester-26th-october"
+date: "2013-09-27"
 layout: post
 description: ""
 tags:

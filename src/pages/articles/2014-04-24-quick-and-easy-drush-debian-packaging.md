@@ -1,8 +1,8 @@
 ---
 title: Quick and Easy Drush Debian Packaging
 
-path: ""
-date: ""
+path: "quick-and-easy-drush-debian-packaging"
+date: "2014-04-24"
 layout: post
 description: ""
 tags:

@@ -1,8 +1,8 @@
 ---
 title: Download Drupal to Current Directory using Drush
 
-path: ""
-date: ""
+path: "download-drupal-to-current-directory-using-drush"
+date: "2013-08-27"
 layout: post
 description: ""
 tags:

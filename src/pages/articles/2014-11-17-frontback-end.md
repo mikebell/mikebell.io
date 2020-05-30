@@ -1,8 +1,8 @@
 ---
 title: Front/Back End
 
-path: ""
-date: ""
+path: "fonrt-back-end"
+date: "2014-11-17"
 layout: post
 description: ""
 tags:

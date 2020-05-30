@@ -1,7 +1,7 @@
 ---
 title: The Deep End
-path: ""
-date: ""
+path: "the-deep-end"
+date: "2013-09-18"
 layout: post
 description: ""
 ---

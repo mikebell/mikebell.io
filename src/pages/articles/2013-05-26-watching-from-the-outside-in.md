@@ -1,7 +1,7 @@
 ---
 title: Watching From the Outside In
-path: ""
-date: ""
+path: "watching-from-the-outside-in"
+date: "2013-05-26"
 layout: post
 description: ""
 ---

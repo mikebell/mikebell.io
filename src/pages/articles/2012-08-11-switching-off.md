@@ -1,7 +1,7 @@
 ---
 title: Switching Off
-path: ""
-date: ""
+path: "switching-off"
+date: "2012-08-11"
 layout: post
 description: ""
 ---

@@ -1,7 +1,7 @@
 ---
 title: The 21st Century Music Problem
-path: ""
-date: ""
+path: "the-21st-century-music-problem"
+date: "2012-10-11"
 layout: post
 description: ""
 ---

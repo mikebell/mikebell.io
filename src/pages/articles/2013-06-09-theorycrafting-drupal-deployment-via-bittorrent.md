@@ -1,8 +1,8 @@
 ---
 title: Theorycrafting Drupal Deployment Via Bittorrent
 
-path: ""
-date: ""
+path: "theorycraftin-drupal-deployment-via-bittorrent"
+date: "2013-06-09"
 layout: post
 description: ""
 tags:

@@ -1,8 +1,8 @@
 ---
 title: A Call to Arms - Support your local Drupal Community
 
-path: ""
-date: ""
+path: "a-call-to-arms-support-your-local-drupal-community"
+date: "2013-10-13"
 layout: post
 description: ""
 tags:

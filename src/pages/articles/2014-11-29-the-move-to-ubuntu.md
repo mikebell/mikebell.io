@@ -1,7 +1,7 @@
 ---
 title: The Move to Ubuntu
-path: ""
-date: ""
+path: "the-move-to-ubuntu"
+date: "2014-11-29"
 layout: post
 description: ""
 ---

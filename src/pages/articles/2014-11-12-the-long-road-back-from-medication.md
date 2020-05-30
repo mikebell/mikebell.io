@@ -1,7 +1,7 @@
 ---
 title: The Long Road Back From Medication
-path: ""
-date: ""
+path: "the-long-road-back-from-medication"
+date: "2014-11-12"
 layout: post
 description: ""
 ---

@@ -1,7 +1,7 @@
 ---
 title: Drupalcamp Retrospective Part 2
-path: ""
-date: ""
+path: "drupalcamp-retrospective-part-2"
+date: "2012-10-28"
 layout: post
 description: ""
 ---

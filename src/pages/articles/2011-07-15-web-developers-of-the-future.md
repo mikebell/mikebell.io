@@ -1,9 +1,9 @@
 ---
 title: Web Developers of the Future
-path: ""
-date: ""
+path: "web-developers-of-the-future"
+date: "2011-07-15"
 layout: post
-description: ""
+description: "Today I gave a talk to 6th form students at Appleton Academy about getting into the industry and more specifically the drupal industry."
 ---
 Today I gave a talk to 6th form students at Appleton Academy about getting into the industry and more specifically the drupal industry.
 

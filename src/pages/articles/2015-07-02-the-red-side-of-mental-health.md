@@ -1,7 +1,7 @@
 ---
 title: The Red Side of Mental Health
 path: "the-red-side-of-mental-health"
-date: ""
+date: "2015-07-02"
 layout: post
 description: ""
 ---

@@ -1,10 +1,10 @@
 ---
 title: Using Jenkins CI and Drupal
 
-path: ""
-date: ""
+path: "using-jenkins-ci-and-drupal"
+date: "2012-01-24"
 layout: post
-description: ""
+description: "While building my Drupal 7 profile I started playing around with Jenkins CI."
 tags:
   - "Drupal"
   - "Drupal Planet"

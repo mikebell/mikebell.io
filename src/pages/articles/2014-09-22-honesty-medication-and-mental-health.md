@@ -1,7 +1,7 @@
 ---
 title: Honesty, Medication and Mental Health
-path: ""
-date: ""
+path: "honesty-medication-and-mental-health"
+date: "2014-09-22"
 layout: post
 description: ""
 ---

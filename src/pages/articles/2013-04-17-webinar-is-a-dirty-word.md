@@ -1,7 +1,7 @@
 ---
 title: Webinar is a dirty word
-path: ""
-date: ""
+path: "webinar-is-a-dirty-word"
+date: "2013-04-17"
 layout: post
 description: ""
 ---

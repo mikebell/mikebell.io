@@ -1,8 +1,8 @@
 ---
 title: My Keyboards
 
-path: ""
-date: ""
+path: "my-keyboards"
+date: "2014-06-20"
 layout: post
 description: ""
 tags:

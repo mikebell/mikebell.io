@@ -1,7 +1,7 @@
 ---
 title: Goodbye Ixis, Hello CTI!
-path: ""
-date: ""
+path: "goodbye-ixis-hello-cti"
+date: "2013-08-02"
 layout: post
 description: ""
 ---

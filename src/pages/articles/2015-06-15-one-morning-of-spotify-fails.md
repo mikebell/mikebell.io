@@ -1,7 +1,7 @@
 ---
 title: One Morning of Spotify Fails
-path: ""
-date: ""
+path: "one-morning-of-spotify-fails"
+date: "2015-06-15"
 layout: post
 description: ""
 ---

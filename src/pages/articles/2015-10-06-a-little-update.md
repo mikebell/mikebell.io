@@ -1,7 +1,7 @@
 ---
 title: A little update
 path: "a-little-update"
-date: ""
+date: "2015-10-06"
 layout: post
 description: ""
 ---

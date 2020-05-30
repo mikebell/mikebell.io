@@ -1,7 +1,7 @@
 ---
 title: How To Quit Vim
-path: ""
-date: ""
+path: "how-to-quit-vim"
+date: "2014-04-03"
 layout: post
 description: ""
 ---

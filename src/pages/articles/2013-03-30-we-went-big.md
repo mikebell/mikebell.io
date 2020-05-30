@@ -1,8 +1,8 @@
 ---
 title: We Went Big...
 
-path: ""
-date: ""
+path: "we-went-big"
+date: "2013-03-30"
 layout: post
 description: ""
 tags:

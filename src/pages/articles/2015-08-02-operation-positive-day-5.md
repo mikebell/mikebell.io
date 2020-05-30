@@ -2,7 +2,7 @@
 title: Operation Positive - Day 5
 
 path: "operation-positive-day-5"
-date: ""
+date: "2015-08-02"
 layout: post
 description: ""
 tags:

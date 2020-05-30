@@ -1,7 +1,7 @@
 ---
 title: Now You Can Panic
-path: ""
-date: ""
+path: "now-you-can-panic"
+date: "2012-09-24"
 layout: post
 description: ""
 ---

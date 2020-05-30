@@ -1,9 +1,9 @@
 ---
 title: Blocking Twitter Trends and User Recommendations using Adblock Plus
-path: ""
-date: ""
+path: "blocking-twitter-trends"
+date: "2012-02-04"
 layout: post
-description: ""
+description: "To block twitters really annoying trends and user recommendations use the following custom filter"
 ---
 To block twitters really annoying trends and user recommendations use the following custom filter:
 

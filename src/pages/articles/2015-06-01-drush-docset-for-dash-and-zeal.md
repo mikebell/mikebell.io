@@ -1,7 +1,7 @@
 ---
 title: Drush Docset for Dash
-path: ""
-date: ""
+path: "drush-docset-for-dash"
+date: "2015-06-01"
 layout: post
 description: ""
 ---

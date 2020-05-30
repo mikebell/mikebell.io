@@ -1,7 +1,7 @@
 ---
 title: Drupal Deployment using deb packages and Jenkins
-path: ""
-date: ""
+path: "drupal-deployment-using-deb-packages-and-jenkins"
+date: "2013-02-17"
 layout: post
 description: ""
 ---

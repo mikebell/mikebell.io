@@ -1,7 +1,7 @@
 ---
 title: The Surface Detail
-path: ""
-date: ""
+path: "the-surface-detail"
+date: "2015-01-27"
 layout: post
 description: ""
 ---

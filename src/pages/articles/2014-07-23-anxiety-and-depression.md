@@ -1,7 +1,7 @@
 ---
 title: Anxiety and Depression
-path: ""
-date: ""
+path: "anxiety-and-depression"
+date: "2014-07-23"
 layout: post
 description: ""
 ---

@@ -1,7 +1,7 @@
 ---
 title: Managing CLI config accross multiple servers/desktops
-path: ""
-date: ""
+path: "managing-cli-config"
+date: "2012-03-17"
 layout: post
 description: ""
 ---

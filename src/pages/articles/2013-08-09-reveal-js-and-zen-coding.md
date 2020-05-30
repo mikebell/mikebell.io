@@ -1,8 +1,8 @@
 ---
 title: Reveal.js and Zen Coding
 
-path: ""
-date: ""
+path: "reveal-js-and-zen-coding"
+date: "2013-08-09"
 layout: post
 description: ""
 tags:

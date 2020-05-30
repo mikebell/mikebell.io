@@ -1,8 +1,8 @@
 ---
 title: Override servers version of drush
 
-path: ""
-date: ""
+path: "override-servers-version-of-drush"
+date: "2014-01-23"
 layout: post
 description: ""
 tags:

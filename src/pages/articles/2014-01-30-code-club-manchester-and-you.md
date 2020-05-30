@@ -1,8 +1,8 @@
 ---
 title: Code Club Manchester and You!
 
-path: ""
-date: ""
+path: "code-club-manchester-and-you"
+date: "2014-01-30"
 layout: post
 description: ""
 tags:

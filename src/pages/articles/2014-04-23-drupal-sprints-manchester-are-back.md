@@ -1,8 +1,8 @@
 ---
 title: Drupal Sprints Manchester are back!
 
-path: ""
-date: ""
+path: "drupal-sprints-manchester-are-back"
+date: "2014-04-23"
 layout: post
 description: ""
 tags:

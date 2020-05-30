@@ -1,7 +1,7 @@
 ---
 title: Cool projects and my github starred repos
-path: ""
-date: ""
+path: "cool-projects-and-my-github-starred-repos"
+date: "2013-07-29"
 layout: post
 description: ""
 ---

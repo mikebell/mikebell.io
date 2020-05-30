@@ -1,8 +1,8 @@
 ---
 title: The Drop Layout
 
-path: ""
-date: ""
+path: "the-drop-layout"
+date: "2014-10-24"
 layout: post
 description: ""
 tags:

@@ -6,8 +6,9 @@ date: "2016-10-04"
 tags:
   - "geekmentalhelpweek"
 path: "hey-how-are-you"
-description: "Like most conversations do it starts with a "Hey, how are you?". What people don't know is the mental twists that my brain goes through in the split second it takes me to answer."
+description: "Like most conversations do it starts with a Hey, how are you?. What people don't know is the mental twists that my brain goes through in the split second it takes me to answer."
 ---
+
 Like most conversations do it starts with a "Hey, how are you?". What people don't know is the mental twists that my brain goes through in the split second it takes me to answer.
 
 Do I tell them:

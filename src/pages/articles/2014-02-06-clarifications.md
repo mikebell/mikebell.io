@@ -1,7 +1,7 @@
 ---
 title: Clarifications
-path: ""
-date: ""
+path: "clarifications"
+date: "2014-02-06"
 layout: post
 description: ""
 ---

@@ -1,8 +1,8 @@
 ---
 title: Stepping Down from NWDUG
 
-path: ""
-date: ""
+path: "stepping-down-from-nwdug"
+date: "2014-02-09"
 layout: post
 description: ""
 tags:

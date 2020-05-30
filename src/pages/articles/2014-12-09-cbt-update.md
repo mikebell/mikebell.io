@@ -1,7 +1,7 @@
 ---
 title: CBT Update
-path: ""
-date: ""
+path: "cbt-update"
+date: "2014-12-09"
 layout: post
 description: ""
 ---

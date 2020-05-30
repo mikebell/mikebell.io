@@ -1,7 +1,7 @@
 ---
 title: Ubuntu can be pretty
-path: ""
-date: ""
+path: "ubuntu-can-be-pretty"
+date: "2015-01-19"
 layout: post
 description: ""
 ---

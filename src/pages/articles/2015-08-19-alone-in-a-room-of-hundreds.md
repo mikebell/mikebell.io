@@ -1,7 +1,7 @@
 ---
 title: Alone in a room of hundreds
 path: "alone-in-a-room-of-hundreds"
-date: ""
+date: "2015-08-19"
 layout: post
 description: ""
 ---

@@ -1,7 +1,7 @@
 ---
 title: Sunrise & Sunset
 path: "sunrise-and-sunset"
-date: ""
+date: "2015-07-06"
 layout: post
 description: ""
 ---

@@ -1,7 +1,7 @@
 ---
 title: Rough and Ready phpcs in PHPStorm
-path: ""
-date: ""
+path: "rough-and-ready-phpcs-in-phpstorm"
+date: "2013-11-29"
 layout: post
 description: ""
 ---

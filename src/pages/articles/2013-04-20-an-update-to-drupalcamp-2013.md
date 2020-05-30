@@ -1,8 +1,8 @@
 ---
 title: An update to DrupalCamp 2013
 
-path: ""
-date: ""
+path: "an-update-to-drupalcamp-2013"
+date: "2013-04-20"
 layout: post
 description: ""
 tags:

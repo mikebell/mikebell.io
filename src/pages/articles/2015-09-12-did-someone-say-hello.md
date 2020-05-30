@@ -1,7 +1,7 @@
 ---
 title: Did someone say hello?
 path: "did-someone-say-hello"
-date: ""
+date: "2015-09-12"
 layout: post
 description: ""
 ---

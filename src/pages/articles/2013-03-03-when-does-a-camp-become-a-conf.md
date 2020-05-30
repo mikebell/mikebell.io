@@ -1,7 +1,7 @@
 ---
 title: When does a camp become a conf?
-path: ""
-date: ""
+path: "when-does-a-camp-become-a-conf"
+date: "2013-03-03"
 layout: post
 description: ""
 ---

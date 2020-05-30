@@ -1,9 +1,9 @@
 ---
 title: Quick lick of paint.
-path: ""
-date: ""
+path: "quick-lick-of-paint"
+date: "2011-07-15"
 layout: post
-description: ""
+description: "It's amazing what a quick lick of paint can do!"
 ---
 It's amazing what a quick lick of paint can do!
 

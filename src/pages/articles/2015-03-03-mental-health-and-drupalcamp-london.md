@@ -1,7 +1,7 @@
 ---
 title: Mental Health and DrupalCamp London
-path: ""
-date: ""
+path: "mental-health-and-drupalcamp-london"
+date: "2015-03-03"
 layout: post
 description: ""
 ---

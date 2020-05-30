@@ -1,8 +1,8 @@
 ---
 title: Kanban All The Things
 
-path: ""
-date: ""
+path: "kanban-all-the-things"
+date: "2013-08-05"
 layout: post
 description: ""
 tags:

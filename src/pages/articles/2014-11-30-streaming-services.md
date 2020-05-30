@@ -1,7 +1,7 @@
 ---
 title: Thoughts on Video Streaming Services
-path: ""
-date: ""
+path: "thoughts-on-video-streaming-services"
+date: "2014-11-30"
 layout: post
 description: ""
 ---

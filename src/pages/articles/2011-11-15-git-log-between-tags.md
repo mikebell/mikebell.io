@@ -1,9 +1,9 @@
 ---
 title: Git log between tags
-path: ""
-date: ""
+path: "git-log-between-tags"
+date: "2011-11-15"
 layout: post
-description: ""
+description: "How to git log between tags"
 ---
 This has been bugging me for a while, the cheap and easy way to make changelogs:
 

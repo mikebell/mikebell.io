@@ -1,7 +1,7 @@
 ---
 title: Planning for the other kind of failure
-path: ""
-date: ""
+path: "planning-for-the-other-kind-of-failure"
+date: "2012-07-15"
 layout: post
 description: ""
 ---

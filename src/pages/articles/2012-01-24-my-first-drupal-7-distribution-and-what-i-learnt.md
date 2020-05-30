@@ -1,10 +1,10 @@
 ---
 title: My first Drupal 7 Distribution and what I learnt
 
-path: ""
-date: ""
+path: "my-first-drupal-7-distribution"
+date: "2012-01-24"
 layout: post
-description: ""
+description: "My first Drupal 7 Distribution and what I learnt"
 tags:
   - "Drupal Planet"
 ---

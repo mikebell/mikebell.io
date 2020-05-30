@@ -1,7 +1,7 @@
 ---
 title: An Update Pt. 2
-path: ""
-date: ""
+path: "an-update-pt-2"
+date: "2014-08-18"
 layout: post
 description: ""
 ---

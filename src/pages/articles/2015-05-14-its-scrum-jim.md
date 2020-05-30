@@ -1,7 +1,7 @@
 ---
 title: It's Scrum Jim!
-path: ""
-date: ""
+path: "its-scrum-jim"
+date: "2015-05-14"
 layout: post
 description: ""
 ---

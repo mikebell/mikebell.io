@@ -1,7 +1,7 @@
 ---
 title: Support Ticket Manifesto
-path: ""
-date: ""
+path: "support-ticket-manifesto"
+date: "2012-09-23"
 layout: post
 description: ""
 ---

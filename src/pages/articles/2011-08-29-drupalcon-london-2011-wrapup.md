@@ -1,10 +1,10 @@
 ---
 title: DrupalCon London 2011 Wrapup
 
-path: ""
-date: ""
+path: "drupalcon-london-2011-wrapup"
+date: "2011-08-29"
 layout: post
-description: ""
+description: "It's that time again now that I'm well and truly full of drupalflu."
 tags:
   - "Drupal Planet"
 ---

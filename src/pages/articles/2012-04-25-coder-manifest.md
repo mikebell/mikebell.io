@@ -1,7 +1,7 @@
 ---
 title: Coder Manifest
-path: ""
-date: ""
+path: "coder-manifest"
+date: "2012-04-25"
 layout: post
 description: ""
 ---

@@ -1,10 +1,10 @@
 ---
 title: Using ack with Drupal projects
 
-path: ""
-date: ""
+path: "using-ack-with-drupal-projects"
+date: "2011-10-13"
 layout: post
-description: ""
+description: "I decided to move to Ack for searching as it has nice switches like --php and --nosql."
 tags:
   - "Drupal Planet"
 ---

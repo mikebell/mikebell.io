@@ -1,8 +1,8 @@
 ---
 title: Vagrant Boxes for Drupal Development
 
-path: ""
-date: ""
+path: "vagrant-boxes-for-drupal-development"
+date: "2013-08-10"
 layout: post
 description: ""
 tags:

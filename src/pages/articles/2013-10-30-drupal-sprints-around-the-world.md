@@ -1,8 +1,8 @@
 ---
 title: Drupal Sprints around the World
 
-path: ""
-date: ""
+path: "drupal-sprints-around-the-world"
+date: "2013-10-30"
 layout: post
 description: ""
 tags:

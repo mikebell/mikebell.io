@@ -1,7 +1,7 @@
 ---
 title: Bugs are way worse than you can imagine
-path: ""
-date: ""
+path: "bugs-are-way-worse-than-you-can-imagine"
+date: "2015-04-21"
 layout: post
 description: ""
 ---

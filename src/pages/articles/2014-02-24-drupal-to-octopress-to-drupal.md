@@ -1,8 +1,8 @@
 ---
 title: Drupal to Octopress to Drupal
 
-path: ""
-date: ""
+path: "drupal-to-octopress-to-drupal"
+date: "2014-02-24"
 layout: post
 description: ""
 tags:

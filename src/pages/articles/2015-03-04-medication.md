@@ -1,7 +1,7 @@
 ---
 title: Medication
-path: ""
-date: ""
+path: "medication"
+date: "2015-03-04"
 layout: post
 description: ""
 ---

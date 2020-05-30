@@ -1,7 +1,7 @@
 ---
 title: Can we have a community option please?
-path: ""
-date: ""
+path: "can-we-have-a-community-option-please"
+date: "2015-05-26"
 layout: post
 description: ""
 ---

@@ -1,7 +1,7 @@
 ---
 title: Drupalcamp Manchester - A retrospective
-path: ""
-date: ""
+path: "drupalcamp-manchester-a-retrospective"
+date: "2012-07-16"
 layout: post
 description: ""
 ---

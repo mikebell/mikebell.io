@@ -1,8 +1,8 @@
 ---
 title: Unofficial Social Friday Night - Drupal Camp NW 2013
 
-path: ""
-date: ""
+path: "unofficial-social-friday-night"
+date: "2013-11-16"
 layout: post
 description: ""
 tags:

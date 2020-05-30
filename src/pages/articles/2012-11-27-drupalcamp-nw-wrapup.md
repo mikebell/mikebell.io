@@ -1,7 +1,7 @@
 ---
 title: DrupalCamp NW Wrapup
-path: ""
-date: ""
+path: "drupalcamp-nw-wrapup"
+date: "2012-11-27"
 layout: post
 description: ""
 ---

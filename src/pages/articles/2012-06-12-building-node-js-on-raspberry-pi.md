@@ -1,7 +1,7 @@
 ---
 title: Building Node JS on Raspberry Pi
-path: ""
-date: ""
+path: "building-node-js-on-raspberry-pi"
+date: "2012-06-12"
 layout: post
 description: ""
 ---

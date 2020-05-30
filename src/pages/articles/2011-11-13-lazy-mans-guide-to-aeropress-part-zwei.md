@@ -1,9 +1,9 @@
 ---
 title: Lazy Mans guide to Aeropress - Part Zwei
-path: ""
-date: ""
+path: "lazy-mans-guide-to-aeropress-part-zwei"
+date: "2011-11-13"
 layout: post
-description: ""
+description: "After having quite a few months off from coffee I'm finally back into it and brewing again."
 ---
 After having quite a few months off from coffee I'm finally back into it and brewing again.
 

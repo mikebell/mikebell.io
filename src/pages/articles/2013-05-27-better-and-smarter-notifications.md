@@ -1,7 +1,7 @@
 ---
 title: Better and Smarter Notifications
-path: ""
-date: ""
+path: "better-and-smarter-notifications"
+date: "2013-05-27"
 layout: post
 description: ""
 ---
