@@ -4,6 +4,10 @@ title: Fun with Sculpin
 tags:
   - "Sculpin"
   - "Gulp"
+date: 2015-12-28
+layout: post
+path: "fun-with-sculpin"
+description: "After migrating my blog over to Sculpin I've slowly been tweaking things here and there."
 ---
 After migrating my blog over to Sculpin I've slowly been tweaking things here and there. Over the past few days I've added the following:
 

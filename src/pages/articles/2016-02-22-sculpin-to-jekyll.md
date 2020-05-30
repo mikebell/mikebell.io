@@ -3,6 +3,10 @@ title: Sculpin to Jekyll
 tags:
   - "Sculpin"
   - "Jekyll"
+path: "sculpin-to-jekyll"
+description: ""
+date: "2016-02-22"
+layout: post
 ---
 A while ago I found Sculpin through [@opdavies](https://twitter.com/opdavies) it looked really great, a PHP based blogging engine. It's pretty decent but there are a few issues with it. Namely [this](https://github.com/sculpin/sculpin/issues/295), there's already a PR for it but it's not been merged in and doesn't look like it will any time soon. The bug renders it all pretty useless when trying to modify things.
 

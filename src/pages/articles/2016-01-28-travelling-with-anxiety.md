@@ -3,6 +3,10 @@ title: Traveling with Anxiety
 
 tags:
   - "Anxiety"
+layout: post
+date: "2016-01-28"
+path: "travelling-with-anxiety"
+description: "I’ve been fortunate in my life to be able to travel around a lot, both in the UK and the World.  While growing up our family used to go camping a lot, later on we started to go abroad more. I love traveling, meeting new people and experiencing their cultures is just amazing."
 ---
 I’ve been fortunate in my life to be able to travel around a lot, both in the UK and the World.  While growing up our family used to go camping a lot, later on we started to go abroad more. I love traveling, meeting new people and experiencing their cultures is just amazing.
 

@@ -6,6 +6,7 @@ date: "2016-09-12"
 path: "hello-my-old-friend"
 draft: false
 category: "Mental health"
+description: "I've not missed you not at all. I wish you weren't back but here we are my dear friend/enemy Propranolol."
 ---
 I've not missed you not at all. I wish you weren't back but here we are my dear friend/enemy Propranolol.
 

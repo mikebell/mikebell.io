@@ -3,6 +3,7 @@ layout: post
 title: "The hardest part of our jobs"
 date: "2016-12-22"
 path: "the-hardest-part-of-our-jobs"
+description: "There became a point over the past two years where it dawned on me that I was a good coder. It sounds like I'm talking out of my ass but it's true, I noticed when asked to solve complex problems and found the solution came really easy to me. I guess after over 9 years I *get* Drupal."
 ---
 
 This post is a follow up on:

@@ -3,6 +3,10 @@ title: My Journey
 tags:
   - "Mental Health"
   - "#timetotalk"
+path: "my-journey"
+layout: post
+date: "2016-02-04"
+description: "The posts below are my journey through the past few years of my life with depression and anxiety. They're rough, crass and raw. Looking back through all this is a challenge and shows how far I've come. Each post represents a large part of my life."
 ---
 The posts below are my journey through the past few years of my life with depression and anxiety. They're rough, crass and raw. Looking back through all this is a challenge and shows how far I've come. Each post represents a large part of my life.
 

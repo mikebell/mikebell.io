@@ -5,6 +5,8 @@ author: "Mike Bell"
 date: 2016-03-23 13:33:32
 tags:
   - "Remote working"
+path: "remote-work-is-great-till-it-isnt"
+description: "Just over three months and I figure it's time to check in. What can I say I love remote working it suites me very well. I've gone form a noisy office full of distractions to a focused purpose built development environment."
 ---
 Just over three months and I figure it's time to check in. What can I say I love remote working it suites me very well. I've gone form a noisy office full of distractions to a focused purpose built development environment.
 

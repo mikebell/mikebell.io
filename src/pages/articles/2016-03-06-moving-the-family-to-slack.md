@@ -4,7 +4,9 @@ title: "Moving the family to slack"
 author: "Mike Bell"
 date: 2016-03-06 21:37:41
 tags:
-- "Slack"
+  - "Slack"
+path: "moving-the-family-to-slack"
+description: "I've done the impossible. I've moved my family to Slack. After seeing a post making the rounds on twitter a few months ago about moving their family to Slack I decided that I'd try it."
 ---
 I've done the impossible. I've moved my family to Slack. After seeing a post making the rounds on twitter a few months ago about moving their family to Slack I decided that I'd try it.
 

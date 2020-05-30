@@ -3,6 +3,10 @@ title: Release and Rollback with Robo
 
 tags:
   - "Robo"
+path: "release-and-rollback-with-robo"
+date: "2016-01-06"
+description: "I've been looking for a release management tool for a while now. There are quite a lot of tools to do this but I just couldn't get my head into writing XML for most of them."
+layout: post
 ---
 I've been looking for a release management tool for a while now. There are quite a lot of tools to do this but I just couldn't get my head into writing XML for most of them.
 
@@ -17,11 +21,13 @@ My [RoboFile.php](https://gist.github.com/mikebell/de71ea97bee4332797e9) consist
 
 This leaves you with the following:
 
-    $site
-      /releases
-          /123456789
-          /123456790
-          /current -> 123456789
+```
+$site
+  /releases
+      /123456789
+      /123456790
+      /current -> 123456789
+```
 
 So you can easily point your web server config to ```$site/releases/current```
 
