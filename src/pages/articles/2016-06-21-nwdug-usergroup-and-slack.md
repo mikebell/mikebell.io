@@ -4,7 +4,6 @@ title: "NWDUG User group and Slack"
 author: "Mike Bell"
 date: "2016-06-21"
 path: "nwdug-user-group-and-slack"
-layout: post
 category: "nwdug"
 ---
 Around the 9th of September 2015 we set up Slack for NWDUG. Before the slack channel communication wasn't brilliant, it felt to me like our community was just centred around one day a month event.

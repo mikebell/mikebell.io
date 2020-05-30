@@ -2,7 +2,7 @@
 draft: false
 title: Windows 10 isn't that bad to develop with
 date: "2019-02-13"
-layout: page
+layout: post
 path: "/developing-in-windows-10"
 tags:
   - "Windows 10"
