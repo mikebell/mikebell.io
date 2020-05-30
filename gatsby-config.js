@@ -22,6 +22,10 @@ module.exports = {
         path: '/about/',
       },
       {
+        label: 'Speaking',
+        path: '/speaking/'
+      },
+      {
         label: 'Contact me',
         path: '/contact/',
       },
