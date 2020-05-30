@@ -1,6 +1,9 @@
 ---
 title: When does a camp become a conf?
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 I'm on a train heading back from drupal camp London, after a great weekend it got me thinking what is a camp and where do you draw the line?
 

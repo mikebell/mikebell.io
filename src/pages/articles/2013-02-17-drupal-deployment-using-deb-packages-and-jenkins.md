@@ -1,6 +1,9 @@
 ---
 title: Drupal Deployment using deb packages and Jenkins
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 I couldn't sleep last night due to a stupid amount of coffee while my brother came round so I go to thinking how I could sort out the mess that is currently my production server.
 

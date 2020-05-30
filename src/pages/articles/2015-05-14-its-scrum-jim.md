@@ -1,6 +1,9 @@
 ---
 title: It's Scrum Jim!
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 My colleague and friend Gem Hill has published her first podcast on Scrum and Agile.
 

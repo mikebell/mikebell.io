@@ -1,6 +1,10 @@
 ---
 title: An update to DrupalCamp 2013
 
+path: ""
+date: ""
+layout: post
+description: ""
 tags:
   - "Drupal"
   - "DrupalCamp NW 2013"

@@ -1,6 +1,9 @@
 ---
 title: An open letter to the bbc
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 Dear BBC,
 

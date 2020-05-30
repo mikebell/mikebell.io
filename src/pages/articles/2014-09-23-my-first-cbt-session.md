@@ -1,6 +1,9 @@
 ---
 title: My first CBT session
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 Today I had my first CBT session. I’m hugely conflicted, I don’t know what I was expecting. My session was just a reiteration of the initial phone introduction. It seemed like a waste of time to me, I’m not discounting CBT at all.
 

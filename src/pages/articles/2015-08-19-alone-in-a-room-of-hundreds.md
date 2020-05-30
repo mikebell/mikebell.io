@@ -1,6 +1,9 @@
 ---
 title: Alone in a room of hundreds
-
+path: "alone-in-a-room-of-hundreds"
+date: ""
+layout: post
+description: ""
 ---
 Conference season is looming pretty fast, I'm giving talks at two of my most respected conferences.
 

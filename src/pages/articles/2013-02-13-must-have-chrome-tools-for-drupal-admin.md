@@ -1,6 +1,10 @@
 ---
 title: Must have Chrome tools for Drupal Admin
 
+path: ""
+date: ""
+layout: post
+description: ""
 tags:
   - "Drupal"
   - "Drupal Planet"

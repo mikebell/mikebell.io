@@ -1,6 +1,9 @@
 ---
 title: DrupalCamp NW Wrapup
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 After taking a whole 24 hours away from anything DrupalCamp NW related I now feel relaxed and chilled enough to write this.
 

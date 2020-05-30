@@ -1,6 +1,9 @@
 ---
 title: Social Media Recursion
-
+path: "social-media-recursion"
+date: ""
+layout: post
+description: ""
 ---
 With what seems to be a new social network being released every week, I'm looking at you Buzz, people have more than their fair share of choices to make. This got me thinking, why not have an account on everyone? Well for a start there's no point, but most crucial is why bother if none of your friends are on there.
 

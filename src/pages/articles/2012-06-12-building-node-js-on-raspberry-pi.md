@@ -1,6 +1,9 @@
 ---
 title: Building Node JS on Raspberry Pi
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 'gcc': {
     'all': {

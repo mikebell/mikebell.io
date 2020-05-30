@@ -1,6 +1,10 @@
 ---
 title: PHPNW14 Short Review
 
+path: ""
+date: ""
+layout: post
+description: ""
 tags:
   - "PHPNW"
   - "PHPNW14"

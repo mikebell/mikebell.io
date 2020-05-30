@@ -1,6 +1,10 @@
 ---
 title: Music that shaped me
 
+path: ""
+date: ""
+layout: post
+description: ""
 tags:
   - "Music"
 ---

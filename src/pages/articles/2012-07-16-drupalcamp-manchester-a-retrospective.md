@@ -1,6 +1,9 @@
 ---
 title: Drupalcamp Manchester - A retrospective
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 A lot has happened since the last Drupalcamp in Manchester, and when I say a lot I mean a hell of a lot. It's been quite a few years since (over 3 years in fact!).
 

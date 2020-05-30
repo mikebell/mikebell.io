@@ -1,6 +1,9 @@
 ---
 title: Git log between tags
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 This has been bugging me for a while, the cheap and easy way to make changelogs:
 

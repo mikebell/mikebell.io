@@ -1,6 +1,9 @@
 ---
 title: Blocking Twitter Trends and User Recommendations using Adblock Plus
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 To block twitters really annoying trends and user recommendations use the following custom filter:
 

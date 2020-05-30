@@ -1,6 +1,9 @@
 ---
 title: Personal Development Is Key
-
+path: "personal-development-is-key"
+layout: post
+date: "2015-12-23"
+description: "When I decided to leave my last job I had a lot of thoughts running through my head. I knew that moving to WunderUK would be a big change and challenge but I figured it was worth a shot. Of all the thoughts that ran through my head at the time (hell they still do) it was the thought of personal development."
 ---
 When I decided to leave my last job I had a lot of thoughts running through my head. I knew that moving to WunderUK would be a big change and challenge but I figured it was worth a shot. Of all the thoughts that ran through my head at the time (hell they still do) it was the thought of personal development.
 

@@ -1,6 +1,9 @@
 ---
 title: The Red Side of Mental Health
-
+path: "the-red-side-of-mental-health"
+date: ""
+layout: post
+description: ""
 ---
 There's a side of mental health that I haven't openly talked about. That side is money. Not an easy thing to talk about.
 

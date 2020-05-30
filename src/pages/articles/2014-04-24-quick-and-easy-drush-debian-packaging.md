@@ -1,6 +1,10 @@
 ---
 title: Quick and Easy Drush Debian Packaging
 
+path: ""
+date: ""
+layout: post
+description: ""
 tags:
   - "Debian"
   - "drush"

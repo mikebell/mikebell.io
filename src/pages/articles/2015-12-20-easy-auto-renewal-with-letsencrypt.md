@@ -3,6 +3,10 @@ title: Easy Auto Renewal with Letsencrypt
 
 tags:
   - "letsencrypt"
+path: "easy-auto-renewal-with-letsencrypt"
+date: "2015-12-20"
+layout: post
+description: "After reading a lot of different docs for letsencrypt I couldn't find an easy way of auto renewing my domains simply. So after I've compiled what I've found so far."
 ---
 After reading a lot of different docs for letsencrypt I couldn't find an easy way of auto renewing my domains simply. So after I've compiled what I've found so far.
 

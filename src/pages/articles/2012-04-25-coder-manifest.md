@@ -1,6 +1,9 @@
 ---
 title: Coder Manifest
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 Herein lies the coder manifest.
 

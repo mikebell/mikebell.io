@@ -1,6 +1,9 @@
 ---
 title: Mental Health and DrupalCamp London
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 Over the weekend I had the pleasure of presenting at DrupalCamp London and I've been blown away by the feedback that I've recieved form people.
 

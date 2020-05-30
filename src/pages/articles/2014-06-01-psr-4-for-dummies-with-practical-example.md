@@ -1,6 +1,10 @@
 ---
 title: PSR-4 for dummies with practical example
 
+path: ""
+date: ""
+layout: post
+description: ""
 tags:
   - "php"
   - "PSR-4"

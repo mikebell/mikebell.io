@@ -1,6 +1,9 @@
 ---
 title: Cool projects and my github starred repos
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 I've started to star a lot of repos on github for things that I like the look of and want to play with in the future here is a break down of some of the really cool ones.
 

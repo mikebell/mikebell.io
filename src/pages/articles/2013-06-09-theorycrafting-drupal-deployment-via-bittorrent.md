@@ -1,6 +1,10 @@
 ---
 title: Theorycrafting Drupal Deployment Via Bittorrent
 
+path: ""
+date: ""
+layout: post
+description: ""
 tags:
   - "Drupal"
 ---

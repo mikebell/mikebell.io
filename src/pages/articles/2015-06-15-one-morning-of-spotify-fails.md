@@ -1,6 +1,9 @@
 ---
 title: One Morning of Spotify Fails
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 This morning I decided to document all the issues I had with Spotify over the passed 4 hours. Here is a list:
 

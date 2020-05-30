@@ -1,6 +1,10 @@
 ---
 title: Testing with Codeception and Drupal Projects
 
+path: ""
+date: ""
+layout: post
+description: ""
 tags:
   - "Drupal"
   - "Drupal Planet"

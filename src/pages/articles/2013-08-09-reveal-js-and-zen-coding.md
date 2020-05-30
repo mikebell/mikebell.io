@@ -1,6 +1,10 @@
 ---
 title: Reveal.js and Zen Coding
 
+path: ""
+date: ""
+layout: post
+description: ""
 tags:
   - "Drupal Yorkhshire"
   - "nwdug"

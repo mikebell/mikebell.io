@@ -1,6 +1,10 @@
 ---
 title: The Drop Layout
 
+path: ""
+date: ""
+layout: post
+description: ""
 tags:
   - "Keyboards"
 ---

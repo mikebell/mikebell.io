@@ -1,6 +1,9 @@
 ---
 title: Can we have a community option please?
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 Earlier on today I tweeted that I'd like a community option when submitting a talk to DrupalCon Europe
 

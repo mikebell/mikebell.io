@@ -1,6 +1,9 @@
 ---
 title: The Move to Ubuntu
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 I finally did it! I moved from Windows 7 to Ubuntu 14.04. It's not entirely great but it's working and I can make as many changes as I want.
 

@@ -1,6 +1,9 @@
 ---
 title: Rough and Ready phpcs in PHPStorm
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 Make sure you have pear installed:
 

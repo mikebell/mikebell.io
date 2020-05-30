@@ -1,6 +1,9 @@
 ---
 title: Fucking tough.
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 This week has been tough.
 

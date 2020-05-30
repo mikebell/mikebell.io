@@ -1,6 +1,9 @@
 ---
 title: Quick lick of paint.
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 It's amazing what a quick lick of paint can do!
 

@@ -1,6 +1,9 @@
 ---
 title: Anxiety and Depression
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 I've been suffering from depression and severe anxiety for the past 6 months now. It's costing me my girlfriend, job and most importantly my life.
 

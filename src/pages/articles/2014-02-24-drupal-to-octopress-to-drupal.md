@@ -1,6 +1,10 @@
 ---
 title: Drupal to Octopress to Drupal
 
+path: ""
+date: ""
+layout: post
+description: ""
 tags:
   - "Drupal"
   - "Octopress"

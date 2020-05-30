@@ -1,6 +1,9 @@
 ---
 title: Web Developers of the Future
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 Today I gave a talk to 6th form students at Appleton Academy about getting into the industry and more specifically the drupal industry.
 

@@ -1,6 +1,9 @@
 ---
 title: How To Quit Vim
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 Here's my presentation from nwdug in April 2014
 

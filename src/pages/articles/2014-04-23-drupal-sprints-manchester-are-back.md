@@ -1,6 +1,10 @@
 ---
 title: Drupal Sprints Manchester are back!
 
+path: ""
+date: ""
+layout: post
+description: ""
 tags:
   - "Drupal"
   - "Drupal Sprints Manchester"

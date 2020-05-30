@@ -1,6 +1,10 @@
 ---
 title: Kanban All The Things
 
+path: ""
+date: ""
+layout: post
+description: ""
 tags:
   - "Kanban"
 ---

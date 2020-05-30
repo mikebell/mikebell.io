@@ -1,6 +1,9 @@
 ---
 title: Making the web a little friendlier.
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 Below is a list of rules for Adblock Plus (for Chrome) that remove social media crap from sites. As I add more I'll update this list.
 

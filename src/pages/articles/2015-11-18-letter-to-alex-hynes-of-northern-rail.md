@@ -1,6 +1,9 @@
 ---
 title: Letter to Alex Hynes of Northern Rail
-
+layout: post
+path: "letter-to-alex-hynes-of-northern-rail"
+date: "2015-11-18"
+description: "I sent the following email to the CEO of Northern Rail this morning after over a month of frustrating commutes to work."
 ---
 I sent the following email to the CEO of Northern Rail this morning after over a month of frustrating commutes to work.
 

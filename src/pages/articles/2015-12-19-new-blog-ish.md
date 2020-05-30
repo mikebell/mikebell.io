@@ -3,6 +3,10 @@ title: New Blog-ish
 
 tags:
   - "Sculpin"
+path: "new-blog-ish"
+layout: post
+date: "2015-12-19"
+description: "I've finally moved my blog from Ghost to Sculpin as you can probably see."
 ---
 I've finally moved my blog from Ghost to Sculpin as you can probably see.
 

@@ -1,6 +1,9 @@
 ---
 title: Moving To Ghost
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 After a conversation erupted on #drupal-uk about using the right tool for the job I decided that I would move my blog to something that was right for the job.
 

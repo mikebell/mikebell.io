@@ -1,6 +1,9 @@
 ---
 title: The Dark Thoughts Are Back
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 There I said it. I'm angry I want to punch the wall till my fists bleed.
 

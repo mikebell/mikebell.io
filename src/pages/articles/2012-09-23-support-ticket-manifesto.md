@@ -1,6 +1,9 @@
 ---
 title: Support Ticket Manifesto
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 I've been doing support for over 2 years now, I have such a love hate relationship with it.
 

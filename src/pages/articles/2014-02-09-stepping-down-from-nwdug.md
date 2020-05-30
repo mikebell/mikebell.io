@@ -1,6 +1,10 @@
 ---
 title: Stepping Down from NWDUG
 
+path: ""
+date: ""
+layout: post
+description: ""
 tags:
   - "Drupal"
   - "nwdug"

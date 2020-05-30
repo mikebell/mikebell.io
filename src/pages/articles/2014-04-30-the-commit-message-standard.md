@@ -1,6 +1,10 @@
 ---
 title: The Commit Message Standard
 
+path: ""
+date: ""
+layout: post
+description: ""
 tags:
   - "Git"
 ---

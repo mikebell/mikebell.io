@@ -1,6 +1,10 @@
 ---
 title: My Keyboards
 
+path: ""
+date: ""
+layout: post
+description: ""
 tags:
   - "Keyboards"
 ---

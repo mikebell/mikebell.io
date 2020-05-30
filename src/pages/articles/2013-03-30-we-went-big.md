@@ -1,6 +1,10 @@
 ---
 title: We Went Big...
 
+path: ""
+date: ""
+layout: post
+description: ""
 tags:
   - "DrupalCamp NW 2013"
 ---

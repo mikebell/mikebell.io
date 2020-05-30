@@ -1,6 +1,10 @@
 ---
 title: Vagrant Boxes for Drupal Development
 
+path: ""
+date: ""
+layout: post
+description: ""
 tags:
   - "Development"
   - "Drupal"

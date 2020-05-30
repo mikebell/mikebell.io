@@ -1,6 +1,9 @@
 ---
 title: An Update Pt. 2
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 It's been a few weeks since I last posted. I've decided to be frank about all of this, I want to be honest with myself and others. I've found that writing things down helps to organise my thoughts.
 

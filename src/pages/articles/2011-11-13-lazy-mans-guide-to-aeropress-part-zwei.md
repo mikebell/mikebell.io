@@ -1,6 +1,9 @@
 ---
 title: Lazy Mans guide to Aeropress - Part Zwei
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 After having quite a few months off from coffee I'm finally back into it and brewing again.
 

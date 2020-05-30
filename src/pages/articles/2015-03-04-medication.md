@@ -1,6 +1,9 @@
 ---
 title: Medication
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 ## Everything I know now and what I didn't know then.
 

@@ -1,6 +1,9 @@
 ---
 title: CBT Update
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 I gave up on CBT. The sessions were too infrequent and sporadic. I really didn’t like the over the phone sessions either they were too impersonal and didn’t really contribute anything.
 

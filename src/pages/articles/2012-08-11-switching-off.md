@@ -1,6 +1,9 @@
 ---
 title: Switching Off
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 It's that time of year again where I need a holiday and the opportunity to get away from everything.
 

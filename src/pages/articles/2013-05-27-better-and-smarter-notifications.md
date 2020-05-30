@@ -1,6 +1,9 @@
 ---
 title: Better and Smarter Notifications
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 I'm sat in my living room in front of my PC, I have my Nexus phone to the right of me just next to my mouse and my Nexus 7 is sat on table behind me. When I get tagged in a Google Plus post I get notified 5 times.
 

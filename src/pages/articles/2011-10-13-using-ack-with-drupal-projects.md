@@ -1,6 +1,10 @@
 ---
 title: Using ack with Drupal projects
 
+path: ""
+date: ""
+layout: post
+description: ""
 tags:
   - "Drupal Planet"
 ---

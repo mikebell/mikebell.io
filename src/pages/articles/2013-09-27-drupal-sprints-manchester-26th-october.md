@@ -1,6 +1,10 @@
 ---
 title: Drupal Sprints Manchester 26th October
 
+path: ""
+date: ""
+layout: post
+description: ""
 tags:
   - "Drupal"
   - "Drupal Planet"

@@ -1,6 +1,9 @@
 ---
 title: Home Office!
-
+layout: post
+date: "2015-10-18"
+path: "home-office"
+description: "Since moving to a new house I have an proper office for the first time so I'm determined to get it right."
 ---
 Since moving to a new house I have an proper office for the first time so I'm determined to get it right.
 

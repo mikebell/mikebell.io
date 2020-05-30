@@ -1,6 +1,10 @@
 ---
 title: A Call to Arms - Support your local Drupal Community
 
+path: ""
+date: ""
+layout: post
+description: ""
 tags:
   - "Drupal"
   - "Drupal Planet"

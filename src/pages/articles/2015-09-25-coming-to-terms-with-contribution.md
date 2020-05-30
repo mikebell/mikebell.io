@@ -1,6 +1,9 @@
 ---
 title: Coming to terms with contribution
-
+path: "coming-to-terms-with-contribution"
+date: ""
+layout: post
+description: ""
 ---
 For a long time I wanted to contributed code to Drupal, I have a few times but no where near as much as I thought I was going to do.
 

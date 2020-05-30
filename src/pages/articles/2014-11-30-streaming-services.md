@@ -1,6 +1,9 @@
 ---
 title: Thoughts on Video Streaming Services
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 Since I no longer have a magical content providing server in France I've been trying out a few  different streaming services. Apparently this is a lot harder than it seems!
 

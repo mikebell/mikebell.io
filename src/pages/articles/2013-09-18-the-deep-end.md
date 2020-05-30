@@ -1,6 +1,9 @@
 ---
 title: The Deep End
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 Starting at a new company is always a daunting prospect, you're never quite sure what to expect.
 

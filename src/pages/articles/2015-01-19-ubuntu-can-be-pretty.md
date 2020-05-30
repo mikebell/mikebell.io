@@ -1,6 +1,9 @@
 ---
 title: Ubuntu can be pretty
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 <iframe class="imgur-album" width="100%" height="550" frameborder="0" src="//imgur.com/a/AZfue/embed"></iframe>
 

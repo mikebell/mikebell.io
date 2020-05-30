@@ -1,6 +1,9 @@
 ---
 title: Drupalcon Barcelona
-
+path: "drupalcon-barcelona"
+date: ""
+layout: post
+description: ""
 ---
 **This is an unpublished post that I've only just got round to posting.**
 

@@ -1,6 +1,10 @@
 ---
 title: The Problem with Points = Time
 
+path: ""
+date: ""
+layout: post
+description: ""
 tags:
   - "Agile"
 ---

@@ -1,6 +1,9 @@
 ---
 title: Six Months and a Bit
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 Six months is a long time, it's a percentage of my life gone.
 

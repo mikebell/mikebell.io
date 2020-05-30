@@ -1,6 +1,9 @@
 ---
 title: Goodbye Ixis, Hello CTI!
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 After 3 and a half years at Ixis I'm sad to say goodbye. I think it's time to move on and explore new opportunities. My time at Ixis has been great, the people are amazing and it's been a pleasure to help shape their infrastructure and deliver sites for them.
 

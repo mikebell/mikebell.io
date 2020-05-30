@@ -1,6 +1,10 @@
 ---
 title: Drupal Sprints around the World
 
+path: ""
+date: ""
+layout: post
+description: ""
 tags:
   - "Drupal"
   - "Drupal Planet"

@@ -1,6 +1,9 @@
 ---
 title: Planning for the other kind of failure
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 After reading way too much Hacker News and talking with a close friend recently, I stumbled across an interesting problem with new startups and their plan for the future.
 

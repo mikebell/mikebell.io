@@ -1,6 +1,10 @@
 ---
 title: I fucked up
 
+path: "i-fucked-up"
+date: "2015-10-14"
+layout: post
+description: "I fucked up and I fucked up badly."
 tags:
   - "SSRIs"
   - "Citalopram"

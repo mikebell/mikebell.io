@@ -1,6 +1,9 @@
 ---
 title: Did someone say hello?
-
+path: "did-someone-say-hello"
+date: ""
+layout: post
+description: ""
 ---
 This week I've found out I run a ridiculous amount of chat apps.
 

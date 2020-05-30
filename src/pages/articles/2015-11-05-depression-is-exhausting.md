@@ -1,6 +1,9 @@
 ---
 title: Depression is Exhausting
-
+path: "depression-is-exhausting"
+date: "2015-11-05"
+layout: post
+description: "I'm tired, I'm exhausted. I'm mentally fucked."
 ---
 I'm tired, I'm exhausted. I'm mentally fucked.
 

@@ -1,6 +1,9 @@
 ---
 title: A little update
-
+path: "a-little-update"
+date: ""
+layout: post
+description: ""
 ---
 The past three weeks have been crazy.
 

@@ -1,6 +1,9 @@
 ---
 title: Bugs are way worse than you can imagine
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 Every morning I have the same routine, open email check for anything urgent, delete all mail from Jira (I get a lot) and then look at the agile board for highest priority issues.
 

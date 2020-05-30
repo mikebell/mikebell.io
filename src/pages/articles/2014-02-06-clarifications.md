@@ -1,6 +1,9 @@
 ---
 title: Clarifications
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 1. Calm the fuck down.
 2. No I’m not quitting my job.

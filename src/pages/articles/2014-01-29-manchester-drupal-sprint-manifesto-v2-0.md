@@ -1,6 +1,10 @@
 ---
 title: Manchester Drupal Sprint Manifesto V2.0
 
+path: ""
+date: ""
+layout: post
+description: ""
 tags:
   - "Drupal Sprints Manchester"
 ---

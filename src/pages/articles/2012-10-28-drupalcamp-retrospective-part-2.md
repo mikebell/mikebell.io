@@ -1,6 +1,9 @@
 ---
 title: Drupalcamp Retrospective Part 2
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 I never really finished my first Drupalcamp Retrospective post, I missed out a vital point as to why I do what I do now.
 

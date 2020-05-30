@@ -1,6 +1,10 @@
 ---
 title: DrupalCon London 2011 Wrapup
 
+path: ""
+date: ""
+layout: post
+description: ""
 tags:
   - "Drupal Planet"
 ---

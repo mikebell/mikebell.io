@@ -1,6 +1,10 @@
 ---
 title: Override servers version of drush
 
+path: ""
+date: ""
+layout: post
+description: ""
 tags:
   - "Drupal"
   - "drush"

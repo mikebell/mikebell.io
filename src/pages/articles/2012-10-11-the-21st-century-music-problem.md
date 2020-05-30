@@ -1,6 +1,9 @@
 ---
 title: The 21st Century Music Problem
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 I'm in an odd situation, my iPod 120gb has died and I have no mass storage media player.
 

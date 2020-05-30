@@ -1,6 +1,9 @@
 ---
 title: Watching From the Outside In
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 A few years ago I adminned a large IRC channel for indie music, during my time as OP I meet a guy called Garrett (film42) we started chatting over our like for indie music and technology. Over the years we kept on chatting and our focus moved away from music and further into technology.
 

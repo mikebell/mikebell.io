@@ -1,6 +1,10 @@
 ---
 title: Drupal + WordPress Sprints Manchester
 
+path: ""
+date: ""
+layout: post
+description: ""
 tags:
   - "Drupal"
   - "Drupal Sprints Manchester"

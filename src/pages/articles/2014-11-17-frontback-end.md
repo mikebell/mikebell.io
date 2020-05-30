@@ -1,6 +1,10 @@
 ---
 title: Front/Back End
 
+path: ""
+date: ""
+layout: post
+description: ""
 tags:
   - "Bad jokes"
 ---

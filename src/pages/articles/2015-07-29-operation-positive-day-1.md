@@ -1,6 +1,10 @@
 ---
 title: Operation Positive - Day 1
 
+path: "operation-positive-day-1"
+date: ""
+layout: post
+description: ""
 tags:
   - "Operation Positive"
 ---

@@ -1,6 +1,9 @@
 ---
 title: Finite Energy
-
+path: "finite-energy"
+date: "2015-10-13"
+layout: post
+description: "I have a finite amount of energy. My energy comes in a few different forms, all important to how I feel on a day to day basis."
 ---
 I have a finite amount of energy. My energy comes in a few different forms, all important to how I feel on a day to day basis.
 

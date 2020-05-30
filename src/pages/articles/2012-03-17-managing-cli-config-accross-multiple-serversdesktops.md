@@ -1,6 +1,9 @@
 ---
 title: Managing CLI config accross multiple servers/desktops
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 After using CLI for more than three years I've amassed multiple .*rc files for configuration.
 

@@ -1,6 +1,10 @@
 ---
 title: Code Club Manchester and You!
 
+path: ""
+date: ""
+layout: post
+description: ""
 tags:
   - "Code Club"
   - "Code Club Manchester"

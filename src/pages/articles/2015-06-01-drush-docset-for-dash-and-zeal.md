@@ -1,6 +1,9 @@
 ---
 title: Drush Docset for Dash
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 Last night my drush docset for Dash was accepted into the User Contributed section. This means you can now get the following drush commands offline through Dash:
 

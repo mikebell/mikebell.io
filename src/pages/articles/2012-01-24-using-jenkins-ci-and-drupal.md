@@ -1,6 +1,10 @@
 ---
 title: Using Jenkins CI and Drupal
 
+path: ""
+date: ""
+layout: post
+description: ""
 tags:
   - "Drupal"
   - "Drupal Planet"

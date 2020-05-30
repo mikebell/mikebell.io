@@ -1,6 +1,9 @@
 ---
 title: Sunrise & Sunset
-
+path: "sunrise-and-sunset"
+date: ""
+layout: post
+description: ""
 ---
 Three tracks that are totally awesome, they embody a full day from sunrise to sunset.
 

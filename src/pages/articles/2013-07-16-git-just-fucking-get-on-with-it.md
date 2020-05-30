@@ -1,6 +1,10 @@
 ---
 title: Git just fucking get on with it.
 
+path: ""
+date: ""
+layout: post
+description: ""
 tags:
   - "Deployment"
   - "git"

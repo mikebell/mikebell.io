@@ -1,6 +1,9 @@
 ---
 title: Now You Can Panic
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 I've been holding this off for a few weeks now, but it's always been at the back of my mind. I'm a developer at heart, have been for over 10 years and I subscribe to the majority of the developer norms (thankfully not all). 
 

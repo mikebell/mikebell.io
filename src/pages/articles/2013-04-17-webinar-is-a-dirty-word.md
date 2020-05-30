@@ -1,6 +1,9 @@
 ---
 title: Webinar is a dirty word
-
+path: ""
+date: ""
+layout: post
+description: ""
 ---
 As a developer it's in my best interest to keep up to date with the current technologies and techniques industry leaders are using. Over the past few years I've been signed up to many lists from companies that provide webinars.
 

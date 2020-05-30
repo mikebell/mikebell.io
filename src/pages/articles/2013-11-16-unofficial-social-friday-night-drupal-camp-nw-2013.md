@@ -1,6 +1,10 @@
 ---
 title: Unofficial Social Friday Night - Drupal Camp NW 2013
 
+path: ""
+date: ""
+layout: post
+description: ""
 tags:
   - "Drupal Sprints Manchester"
   - "DrupalCamp NW 2013"
