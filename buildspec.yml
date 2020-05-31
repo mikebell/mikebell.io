@@ -5,8 +5,7 @@ phases:
     runtime-versions:
         nodejs: 12
     commands:
-      - echo Installing Gatsby and Gatsby-CLI...
-      - npm install -g gatsby
+      - echo Installing Gatsby-CLI...
       - npm install -g gatsby-cli
   pre_build:
     commands:
