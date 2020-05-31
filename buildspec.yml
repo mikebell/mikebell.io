@@ -18,6 +18,7 @@ phases:
   post_build:
     commands:
       - echo Synchronizing public directory...
+      - ls -lash
       - aws s3 sync ./public/ s3://mikebell.io --delete
 artifacts:
   base-directory: public
