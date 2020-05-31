@@ -5,14 +5,14 @@ module.exports = {
   pathPrefix: '/',
   title: 'Mike Bell - Blog & Stuff',
   subtitle: '',
-  copyright: '© All rights reserved.',
+  copyright: '© All rights reserved. Opinions are my own.',
   disqusShortname: '',
   postsPerPage: 10,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Blog posts',
       path: '/'
     },
     {
@@ -26,18 +26,18 @@ module.exports = {
   ],
   author: {
     name: 'Mike Bell',
-    photo: '/photo.jpg',
+    photo: '/code.png',
     bio: '',
     contacts: {
       email: 'hello@mikebell.io',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#mikebell_',
+      facebook: '',
+      telegram: '',
+      twitter: 'mikebell_',
       github: 'mikebell',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: '',
+      instagram: 'mikebell_io',
       line: '',
       gitlab: '',
       weibo: '',
