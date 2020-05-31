@@ -6,20 +6,21 @@ phases:
         nodejs: 12
     commands:
       - echo Installing Gatsby-CLI...
-      - npm install -g gatsby-cli
+      # - npm install -g gatsby-cli
   pre_build:
     commands:
       - echo Installing Node packages...
-      - npm install
+      # - npm install
   build:
     commands:
       - echo Build initiated...
-      - gatsby build
+      # - gatsby build
   post_build:
     commands:
       - echo Synchronizing public directory...
+      - pwd
       - ls -lash
-      - aws s3 sync ./public/ s3://mikebell.io --delete
+      # - aws s3 sync ./public/ s3://mikebell.io --delete
 artifacts:
   base-directory: public
   files:
