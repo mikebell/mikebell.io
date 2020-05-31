@@ -19,7 +19,6 @@ phases:
     commands:
       - echo Synchronizing public directory...
       - ls -lash
-      - pwd
       - aws s3 sync ./public/ s3://mikebell.io --delete
 artifacts:
   base-directory: public

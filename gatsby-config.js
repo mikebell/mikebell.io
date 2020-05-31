@@ -33,7 +33,7 @@ module.exports = {
       resolve: 'gatsby-source-filesystem',
       options: {
         name: 'css',
-        path: `${__dirname}/../static/css`
+        path: `${__dirname}/static/css`
       }
     },
     {
