@@ -3,7 +3,7 @@ version: 0.2
 phases:
   install:
     runtime-versions:
-        nodejs: 10
+        nodejs: 12
     commands:
       - echo Installing Gatsby-CLI...
       - npm install -g gatsby-cli
@@ -19,7 +19,7 @@ phases:
     commands:
       - echo Synchronizing public directory...
       - pwd
-      - ls -lash $PWD/static
+      - ls -lash $PWD/src/static
       - ls -lash
       - aws s3 sync ./public/ s3://mikebell.io --delete
 artifacts:
