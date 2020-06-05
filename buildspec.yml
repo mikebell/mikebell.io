@@ -3,7 +3,7 @@ version: 0.2
 phases:
   install:
     runtime-versions:
-        nodejs: 12
+        nodejs: 12.16.3
     commands:
       - echo Installing Gatsby-CLI...
       - npm install -g gatsby-cli
