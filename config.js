@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: '/',
   title: 'Mike Bell - Blog & Stuff',
   subtitle: '',
-  copyright: '© All rights reserved. Opinions are my own.ll',
+  copyright: '© All rights reserved. Opinions are my own.',
   disqusShortname: '',
   postsPerPage: 10,
   googleAnalyticsId: 'UA-73379983-2',
