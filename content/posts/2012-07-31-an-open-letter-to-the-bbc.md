@@ -3,7 +3,7 @@ title: An open letter to the bbc
 slug: "an-open-letter-to-the-bbc"
 date: "2012-07-31"
 template: post
-description: ""
+description: "Dear BBC"
 ---
 Dear BBC,
 

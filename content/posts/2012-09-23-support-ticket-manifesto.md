@@ -3,7 +3,7 @@ title: Support Ticket Manifesto
 slug: "support-ticket-manifesto"
 date: "2012-09-23"
 template: post
-description: ""
+description: "I've been doing support for over 2 years now, I have such a love hate relationship with it."
 ---
 I've been doing support for over 2 years now, I have such a love hate relationship with it.
 

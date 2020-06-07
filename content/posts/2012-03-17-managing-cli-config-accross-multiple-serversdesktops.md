@@ -3,7 +3,7 @@ title: Managing CLI config accross multiple servers/desktops
 slug: "managing-cli-config"
 date: "2012-03-17"
 template: post
-description: ""
+description: "After using CLI for more than three years I've amassed multiple .*rc files for configuration."
 ---
 After using CLI for more than three years I've amassed multiple .*rc files for configuration.
 

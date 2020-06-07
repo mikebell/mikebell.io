@@ -3,7 +3,7 @@ title: Planning for the other kind of failure
 slug: "planning-for-the-other-kind-of-failure"
 date: "2012-07-15"
 template: post
-description: ""
+description: "After reading way too much Hacker News and talking with a close friend recently, I stumbled across an interesting problem with new startups and their plan for the future."
 ---
 After reading way too much Hacker News and talking with a close friend recently, I stumbled across an interesting problem with new startups and their plan for the future.
 

@@ -3,7 +3,7 @@ title: Coder Manifest
 slug: "coder-manifest"
 date: "2012-04-25"
 template: post
-description: ""
+description: "Herein lies the coder manifest."
 ---
 Herein lies the coder manifest.
 

@@ -3,7 +3,7 @@ title: Drupalcamp Manchester - A retrospective
 slug: "drupalcamp-manchester-a-retrospective"
 date: "2012-07-16"
 template: post
-description: ""
+description: "A lot has happened since the last Drupalcamp in Manchester, and when I say a lot I mean a hell of a lot. It's been quite a few years since (over 3 years in fact!)."
 ---
 A lot has happened since the last Drupalcamp in Manchester, and when I say a lot I mean a hell of a lot. It's been quite a few years since (over 3 years in fact!).
 
