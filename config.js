@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://mikebell.io',
   pathPrefix: '/',
   title: 'Mike Bell - Blog & Stuff',
-  subtitle: '',
+  subtitle: 'Free range DevOps Engineer based in Manchester.',
   copyright: '© All rights reserved. Opinions are my own.',
   disqusShortname: '',
   postsPerPage: 10,
