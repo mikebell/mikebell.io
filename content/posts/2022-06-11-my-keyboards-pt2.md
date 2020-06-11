@@ -7,7 +7,7 @@ slug: "my-keyboards-pt2"
 tags:
   - "Keyboards"
 category: "Keyboards"
-description: ""
+description: "Time for an update on my keyboard collection!"
 ---
 ![All my keyboards](https://i.imgur.com/Hns5IKU.png "All myy keyboards")
 
@@ -15,7 +15,7 @@ Time for an update on my keyboard collection! After [part 1](https://mikebell.io
 
 * Top left - YMD09 macro pad aka the zoom killer.
 * Top - KBD75 - Gateron Browns, I'm typing this post on it right now.
-* Middle - Winkeyless b.75 - Gateron Browns with Raindrop Round 2 on, this was my previous daily driver.
+* Middle - Winkeyless b.87 - Gateron Browns with Raindrop Round 2 on, this was my previous daily driver.
 * Bottom - Iris - Zealios 67g and Gateron Browns, this is a keyboard I really should get used to using but just can't.
 * Right - Fourier - Gateron Blues, I need to put keycaps on and start using it.
 
