@@ -2,12 +2,14 @@
  * Variables
  */
 
-// Colors
-$color-base: #222;
-$color-primary: #5D93FF;
-$color-secondary: #F7A046;
+ @import "node_modules/nord/src/sass/nord.scss";
 
-$color-white: #FFF;
+// Colors
+$color-base: $nord0;
+$color-primary: $nord10;
+$color-secondary: $nord12;
+
+$color-white: $nord6;
 $color-gray: lighten($color-base, 40%);
 $color-gray-border: lighten($color-base, 77%);
 $color-gray-bg: lighten($color-base, 79%);
