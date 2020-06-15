@@ -4,7 +4,7 @@ title: We Went Big...
 slug: "we-went-big"
 date: "2013-03-30"
 template: post
-description: ""
+description: "The full title of this post is "We went big, now to go bigger". What do I mean by this? Well for start 2012 was amazing the fact that we managed to pull it off and provide such a great event means that we have a lot of work to do. So what next? Well..."
 tags:
   - "DrupalCamp NW 2013"
 ---

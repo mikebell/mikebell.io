@@ -3,7 +3,7 @@ title: Drupal Deployment using deb packages and Jenkins
 slug: "drupal-deployment-using-deb-packages-and-jenkins"
 date: "2013-02-17"
 template: post
-description: ""
+description: "I couldn't sleep last night due to a stupid amount of coffee while my brother came round so I go to thinking how I could sort out the mess that is currently my production server."
 ---
 I couldn't sleep last night due to a stupid amount of coffee while my brother came round so I go to thinking how I could sort out the mess that is currently my production server.
 

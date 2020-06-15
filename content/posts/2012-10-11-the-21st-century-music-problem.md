@@ -3,7 +3,7 @@ title: The 21st Century Music Problem
 slug: "the-21st-century-music-problem"
 date: "2012-10-11"
 template: post
-description: ""
+description: "I'm in an odd situation, my iPod 120gb has died and I have no mass storage media player."
 ---
 I'm in an odd situation, my iPod 120gb has died and I have no mass storage media player.
 

@@ -4,12 +4,12 @@ title: Must have Chrome tools for Drupal Admin
 slug: "must-have-chrom-tools-for-drupal-admin"
 date: "2013-02-13"
 template: post
-description: ""
+description: "Here are some really handy tools for when you have to deal with Drupals admin interface"
 tags:
   - "Drupal"
   - "Drupal Planet"
 ---
-Here are some really handy tools for when you have to deal with Drupals admin interface
+Here are some really handy tools for when you have to deal with Drupals admin interface:
 
 Autofill - https://chrome.google.com/webstore/detail/nlmmgnhgdeffjkdckmikfpnddkbbfkkk
 
