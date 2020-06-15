@@ -25,11 +25,11 @@ Reveal comes with a few nice themes (including solarized dark which is actually 
 
 ## Zen Coding
 I recently found [Zen Coding](https://code.google.com/p/zen-coding/) by looking through the list of plugins in PHPStorm. It's a really nice way of writing html in short hand:
-<code>section>h1.header+p+ul*2</code>
+`section>h1.header+p+ul*2`
 
 turns into:
 
-<code class="xml">
+```
 <section>
      <h1 class="header"></h1>
      <p></p>
@@ -37,7 +37,8 @@ turns into:
           <li></li>
           <li></li>
      </ul>
-</section></code>
+</section>
+```
 
 The really clean syntax means that you can easily create skeleton HTML code for layouts. If you couple this with bootstrap then it's even more powerful for prototyping sites.
 

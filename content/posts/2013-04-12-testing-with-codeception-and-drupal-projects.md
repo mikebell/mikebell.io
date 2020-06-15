@@ -4,7 +4,7 @@ title: Testing with Codeception and Drupal Projects
 slug: "testing-with-codeception"
 date: "2013-04-12"
 template: post
-description: ""
+description: "As part of my increased like of agile development and the control it gives you over your estimates and deliverables I've become increasingly aware of the horrible fact our code coverage sucks. There's no real way to sugar coat it we don't do proper testing, it's bugged me for years."
 tags:
   - "Drupal"
   - "Drupal Planet"
@@ -32,9 +32,9 @@ With each task you should always create a test, each test should actually test f
 
 1. Install it - http://codeception.com/install
 2. Create your fist acceptance test:
-     <code>php codecept.phar generate:cept acceptance DrupalUserLogin</code>
+    `codecept.phar generate:cept acceptance DrupalUserLogin`
 3. Write your first test:
-<code>
+```
 $I = new WebGuy($scenario);
 $I->wantTo('Ensure Drupal Login Works');
 $I->amOnPage('/user');
@@ -42,38 +42,32 @@ $I->fillField('edit-name', 'digital');
 $I->fillField('edit-pass', 'THIS IS MY REAL PASS');
 $I->click('edit-submit');
 $I->see('digital');</code>
- 
+```
 4. Define your site (tests/acceptance.suite.yml):
 
-<code>
+```
 class_name: WebGuy
 modules:
     enabled: [PhpBrowser, WebHelper]
     config:
         PhpBrowser:
-            url: 'drupal.org'</code>
+            url: 'drupal.org'
+```
 
-5. Run the badger! - <code>php codecept.phar run</code>
+5. Run the badger! - `php codecept.phar run`
 6. Bask in the glory of your first test.
-
 
 There it is, dead easy to do! There's no reason you shouldn't implement this for every task in your sprint backlog.
 
-
 ## Where to go from here?
-
 
 After playing around with this for a few hours I seem to be doing the same thing. Each test requires me to login as I don't think each test environment shares session/cookies. I need to figure out a way of creating a codeception module which allows you to plug in a drupal testing user (ideally multiple so you can test each role) and then all the you have to do is call a function which executes the above steps to confirm your logged in before testing authenticated behaviour.
 
-
 Something along the lines of:
 
-
-<code>$I->drupalLogin('editor');</code>
-
+`$I->drupalLogin('editor');`
 
 ## Why will this work?
-
 
 When you initially set out estimation of each story you should add an extra 5-10% for testing. This way you can cover the additional time taken to write these tests. Trust me it's worth it in the long run!
 
