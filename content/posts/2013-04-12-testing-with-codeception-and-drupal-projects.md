@@ -34,7 +34,7 @@ With each task you should always create a test, each test should actually test f
 2. Create your fist acceptance test:
     `codecept.phar generate:cept acceptance DrupalUserLogin`
 3. Write your first test:
-```
+```php
 $I = new WebGuy($scenario);
 $I->wantTo('Ensure Drupal Login Works');
 $I->amOnPage('/user');
@@ -45,7 +45,7 @@ $I->see('digital');</code>
 ```
 4. Define your site (tests/acceptance.suite.yml):
 
-```
+```php
 class_name: WebGuy
 modules:
     enabled: [PhpBrowser, WebHelper]

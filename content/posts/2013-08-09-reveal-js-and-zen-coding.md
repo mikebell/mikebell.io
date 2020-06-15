@@ -29,7 +29,7 @@ I recently found [Zen Coding](https://code.google.com/p/zen-coding/) by looking 
 
 turns into:
 
-```
+```html
 <section>
      <h1 class="header"></h1>
      <p></p>

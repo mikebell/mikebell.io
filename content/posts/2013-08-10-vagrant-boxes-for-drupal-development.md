@@ -24,7 +24,7 @@ Using the really great [puphpet.com](https://puphpet.com/) I've created two new 
 - PHP 5.3
 
 ## Usage
-```
+```shell
 git clone git@github.com:digital006/drupaldev-nginx.git
 mkdir sites
 vagrant up

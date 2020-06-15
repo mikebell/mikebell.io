@@ -8,6 +8,7 @@ tags:
   - "Concourse CI"
   - "CI/CD"
 category: "CI/CD"
+template: post
 description: Practical example of how to build and deploy a Jenkins site using Concourse CI.
 ---
 
@@ -21,7 +22,7 @@ So let's break this down piece by piece:
 
 Our first major part of the yaml file is the `resource_type`:
 
-```
+```yaml
 resource_types:
 - name: rsync-resource
   type: docker-image
@@ -34,7 +35,7 @@ This defines a new resource type that uses a docker image that contains `rsync`.
 
 Next up is our `resources` these are "things" we want the pipeline to use:
 
-```
+```yaml
 resources:
 - name: mikebell-io
   type: git
@@ -55,7 +56,7 @@ In this case I define two `resources` the git repo I want to pull from and the r
 
 The next bit is the `jobs` these are what they say on the tin, jobs to be run. This should be mostly familiar to anyone who's worked with similar pipelines before like Drone or CircleCI.
 
-```
+```yaml
 jobs:
 - name: Build
   public: true
@@ -66,7 +67,7 @@ jobs:
 
 We have the name of the job, wether it's publicly visible in the Concourse web interface and the first part of our plan. The `get` specifies that I want Concourse to get the resource I've defined as `mikebell-io`in this case it's the git repo.
 
-```
+```yaml
 - task: Build site
     config:
       platform: linux
@@ -89,7 +90,7 @@ We have the name of the job, wether it's publicly visible in the Concourse web i
 
 Here we have the meat of the pipeline the commands we want to run inside our docker container which in this case is the jekyll builder image. Rather than running the default entry point of the image I had to specify a few shell commands so that I could correctly get the site built and it's output in the correct place. In Concourse `inputs` and `outputs` can't share the same entry point so instead of the usual Jekyll building inside the main path I had to build outside.
 
-```
+```yaml
 - put: sync-resource
     params: {
       CONCOURSEPRIV: ((concourse-priv)),
