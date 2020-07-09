@@ -3,7 +3,7 @@ title: Did someone say hello?
 slug: "did-someone-say-hello"
 date: "2015-09-12"
 template: post
-description: ""
+description: "This week I've found out I run a ridiculous amount of chat apps."
 ---
 This week I've found out I run a ridiculous amount of chat apps.
 

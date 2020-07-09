@@ -1,10 +1,10 @@
 ---
 title: Front/Back End
 
-slug: "fonrt-back-end"
+slug: "front-back-end"
 date: "2014-11-17"
 template: post
-description: ""
+description: "Explaining front and back end development to Hannah"
 tags:
   - "Bad jokes"
 ---

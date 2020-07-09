@@ -4,7 +4,7 @@ title: Kanban All The Things
 slug: "kanban-all-the-things"
 date: "2013-08-05"
 template: post
-description: ""
+description: "I've started working on some really cool projects now that I have a bit of time spare. I have 4 that I'm running concurrently which is quite a lot considering at least 2 of them are quite big."
 tags:
   - "Kanban"
 ---

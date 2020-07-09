@@ -3,7 +3,7 @@ title: Clarifications
 slug: "clarifications"
 date: "2014-02-06"
 template: post
-description: ""
+description: "Some clarifications on recent tweets"
 ---
 1. Calm the fuck down.
 2. No I’m not quitting my job.

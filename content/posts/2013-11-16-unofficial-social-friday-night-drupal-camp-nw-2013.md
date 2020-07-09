@@ -4,7 +4,7 @@ title: Unofficial Social Friday Night - Drupal Camp NW 2013
 slug: "unofficial-social-friday-night"
 date: "2013-11-16"
 template: post
-description: ""
+description: "On Friday the 22nd there will be sprints at Techhub which run in parallel with the business day at Drupal Camp NW 13. I'm hoping to be there for the sprints pending confirmation of my holiday!"
 tags:
   - "Drupal Sprints Manchester"
   - "DrupalCamp NW 2013"

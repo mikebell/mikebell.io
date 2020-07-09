@@ -3,7 +3,7 @@ title: My first CBT session
 slug: "my-first-cbt-session"
 date: "2014-09-23"
 template: post
-description: ""
+description: "Today I had my first CBT session. I’m hugely conflicted, I don’t know what I was expecting. My session was just a reiteration of the initial phone introduction. It seemed like a waste of time to me, I’m not discounting CBT at all."
 ---
 Today I had my first CBT session. I’m hugely conflicted, I don’t know what I was expecting. My session was just a reiteration of the initial phone introduction. It seemed like a waste of time to me, I’m not discounting CBT at all.
 

@@ -3,7 +3,7 @@ title: Anxiety and Depression
 slug: "anxiety-and-depression"
 date: "2014-07-23"
 template: post
-description: ""
+description: "I've been suffering from depression and severe anxiety for the past 6 months now. It's costing me my girlfriend, job and most importantly my life."
 ---
 I've been suffering from depression and severe anxiety for the past 6 months now. It's costing me my girlfriend, job and most importantly my life.
 

@@ -4,7 +4,7 @@ title: Operation Positive - Day 1
 slug: "operation-positive-day-1"
 date: "2015-07-29"
 template: post
-description: ""
+description: "Today was the first day of Operation Positive. The challenge is to not to be negative in the aim of changing how I think."
 tags:
   - "Operation Positive"
 ---

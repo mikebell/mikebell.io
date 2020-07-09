@@ -3,7 +3,7 @@ title: Running Rocket League on Ubuntu
 slug: "running-rock-league-on-ubuntu"
 date: "2015-08-28"
 template: post
-description: ""
+description: "This has taken me way longer to work out than it should so I figured I'd write this up so people can use it while they wait until Rocket League comes out for linux."
 ---
 This has taken me way longer to work out than it should so I figured I'd write this up so people can use it while they wait until Rocket League comes out for linux.
 

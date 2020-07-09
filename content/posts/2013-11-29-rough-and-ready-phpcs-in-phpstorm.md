@@ -3,7 +3,7 @@ title: Rough and Ready phpcs in PHPStorm
 slug: "rough-and-ready-phpcs-in-phpstorm"
 date: "2013-11-29"
 template: post
-description: ""
+description: "Here's a rough and ready way to get phpcs working in PHPStorm"
 ---
 Make sure you have pear installed:
 

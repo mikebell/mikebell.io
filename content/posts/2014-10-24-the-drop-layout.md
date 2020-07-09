@@ -4,7 +4,7 @@ title: The Drop Layout
 slug: "the-drop-layout"
 date: "2014-10-24"
 template: post
-description: ""
+description: "Ever since I bought a Pure Pro I've sort of been obsessed with the world of mechanical keyboards. As a developer I want to make sure I'm happy typing on something day in day out. It's also very important that I can type fast and accurate so I have to be 100% happy with a keyboard."
 tags:
   - "Keyboards"
 ---

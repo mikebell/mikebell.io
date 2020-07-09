@@ -4,7 +4,7 @@ title: Vagrant Boxes for Drupal Development
 slug: "vagrant-boxes-for-drupal-development"
 date: "2013-08-10"
 template: post
-description: ""
+description: "During my time off I figured I'd get my dev environment setup for when I start at CTI."
 tags:
   - "Development"
   - "Drupal"

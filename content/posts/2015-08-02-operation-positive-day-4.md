@@ -4,7 +4,7 @@ title: Operation Positive - Day 4
 slug: "operation-positive-day-4"
 date: "2015-08-02"
 template: post
-description: ""
+description: "Still so tired from London. Had a relaxing morning and afternoon though."
 tags:
   - "Operation Positive"
 ---

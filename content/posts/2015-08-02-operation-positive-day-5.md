@@ -4,7 +4,7 @@ title: Operation Positive - Day 5
 slug: "operation-positive-day-5"
 date: "2015-08-02"
 template: post
-description: ""
+description: "Woke up next to Hannah and she was smiling, that's a very nice way to start the day. Really looking forward into our house."
 tags:
   - "Operation Positive"
 ---

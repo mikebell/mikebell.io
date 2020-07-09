@@ -3,7 +3,7 @@ title: Six Months and a Bit
 slug: "six-months-and-a-bit"
 date: "2013-07-29"
 template: post
-description: ""
+description: "Six months is a long time, it's a percentage of my life gone."
 ---
 Six months is a long time, it's a percentage of my life gone.
 

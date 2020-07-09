@@ -3,7 +3,7 @@ title: How To Quit Vim
 slug: "how-to-quit-vim"
 date: "2014-04-03"
 template: post
-description: ""
+description: "Here's my presentation from nwdug in April 2014"
 ---
 Here's my presentation from nwdug in April 2014
 

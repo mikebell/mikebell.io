@@ -4,7 +4,7 @@ title: An update to DrupalCamp 2013
 slug: "an-update-to-drupalcamp-2013"
 date: "2013-04-20"
 template: post
-description: ""
+description: "There's no easy way to put this but as of this post I'm withdrawing from organising DrupalCamp NW 2013."
 tags:
   - "Drupal"
   - "DrupalCamp NW 2013"

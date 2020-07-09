@@ -3,7 +3,7 @@ title: The Long Road Back From Medication
 slug: "the-long-road-back-from-medication"
 date: "2014-11-12"
 template: post
-description: ""
+description: "You become so desperate that you're willing to try anything to get better. It's a good thing to a certain extent. It shows that you're at the stage where you want help in any form."
 ---
 You become so desperate that you're willing to try anything to get better. It's a good thing to a certain extent. It shows that you're at the stage where you want help in any form.
 

@@ -3,7 +3,7 @@ title: A Tale of Christmas Testing
 slug: "a-tale-of-christmas-testing"
 date: "2013-12-24"
 template: post
-description: ""
+description: "Once upon a time there was a project lead working on a big project. As it got closer and closer to christmas projects were due and deployed to the magical kingdom of testing, the winds of change requests and testing blew strong."
 ---
 Once upon a time there was a project lead working on a big project. As it got closer and closer to christmas projects were due and deployed to the magical kingdom of testing, the winds of change requests and testing blew strong.
 

@@ -3,7 +3,7 @@ title: Bugs are way worse than you can imagine
 slug: "bugs-are-way-worse-than-you-can-imagine"
 date: "2015-04-21"
 template: post
-description: ""
+description: "Every morning I have the same routine, open email check for anything urgent, delete all mail from Jira (I get a lot) and then look at the agile board for highest priority issues."
 ---
 Every morning I have the same routine, open email check for anything urgent, delete all mail from Jira (I get a lot) and then look at the agile board for highest priority issues.
 
@@ -11,7 +11,7 @@ Recently this has been a *lot* of bugs. So I want to talk about why bugs are way
 
 In jira bugs are represented as a red dot. Red is a cool (not cold!) colour in both Eastern and Western cultures. Unfortunately for us (western) red is associated with negative things like danger, stop, warning. So imagine seeing a sea of red first thing in the morning.
 
-The obvious answer to this is to stop creating bugs but that's sometimes just not possible. I have a long standing joke that most of our systems are built using BDD. Traditionally BDD stands for Behaviour Driven Development but I've tweaked it to be Bug Driven Development. This is only half tongue in cheek.
+The obvious answer to this is to stop creating bugs but that's sometimes just not possible. I have a long standing joke that most of our systems are built using BDD. Traditionally BDD stands for Behavior Driven Development but I've tweaked it to be Bug Driven Development. This is only half tongue in cheek.
 
 What creates bugs?
 

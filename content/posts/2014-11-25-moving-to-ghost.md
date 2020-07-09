@@ -3,19 +3,19 @@ title: Moving To Ghost
 slug: "moving-to-ghost"
 date: "2014-11-25"
 template: post
-description: ""
+description: "After a conversation erupted on #drupal-uk about using the right tool for the job I decided that I would move my blog to something that was right for the job."
 ---
 After a conversation erupted on #drupal-uk about using the right tool for the job I decided that I would move my blog to something that was right for the job.
 
-#Why move from Drupal?
+## Why move from Drupal?
 Firstly Drupal is great! I love working with it on a daily basis but it's overkill for what I need. I have more half finished attempts at adding a cool feature on the old Drupal site than I care to admit to.
 
 Drupal allowed me to get an idea of what I wanted from a blog this is something that influenced greatly my decision to move to Ghost.
 
-#What do I want?
+## What do I want?
 A simple blog, something I can't add features to outside of simple HTML and something that is pretty. I just need a platform I can log in to and write it's as simple as that.
 
-#Why Ghost?
+## Why Ghost?
 Ghost has a number of challenges for me:
 
 * No import from Drupal

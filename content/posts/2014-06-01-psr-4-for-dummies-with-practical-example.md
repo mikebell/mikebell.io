@@ -4,7 +4,7 @@ title: PSR-4 for dummies with practical example
 slug: "psr-4-for-dummies"
 date: "2014-06-01"
 template: post
-description: ""
+description: "Every time I come to write a new application I always forget how to use PSR-4 so here’s my practical example"
 tags:
   - "php"
   - "PSR-4"

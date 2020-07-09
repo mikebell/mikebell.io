@@ -4,7 +4,7 @@ tags:
   - "Sculpin"
   - "Jekyll"
 slug: "sculpin-to-jekyll"
-description: ""
+description: "Moving from Sculpin to Jekyll"
 date: "2016-02-22"
 template: post
 ---

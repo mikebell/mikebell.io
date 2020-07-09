@@ -3,7 +3,7 @@ title: Webinar is a dirty word
 slug: "webinar-is-a-dirty-word"
 date: "2013-04-17"
 template: post
-description: ""
+description: "As a developer it's in my best interest to keep up to date with the current technologies and techniques industry leaders are using. Over the past few years I've been signed up to many lists from companies that provide webinars."
 ---
 As a developer it's in my best interest to keep up to date with the current technologies and techniques industry leaders are using. Over the past few years I've been signed up to many lists from companies that provide webinars.
 

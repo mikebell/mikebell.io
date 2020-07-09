@@ -3,7 +3,7 @@ title: Sunrise & Sunset
 slug: "sunrise-and-sunset"
 date: "2015-07-06"
 template: post
-description: ""
+description: "Three tracks that are totally awesome, they embody a full day from sunrise to sunset."
 ---
 Three tracks that are totally awesome, they embody a full day from sunrise to sunset.
 

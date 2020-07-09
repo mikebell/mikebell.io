@@ -4,7 +4,7 @@ title: The Problem with Points = Time
 slug: "the-problem-with-points-equals-time"
 date: "2014-06-07"
 template: post
-description: ""
+description: "Take the following not so hypothetical situation"
 tags:
   - "Agile"
 ---

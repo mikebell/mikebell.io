@@ -4,7 +4,7 @@ title: Drupal to Octopress to Drupal
 slug: "drupal-to-octopress-to-drupal"
 date: "2014-02-24"
 template: post
-description: ""
+description: "Over the weekend I’ve been working on migrating my site away from Drupal. I managed to get everything up and running on Octopress but it just doesn’t feel right."
 tags:
   - "Drupal"
   - "Octopress"

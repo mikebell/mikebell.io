@@ -3,7 +3,7 @@ title: A little update
 slug: "a-little-update"
 date: "2015-10-06"
 template: post
-description: ""
+description: "The past three weeks have been crazy."
 ---
 The past three weeks have been crazy.
 

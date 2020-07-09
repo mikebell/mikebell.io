@@ -3,7 +3,7 @@ title: CBT Update
 slug: "cbt-update"
 date: "2014-12-09"
 template: post
-description: ""
+description: "I gave up on CBT. The sessions were too infrequent and sporadic. I really didn’t like the over the phone sessions either they were too impersonal and didn’t really contribute anything."
 ---
 I gave up on CBT. The sessions were too infrequent and sporadic. I really didn’t like the over the phone sessions either they were too impersonal and didn’t really contribute anything.
 

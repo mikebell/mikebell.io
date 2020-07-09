@@ -4,7 +4,7 @@ title: PHPNW14 Short Review
 slug: "phpnw14-short-review"
 date: "2014-10-22"
 template: post
-description: ""
+description: "Instead of a long post going into each sessions I attended I figured you're probably just best watching them when they're on YouTube as it was an excellent conference."
 tags:
   - "PHPNW"
   - "PHPNW14"

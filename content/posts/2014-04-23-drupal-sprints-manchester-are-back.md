@@ -4,12 +4,12 @@ title: Drupal Sprints Manchester are back!
 slug: "drupal-sprints-manchester-are-back"
 date: "2014-04-23"
 template: post
-description: ""
+description: "After a long break we’re back and ready to get sprinting again."
 tags:
   - "Drupal"
   - "Drupal Sprints Manchester"
 ---
-After a long break we’re back and ready to get sprinting again. 
+After a long break we’re back and ready to get sprinting again.
 
 I’m looking forward to getting stuck into Drupal 8 migrate in preparation for my talk at Drupal Camp Yorkshire.
 

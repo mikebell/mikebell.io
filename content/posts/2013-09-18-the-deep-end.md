@@ -3,7 +3,7 @@ title: The Deep End
 slug: "the-deep-end"
 date: "2013-09-18"
 template: post
-description: ""
+description: "Starting at a new company is always a daunting prospect, you're never quite sure what to expect."
 ---
 Starting at a new company is always a daunting prospect, you're never quite sure what to expect.
 

@@ -4,7 +4,7 @@ title: Drupal Sprints Manchester 26th October
 slug: "drupal-sprints-manchester-26th-october"
 date: "2013-09-27"
 template: post
-description: ""
+description: "I'm proud to announce Drupal Sprints Manchester (UK). Last year at Drupal Camp NW I spoke with various other northern Drupalers and decided that we should get together and attempt to emulate Drupal Sprints London."
 tags:
   - "Drupal"
   - "Drupal Planet"

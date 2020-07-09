@@ -4,12 +4,11 @@ title: My Keyboards
 slug: "my-keyboards"
 date: "2014-06-20"
 template: post
-description: ""
+description: "Safe to say I'm a bit in love with keyboards, come check them out"
 tags:
   - "Keyboards"
 ---
 I’ve gone a bit mad on keyboards recently, mostly due to [geekhack](http://geekhack.org/) and [r/mechanicalkeyboards](http://www.reddit.com/r/mechanicalkeyboards). I’ve got the following boards at the moment:
-
 
 [Ducky Shine 3 - ISO - Brown switches](http://www.amazon.co.uk/gp/product/B00FBCYAKI/ref=as_li_tf_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B00FBCYAKI&linkCode=as2&tag=mikebellio-21) -
 This is a 75% keyboard, it’s missing the number pad on the right side. It’s a great gaming keyboard and the keys feel nice and solid. This has white led backlighting which is quite nice, mines currently setup to pulse when a key is pressed.

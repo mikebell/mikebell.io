@@ -3,7 +3,7 @@ title: One Morning of Spotify Fails
 slug: "one-morning-of-spotify-fails"
 date: "2015-06-15"
 template: post
-description: ""
+description: "This morning I decided to document all the issues I had with Spotify over the passed 4 hours."
 ---
 This morning I decided to document all the issues I had with Spotify over the passed 4 hours. Here is a list:
 

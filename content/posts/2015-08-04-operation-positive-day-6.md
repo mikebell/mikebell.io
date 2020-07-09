@@ -4,7 +4,7 @@ title: Operation Positive - Day 6
 slug: "operation-positive-day-6"
 date: "2015-08-04"
 template: post
-description: ""
+description: "Pretty good day overall, stayed calm regardless of what's going on."
 tags:
   - "Operation Positive"
 ---

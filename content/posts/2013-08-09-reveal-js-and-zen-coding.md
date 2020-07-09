@@ -4,7 +4,7 @@ title: Reveal.js and Zen Coding
 slug: "reveal-js-and-zen-coding"
 date: "2013-08-09"
 template: post
-description: ""
+description: "Zen coding and reveal js"
 tags:
   - "Drupal Yorkhshire"
   - "nwdug"

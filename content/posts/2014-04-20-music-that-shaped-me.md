@@ -4,7 +4,7 @@ title: Music that shaped me
 slug: "music-that-shaped-me"
 date: "2014-04-20"
 template: post
-description: ""
+description: "Back when I was a young kid I remember being influenced by so much music. My Dad with heavy rock from the 70/80s, my mum with Elton John and random Christian based music"
 tags:
   - "Music"
 ---

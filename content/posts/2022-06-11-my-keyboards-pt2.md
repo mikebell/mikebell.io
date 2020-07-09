@@ -9,7 +9,7 @@ tags:
 category: "Keyboards"
 description: "Time for an update on my keyboard collection!"
 ---
-![All my keyboards](https://i.imgur.com/Hns5IKU.png "All myy keyboards")
+![All my keyboards](https://i.imgur.com/Hns5IKU.png "All my keyboards")
 
 Time for an update on my keyboard collection! After [part 1](https://mikebell.io/posts/my-custom-keyboards) I've expanded the collection and gotten rid of a few.
 

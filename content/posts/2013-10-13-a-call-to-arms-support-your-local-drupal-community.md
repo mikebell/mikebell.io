@@ -4,7 +4,7 @@ title: A Call to Arms - Support your local Drupal Community
 slug: "a-call-to-arms-support-your-local-drupal-community"
 date: "2013-10-13"
 template: post
-description: ""
+description: "It's time for a call to arms, people need to support their local and regional Drupal user groups and events. A lot of these events are volunteer run, it takes time and energy to run meetup after meetup and big events. The people that organise and run these events are quite something, 9 to 5 days don't exist for them."
 tags:
   - "Drupal"
   - "Drupal Planet"

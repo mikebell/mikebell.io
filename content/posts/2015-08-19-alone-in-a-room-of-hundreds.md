@@ -3,7 +3,7 @@ title: Alone in a room of hundreds
 slug: "alone-in-a-room-of-hundreds"
 date: "2015-08-19"
 template: post
-description: ""
+description: "Conference season is looming pretty fast, I'm giving talks at two of my most respected conferences."
 ---
 Conference season is looming pretty fast, I'm giving talks at two of my most respected conferences.
 

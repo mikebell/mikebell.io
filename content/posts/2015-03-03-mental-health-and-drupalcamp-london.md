@@ -3,9 +3,9 @@ title: Mental Health and DrupalCamp London
 slug: "mental-health-and-drupalcamp-london"
 date: "2015-03-03"
 template: post
-description: ""
+description: "Over the weekend I had the pleasure of presenting at DrupalCamp London and I've been blown away by the feedback that I've received form people."
 ---
-Over the weekend I had the pleasure of presenting at DrupalCamp London and I've been blown away by the feedback that I've recieved form people.
+Over the weekend I had the pleasure of presenting at DrupalCamp London and I've been blown away by the feedback that I've received form people.
 
 The slides from my session can be found here:
 <script async class="speakerdeck-embed" data-id="c20f9584437542f2b61f98d6c2ea6c07" data-ratio="1.29456384323641" src="//speakerdeck.com/assets/embed.js"></script>

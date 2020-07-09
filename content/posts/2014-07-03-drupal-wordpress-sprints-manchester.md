@@ -4,7 +4,7 @@ title: Drupal + WordPress Sprints Manchester
 slug: "drupal-wordpress-sprints-manchester"
 date: "2014-07-03"
 template: post
-description: ""
+description: "I'm proud to announce a new collaboration between the Drupal and WordPress communities in Manchester to provide a space to contribute back to each respective project. It's a great opportunity to get together and work on the projects that we love while being around like minded people."
 tags:
   - "Drupal"
   - "Drupal Sprints Manchester"
