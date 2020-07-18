@@ -11,7 +11,7 @@ tags:
   - "Zigbee"
   - "Proxmox"
 category: "Smart home"
-description: ""
+description: "For the last few years I've been trying to 'smarten' our home up with technology in a security conscious way. There are a lot of IOT technologies out there that rely on third party servers often in undesired locations."
 ---
 For the last few years I've been trying to "smarten" our home up with technology in a security conscious way. There are a lot of IOT technologies out there that rely on third party servers often in undesired locations.
 
