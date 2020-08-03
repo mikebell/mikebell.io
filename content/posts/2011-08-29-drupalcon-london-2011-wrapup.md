@@ -14,8 +14,8 @@ This years pickings were slim to none, not that there wasn't anything great out 
 
 I did however grab a conference t-shirt which is great, as someone who collects a lot of cool and interesting shirts this one was pretty amazing, so congrats to the designers.
 
-This years conference was great, so many good sessions to attend and as always it was great to meet up with other drupal people including lots from #drupal-uk. I'm so pleased I got to see Batman Live I thought it was a great show and even after my skeptisism it was worth it.
+This years conference was great, so many good sessions to attend and as always it was great to meet up with other drupal people including lots from #drupal-uk. I'm so pleased I got to see Batman Live I thought it was a great show and even after my skepticism it was worth it.
 
-I came away with so many ideas that I can't wait to put into fluition. I particuarly like drush deploy, looking forward to seeing that get a stable release. I attended a great BoF on Kit/Build Kit/Features, something that I've been using for a while now.
+I came away with so many ideas that I can't wait to put into fruition. I particularly like drush deploy, looking forward to seeing that get a stable release. I attended a great BoF on Kit/Build Kit/Features, something that I've been using for a while now.
 
 Next years european DrupalCon is in Munich... Beer Beer and more Beer!

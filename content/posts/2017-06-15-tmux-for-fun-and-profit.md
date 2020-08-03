@@ -29,7 +29,7 @@ I'm not really going to go into the depths of using of using TMUX - this [post](
 
 ### Configuration
 
-Here are some of my specific configuration in ```~/.tmux.conf```
+Here are some of my specific configuration in `~/.tmux.conf`
 
 
 	# Use mouse like a peasant
@@ -60,17 +60,19 @@ Hopefully the comments should be self explanatory, there are a lot more things I
 
 Here is a working example of my dev tmuxinator config:
 
-	name: dev
-	root: ~/
+```yaml
+name: dev
+root: ~/
 
-	windows:
-  	- editor:
-  		template: main-horizontal
-  		panes:
-  		  - cd ~/Sites/projects/
-  	    - cd ~/Vagrant/Convivio-VM && vagrant up
-        - cd ~/Vagrant/Convivio-VM
+windows:
+- editor:
+	template: main-horizontal
+	panes:
+		- cd ~/Sites/projects/
+	- cd ~/Vagrant/Convivio-VM && vagrant up
+	- cd ~/Vagrant/Convivio-VM
+```
 
-What this does is create me a horizontal terminal and then two columns below it. The main terminal opens my project directory, the first column opens my VM directory and then brings it up, the third column moves me into the VM directory so I can run ```vagrant ssh``` when it's up.
+What this does is create me a horizontal terminal and then two columns below it. The main terminal opens my project directory, the first column opens my VM directory and then brings it up, the third column moves me into the VM directory so I can run `vagrant ssh` when it's up.
 
 There's a lot more things to do to automate my dev setup but for the time being it's pretty handy.

@@ -4,7 +4,7 @@ title: Override servers version of drush
 slug: "override-servers-version-of-drush"
 date: "2014-01-23"
 template: post
-description: ""
+description: "Recently I had to work on a server that was heavily restricted by a third party company. They were using an archaic version of drush so I decided to change it!"
 tags:
   - "Drupal"
   - "drush"
@@ -23,5 +23,5 @@ PATH="/home/badger/drush-6.2.0:$PATH”
 export PATH
 * `source ~/.bashrc` or `source ~/.zshrc`
 
-There you go the latest version of drush on a locked down system. 
+There you go the latest version of drush on a locked down system.
 

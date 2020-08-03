@@ -4,7 +4,7 @@ title: Operation Positive - Day 2
 slug: "operation-positive-day-2"
 date: "2015-07-30"
 template: post
-description: ""
+description: "Overall I think today was worse but I can't put my finger on why, maybe I just wasn't trying hard enough."
 tags:
   - Operation Positive
 ---

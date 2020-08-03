@@ -3,7 +3,7 @@ title: Coming to terms with contribution
 slug: "coming-to-terms-with-contribution"
 date: "2015-09-25"
 template: post
-description: ""
+description: "For a long time I wanted to contributed code to Drupal, I have a few times but no where near as much as I thought I was going to do."
 ---
 For a long time I wanted to contributed code to Drupal, I have a few times but no where near as much as I thought I was going to do.
 

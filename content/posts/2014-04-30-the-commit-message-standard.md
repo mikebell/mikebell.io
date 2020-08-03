@@ -4,7 +4,7 @@ title: The Commit Message Standard
 slug: "the-commit-message-standard"
 date: "2014-04-03"
 template: post
-description: ""
+description: "Since we have git flow as a nice standard it makes sense to standardise our commit messages as well."
 tags:
   - "Git"
 ---

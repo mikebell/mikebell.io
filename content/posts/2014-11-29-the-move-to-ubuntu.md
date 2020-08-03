@@ -3,11 +3,11 @@ title: The Move to Ubuntu
 slug: "the-move-to-ubuntu"
 date: "2014-11-29"
 template: post
-description: ""
+description: "I finally did it! I moved from Windows 7 to Ubuntu 14.04. It's not entirely great but it's working and I can make as many changes as I want."
 ---
 I finally did it! I moved from Windows 7 to Ubuntu 14.04. It's not entirely great but it's working and I can make as many changes as I want.
 
-#Problems
+## Problems
 Unity Launcher - Honestly it's damned annoying, I hate how I can't move it to the right hand side of the screen which would be much better with my dual monitor configuration.
 
 2nd Sound Card didn't work - Troubleshooted it and for once everything actually seemed ok. I had to install a 3rd party mixer to find that the card was muted and worked.
@@ -16,7 +16,7 @@ Default Ubuntu still looks butt ugly. Fixed that with a new theme and some tweak
 
 Weird font issues in Firefox, there is a bug report going back to 13.04 but no movement on it.
 
-#Solutions and Tweaks
+## Solutions and Tweaks
 Unity Launcher - I've hidden it and switched to using Cairo Dock which acts as a nice copy of the OSX dock. Still need to figure out how to get it accross two screens.
 
 I've installed the Numix theme and Unity Tweak Tools to configure my desktop. It's looking a lot nicer now.

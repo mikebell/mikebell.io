@@ -4,7 +4,7 @@ title: Code Club Manchester and You!
 slug: "code-club-manchester-and-you"
 date: "2014-01-30"
 template: post
-description: ""
+description: "I'm proud to announce that I'll be involved with Code Club Manchester! CTI has graciously sponsored this great initiative. Both me and Paul Johnson have volunteered our time to help steer the Code Club in Manchester and make sure it's as successful as possible."
 tags:
   - "Code Club"
   - "Code Club Manchester"

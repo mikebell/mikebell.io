@@ -4,7 +4,7 @@ title: Vagrant Boxes for Drupal Development
 slug: "vagrant-boxes-for-drupal-development"
 date: "2013-08-10"
 template: post
-description: ""
+description: "During my time off I figured I'd get my dev environment setup for when I start at CTI."
 tags:
   - "Development"
   - "Drupal"
@@ -24,11 +24,11 @@ Using the really great [puphpet.com](https://puphpet.com/) I've created two new 
 - PHP 5.3
 
 ## Usage
-<code>
+```shell
 git clone git@github.com:digital006/drupaldev-nginx.git
 mkdir sites
 vagrant up
-</code>
+```
 
 ## Links
 https://github.com/digital006/drupaldev-nginx

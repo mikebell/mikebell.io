@@ -3,7 +3,7 @@ title: Drupalcon Barcelona
 slug: "drupalcon-barcelona"
 date: "2015-06-27"
 template: post
-description: ""
+description: "I'm writing this 3 days before everyone finds out that I'll be part of the Thursday keynote. Let me back track a bit."
 ---
 **This is an unpublished post that I've only just got round to posting.**
 

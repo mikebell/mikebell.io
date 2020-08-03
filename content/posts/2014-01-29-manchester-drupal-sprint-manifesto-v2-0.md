@@ -4,7 +4,7 @@ title: Manchester Drupal Sprint Manifesto V2.0
 slug: "manchsester-drupal-sprint-manifesto-v-2"
 date: "2014-01-29"
 template: post
-description: ""
+description: "I really enjoy the sprints however there are few issues, some from me and some brought up by others who attend the sprints. I'm hoping to address them. With this in mind here is a revised manifesto for upcoming sprints"
 tags:
   - "Drupal Sprints Manchester"
 ---

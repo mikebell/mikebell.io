@@ -14,10 +14,10 @@ I decided to take a look at [Robo](http://robo.li/) and see what I could do. Sin
 
 My [RoboFile.php](https://gist.github.com/mikebell/de71ea97bee4332797e9) consists of the following commands:
 
-* ```setup``` - Creates basic directories for use. Use $site to setup path variable.
-* ```composer:build``` - Run composer install in your project
-* ```release``` - Release a new version of your entire codebase to $site/releases. This also calls ```composer:build```
-* ```rollback ($version)``` - Rollback to the last release or if you pass the unix timestamp of the last release it'll revert to that.
+* `setup` - Creates basic directories for use. Use $site to setup path variable.
+* `composer:build` - Run composer install in your project
+* `release` - Release a new version of your entire codebase to $site/releases. This also calls `composer:build`
+* `rollback ($version)` - Rollback to the last release or if you pass the unix timestamp of the last release it'll revert to that.
 
 This leaves you with the following:
 
@@ -29,8 +29,8 @@ $site
       /current -> 123456789
 ```
 
-So you can easily point your web server config to ```$site/releases/current```
+So you can easily point your web server config to `$site/releases/current`
 
-I'm not quite happy with using a unixtime stamp so will probably replace that with a variable you can pass in as part of the ```release``` task.
+I'm not quite happy with using a unix time stamp so will probably replace that with a variable you can pass in as part of the `release` task.
 
 I think this is a fairly nice way of handling release management, it's nice to have something that is easy to jump into.

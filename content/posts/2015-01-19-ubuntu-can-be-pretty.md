@@ -3,7 +3,7 @@ title: Ubuntu can be pretty
 slug: "ubuntu-can-be-pretty"
 date: "2015-01-19"
 template: post
-description: ""
+description: "Ubuntu can be pretty, honestly!"
 ---
 <iframe class="imgur-album" width="100%" height="550" frameborder="0" src="//imgur.com/a/AZfue/embed"></iframe>
 

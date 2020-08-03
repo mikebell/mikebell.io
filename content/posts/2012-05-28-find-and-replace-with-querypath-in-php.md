@@ -7,7 +7,7 @@ description: "To find and replace using querypath without destroying existing co
 ---
 To find and replace using querypath without destroying existing context you can use the following:
 
-```
+```php
 $temp = qp($output, 'table')->addclass('table');
 $output = $temp->top('body')->innerHTML();
 ```

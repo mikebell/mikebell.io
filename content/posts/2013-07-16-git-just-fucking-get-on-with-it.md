@@ -4,7 +4,7 @@ title: Git just fucking get on with it.
 slug: "git-just-fucking-get-on-with-it"
 date: "2013-07-16"
 template: post
-description: ""
+description: "Here is an unedited version of the post. Raw and uncensored"
 tags:
   - "Deployment"
   - "git"

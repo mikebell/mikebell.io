@@ -4,7 +4,7 @@ title: Theorycrafting Drupal Deployment Via Bittorrent
 slug: "theorycraftin-drupal-deployment-via-bittorrent"
 date: "2013-06-09"
 template: post
-description: ""
+description: "There was an article floating around a few weeks ago about deploying large scale applications to multiple servers through bittorrent. I remember being at a talk by a Facebook developer who mentioned they did the same. I figured I'd put some thought into how it could be done at a practical level for Drupal sites."
 tags:
   - "Drupal"
 ---
@@ -21,7 +21,7 @@ Tools Needed:
 Jenkins can be used to tie all the separate tools together.
 
 ## mktorrent
-A cli tool to build .torrent files which can be pushed off to remote servers. This can integrate with Jenkins to build the torrent based of Jenkins variables. 
+A cli tool to build .torrent files which can be pushed off to remote servers. This can integrate with Jenkins to build the torrent based of Jenkins variables.
 
 ## rtorrent/libtorrent
 This is a command line torrent client, it can be setup to watch from a directory on the remote server. It then starts downloading files once a new torrent is places into the watch directory.

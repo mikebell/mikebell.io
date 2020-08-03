@@ -4,7 +4,7 @@ title: Drupal Sprints around the World
 slug: "drupal-sprints-around-the-world"
 date: "2013-10-30"
 template: post
-description: ""
+description: "Regular sprints are now becoming a great way to help out with Drupal Core and Contrib. In the UK there are now two sprints covering London and Manchester. In India there are 3 user groups all sprinting regularly. No doubt there are some in the US and in other countries."
 tags:
   - "Drupal"
   - "Drupal Planet"

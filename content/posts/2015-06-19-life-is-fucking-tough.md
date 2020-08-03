@@ -3,7 +3,7 @@ title: Life is fucking tough.
 slug: "life-is-fucking-tough"
 date: "2015-06-19"
 template: post
-description: ""
+description: "This week has been tough."
 ---
 This week has been tough.
 

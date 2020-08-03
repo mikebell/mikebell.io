@@ -4,7 +4,7 @@ title: Music podcasts to checkout
 slug: "music-podcasts-to-checkout"
 date: "2013-09-23"
 template: post
-description: ""
+description: "Since I'm commuting a lot more to Manchester I figured I'd start downloading more music podcasts to listen to on the train."
 tags:
   - "chillstep"
   - "dnb"

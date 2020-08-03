@@ -3,7 +3,7 @@ title: An Update Pt. 2
 slug: "an-update-pt-2"
 date: "2014-08-18"
 template: post
-description: ""
+description: "It's been a few weeks since I last posted. I've decided to be frank about all of this, I want to be honest with myself and others. I've found that writing things down helps to organise my thoughts."
 ---
 It's been a few weeks since I last posted. I've decided to be frank about all of this, I want to be honest with myself and others. I've found that writing things down helps to organise my thoughts.
 

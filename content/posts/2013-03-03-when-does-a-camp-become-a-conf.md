@@ -3,7 +3,7 @@ title: When does a camp become a conf?
 slug: "when-does-a-camp-become-a-conf"
 date: "2013-03-03"
 template: post
-description: ""
+description: "I'm on a train heading back from drupal camp London, after a great weekend it got me thinking what is a camp and where do you draw the line?"
 ---
 I'm on a train heading back from drupal camp London, after a great weekend it got me thinking what is a camp and where do you draw the line?
 

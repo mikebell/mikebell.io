@@ -3,7 +3,7 @@ title: The Dark Thoughts Are Back
 slug: "the-dark-thoughts-are-back"
 date: "2015-04-14"
 template: post
-description: ""
+description: "There I said it. I'm angry I want to punch the wall till my fists bleed."
 ---
 There I said it. I'm angry I want to punch the wall till my fists bleed.
 

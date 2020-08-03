@@ -3,7 +3,7 @@ title: It's Scrum Jim!
 slug: "its-scrum-jim"
 date: "2015-05-14"
 template: post
-description: ""
+description: "My colleague and friend Gem Hill has published her first podcast on Scrum and Agile."
 ---
 My colleague and friend Gem Hill has published her first podcast on Scrum and Agile.
 

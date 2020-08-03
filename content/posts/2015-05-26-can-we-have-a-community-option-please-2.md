@@ -3,7 +3,7 @@ title: Can we have a community option please?
 slug: "can-we-have-a-community-option-please"
 date: "2015-05-26"
 template: post
-description: ""
+description: "Earlier on today I tweeted that I'd like a community option when submitting a talk to DrupalCon Europe"
 ---
 Earlier on today I tweeted that I'd like a community option when submitting a talk to DrupalCon Europe
 

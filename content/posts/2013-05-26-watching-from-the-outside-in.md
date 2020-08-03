@@ -3,7 +3,7 @@ title: Watching From the Outside In
 slug: "watching-from-the-outside-in"
 date: "2013-05-26"
 template: post
-description: ""
+description: "A few years ago I adminned a large IRC channel for indie music, during my time as OP I meet a guy called Garrett (film42) we started chatting over our like for indie music and technology. Over the years we kept on chatting and our focus moved away from music and further into technology."
 ---
 A few years ago I adminned a large IRC channel for indie music, during my time as OP I meet a guy called Garrett (film42) we started chatting over our like for indie music and technology. Over the years we kept on chatting and our focus moved away from music and further into technology.
 

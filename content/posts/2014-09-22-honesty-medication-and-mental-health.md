@@ -3,7 +3,7 @@ title: Honesty, Medication and Mental Health
 slug: "honesty-medication-and-mental-health"
 date: "2014-09-22"
 template: post
-description: ""
+description: "Again it’s been too long since my last post, I seem to come up with ideas and start planning it out in my head only to end up with a rambling nonsensical rant on where I am and what I’ve gone through. This time I’m going to structure it and make sure I get my point across."
 ---
 Again it’s been too long since my last post, I seem to come up with ideas and start planning it out in my head only to end up with a rambling nonsensical rant on where I am and what I’ve gone through. This time I’m going to structure it and make sure I get my point across.
 

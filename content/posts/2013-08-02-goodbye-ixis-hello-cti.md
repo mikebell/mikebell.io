@@ -3,7 +3,7 @@ title: Goodbye Ixis, Hello CTI!
 slug: "goodbye-ixis-hello-cti"
 date: "2013-08-02"
 template: post
-description: ""
+description: "After 3 and a half years at Ixis I'm sad to say goodbye. I think it's time to move on and explore new opportunities. My time at Ixis has been great, the people are amazing and it's been a pleasure to help shape their infrastructure and deliver sites for them."
 ---
 After 3 and a half years at Ixis I'm sad to say goodbye. I think it's time to move on and explore new opportunities. My time at Ixis has been great, the people are amazing and it's been a pleasure to help shape their infrastructure and deliver sites for them.
 

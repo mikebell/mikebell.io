@@ -3,7 +3,7 @@ title: The Surface Detail
 slug: "the-surface-detail"
 date: "2015-01-27"
 template: post
-description: ""
+description: "The title of the latest book I'm reading struck a cord with me. It's called 'The Surface Detail' by Iain M. Banks. Without too many spoilers it's about virtual hells. Something which those who live with depression should be well aware of."
 ---
 The title of the latest book I'm reading struck a cord with me. It's called "The Surface Detail" by Iain M. Banks. Without too many spoilers it's about virtual hells. Something which those who live with depression should be well aware of.
 
@@ -13,4 +13,4 @@ I guess I'm being quite spurious here. What do I mean by detail? What's the diff
 
 For me the surface is something everyone sees on a daily basis, it's the face I put on. The fake look of everything is OK the face I want you to see.
 
-It's the detail that's most interesting, that microscopic facial expression you miss as I quietly reach out for help. The look that some things just not quite right. Everyone has it. I just don't think anyone sees it. 
+It's the detail that's most interesting, that microscopic facial expression you miss as I quietly reach out for help. The look that some things just not quite right. Everyone has it. I just don't think anyone sees it.

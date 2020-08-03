@@ -3,7 +3,7 @@ title: DrupalCamp NW Wrapup
 slug: "drupalcamp-nw-wrapup"
 date: "2012-11-27"
 template: post
-description: ""
+description: "After taking a whole 24 hours away from anything DrupalCamp NW related I now feel relaxed and chilled enough to write this."
 ---
 After taking a whole 24 hours away from anything DrupalCamp NW related I now feel relaxed and chilled enough to write this.
 

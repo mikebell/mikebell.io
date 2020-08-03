@@ -4,7 +4,7 @@ title: Quick and Easy Drush Debian Packaging
 slug: "quick-and-easy-drush-debian-packaging"
 date: "2014-04-24"
 template: post
-description: ""
+description: "I found a really nice way of packaging up drush as a debian package without having to go through all the hassle of creating all the files for a “true” debian package."
 tags:
   - "Debian"
   - "drush"

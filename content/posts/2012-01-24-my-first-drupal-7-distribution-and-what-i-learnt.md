@@ -1,6 +1,5 @@
 ---
 title: My first Drupal 7 Distribution and what I learnt
-
 slug: "my-first-drupal-7-distribution"
 date: "2012-01-24"
 template: post

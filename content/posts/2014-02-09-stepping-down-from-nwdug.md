@@ -4,7 +4,7 @@ title: Stepping Down from NWDUG
 slug: "stepping-down-from-nwdug"
 date: "2014-02-09"
 template: post
-description: ""
+description: "As of the 6th February I’ve stepped down from NWDUG it’s something that I’ve been thinking about for a while now and I now have other things that need my focus. Phil Norton is a great person to work with and I hope that whoever steps up to help will have as much fun as I have over the past few years."
 tags:
   - "Drupal"
   - "nwdug"

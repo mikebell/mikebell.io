@@ -4,7 +4,7 @@ title: Operation Positive - Day 7
 slug: "operation-positive-day-7"
 date: "2015-08-04"
 template: post
-description: ""
+description: "Just couldn't seem to get into today at all. Didn't help that I had no appetite all day and only had porridge for lunch. Coffee did nothing to help me at all."
 tags:
   - "Operation Positive"
 ---

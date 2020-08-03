@@ -3,7 +3,7 @@ title: Better and Smarter Notifications
 slug: "better-and-smarter-notifications"
 date: "2013-05-27"
 template: post
-description: ""
+description: "I'm sat in my living room in front of my PC, I have my Nexus phone to the right of me just next to my mouse and my Nexus 7 is sat on table behind me. When I get tagged in a Google Plus post I get notified 5 times."
 ---
 I'm sat in my living room in front of my PC, I have my Nexus phone to the right of me just next to my mouse and my Nexus 7 is sat on table behind me. When I get tagged in a Google Plus post I get notified 5 times.
 
