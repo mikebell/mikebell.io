@@ -1,7 +1,7 @@
 ---
 draft: false
 title: Upgrade to Gatsby and AWS
-date: "2022-06-07"
+date: "2020-06-07"
 template: post
 slug: "upgrade-to-gatsby-and-aws"
 tags:
