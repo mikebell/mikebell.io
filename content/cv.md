@@ -12,7 +12,7 @@ I'm a DevOps Engineer that focuses on helping others do their jobs easier and be
 
 ## Employment History
 
-**DevOps Engineer - Convivio - Present**
+**DevOps Engineer (previously Senior Developer) - Convivio - June 2016 to Present**
 
 Cabinet Office National Leadership Centre - I helped to build and maintain an AWS EKS cluster for their now defunct leadership network Connect. One of my key objectives was open sourcing [our](https://github.com/cabinetoffice/national-leadership-centre-terragrunt) [work](https://github.com/cabinetoffice/national-leadership-centre-terraform) to create repeatable government friendly Kubernetes cluster.
 
@@ -35,8 +35,6 @@ MOJ Judicial Appointments Commission - Responsible for development and support o
 * Development of new features
 * Support of existing features and infrastructure.
 * Application debugging and performance monitoring/improvements.
-
-**Senior Developer - Convivio - June 2016 - December 2019**
 
 **Senior Developer - WunderUK - January 2016 to June 2016**
 
