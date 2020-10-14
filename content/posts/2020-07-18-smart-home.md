@@ -1,7 +1,7 @@
 ---
 draft: false
 title: Smart home
-date: "2022-07-18"
+date: "2020-07-18"
 template: post
 slug: "smart-home"
 tags:
