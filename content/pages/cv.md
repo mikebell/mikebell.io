@@ -8,11 +8,33 @@ template: "page"
 
 ## About me
 
-## Skills at a glance
+I'm a DevOps Engineer who's primary focus is to help others do their jobs easier and better. I love building new things and getting my hands dirty on projects. I maintain my own ProxMox server in my garage where I run a lot of home automation software and various lab exercises. Outside of my home office I love to build Lego, design and build custom keyboards, lounge by the pool in a hot country, cook and play with my 2 awesome cats.
 
 ## Employment History
 
 **DevOps Engineer - Convivio - Present**
+
+Cabinet Office National Leadership Centre - I helped to build and maintain an AWS EKS cluster for their now defunct leadership network Connect. One of my key objectives was open sourcing [our](https://github.com/cabinetoffice/national-leadership-centre-terragrunt) [work](https://github.com/cabinetoffice/national-leadership-centre-terraform) to create repeatable government friendly Kubernetes cluster.
+
+* Terraform
+* AWS
+* Concourse
+* Prometheus
+
+Internal Systems - Responsible for the development and maintainership of Convivios internal infrastructure.
+
+* Terraform
+* AWS
+* Ansible
+* Concourse
+
+Cyber Essentials and Plus - Every year I have to run the company through the CE and CE+ audits and ensure that we're compliant with the standards. As part of this I'm starting our investigation into ISO 27001.
+
+MOJ Judicial Appointments Commission - Responsible for development and support of the JAC application system.
+
+* Development of new features
+* Support of existing features and infrastructure.
+* Application debugging and performance monitoring/improvements.
 
 **Senior Developer - Convivio - June 2016 - December 2019**
 
