@@ -17,15 +17,15 @@ module.exports = {
     },
     {
       label: 'About me',
-      path: '/pages/about'
+      path: '/about'
     },
     {
       label: 'CV',
-      path: '/pages/cv'
+      path: '/cv'
     },
     {
       label: 'Contact me',
-      path: '/pages/contacts'
+      path: '/contact'
     }
   ],
   author: {
