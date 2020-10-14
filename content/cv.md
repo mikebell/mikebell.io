@@ -8,7 +8,7 @@ template: "page"
 
 ## About me
 
-I'm a DevOps Engineer who's primary focus is to help others do their jobs easier and better. I love building new things and getting my hands dirty on projects. I maintain my own ProxMox server in my garage where I run a lot of home automation software and various lab exercises. Outside of my home office I love to build Lego, design and build custom keyboards, lounge by the pool in a hot country, cook and play with my 2 awesome cats.
+I'm a DevOps Engineer that focuses on helping others do their jobs easier and better. I love building new things and getting my hands dirty on projects. I maintain my own ProxMox server in my garage where I run a lot of home automation software and various lab exercises. Outside of my home office I love to build Lego, design and build custom keyboards, lounge by the pool in a hot country, cook and play with my 2 awesome cats.
 
 ## Employment History
 
@@ -28,7 +28,7 @@ Internal Systems - Responsible for the development and maintainership of Convivi
 * Ansible
 * Concourse
 
-Cyber Essentials and Plus - Every year I have to run the company through the CE and CE+ audits and ensure that we're compliant with the standards. As part of this I'm starting our investigation into ISO 27001.
+Cyber Essentials Plus - I have run the company through the CE and CE+ audits and ensure that we're compliant with the standards. As part of this I've also started our investigation into ISO 27001.
 
 MOJ Judicial Appointments Commission - Responsible for development and support of the JAC application system.
 
@@ -40,9 +40,9 @@ MOJ Judicial Appointments Commission - Responsible for development and support o
 
 **Senior Developer - WunderUK - January 2016 to June 2016**
 
-Ministry of Justice JAC/JARS - Complex reporting functionality accross hundreds of datasets.
+Ministry of Justice JAC/JARS - Complex reporting functionality across hundreds of datasets.
 
-Kew Gardens - A large print and TV campaign that requires high availabiity form submissions using a custom PHP api.
+Kew Gardens - A large print and TV campaign that required high availability form submissions using a custom PHP api.
 
 Internal Projects - Wunderhub - a headless Drupal 8 site with built in API for exposing various bits of information about users and their skills.
 
