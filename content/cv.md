@@ -8,19 +8,21 @@ template: "page"
 
 ### About me
 
-I'm a DevOps Engineer that focuses on helping others do their jobs easier and better. I love building new things and getting my hands dirty on projects. I maintain my own ProxMox server in my garage where I run a lot of home automation software and various lab exercises. Outside of my home office I love to build Lego, design and build custom keyboards, lounge by the pool in a hot country, cook and play with my 2 awesome cats.
+I'm a DevOps Engineer that focuses on helping others do their jobs easier and better. I love building new things and getting into existing projects. Before I transitioned into this role I spent 10 years building and supporting Drupal (PHP) applications, my experience in developing these has allowed me to have a greater understanding of the requirements for a DevOps/SRE role. Outside of work I maintain my own ProxMox server in my garage where I run Kubernetes and home automation software/various lab exercises. When I'm not working I love to build Lego, design and build custom keyboards, lounge by the pool in a hot country, cook and play with my 2 awesome cats (sometimes they like to help cook, not very well though).
 
 ### Employment History
 
 #### DevOps Engineer (previously Senior Developer) - Convivio - June 2016 to Present
 
-**Cabinet Office National Leadership Centre** - I helped to build and maintain an AWS EKS cluster for their now defunct leadership network Connect. The major objective of the project was to compare existing architectures available through the Government such as GOV.UK PaaS and GDS Kubernetes, once it was determined that neither we're viable we designed and built our own. Following building our own we made sure to open source [our](https://github.com/cabinetoffice/national-leadership-centre-terragrunt) [work](https://github.com/cabinetoffice/national-leadership-centre-terraform) to create a repeatable UK government friendly Kubernetes cluster.
+**Cabinet Office National Leadership Centre** - I helped to build and maintain an AWS EKS cluster for their now defunct leadership network Connect. The first objective of the project was to compare existing architectures available through the Government such as GOV.UK PaaS and GSP (GDS Supported Platform), while both have their benefits we were unable to use them for our needs so proceeded to build our own. Following building our own we made sure to open source [our](https://github.com/cabinetoffice/national-leadership-centre-terragrunt) [work](https://github.com/cabinetoffice/national-leadership-centre-terraform) to create a repeatable UK government friendly Kubernetes cluster.
 
 * Terraform
 * AWS
 * Concourse
 * Prometheus
 * Kibana
+
+**GDS TechDocs** - With the help of others via pair programming we built the API integration for the TechDocs gem. This required an in-depth knowledge of the OpenAPI specification and learning Ruby on Rails.
 
 **Internal Systems** - Responsible for the development and maintainership of Convivios internal infrastructure.
 
@@ -29,17 +31,17 @@ I'm a DevOps Engineer that focuses on helping others do their jobs easier and be
 * Ansible
 * Concourse
 
-**Cyber Essentials Plus** - I have run the company through the CE and CE+ audits to ensure that we're compliant with their standards. As part of this I've also started our investigation into ISO 27001.
+**Cyber Essentials Plus** - I have run the company through the CE and CE+ audits to ensure that we're compliant with their standards. As part of this I've also started our investigation into ISO 27001. I chose to run this as a Kanban project to make sure it was visible to everyone what they had to provide and where we were going through the process. It worked really well and there was a very quick turn around.
 
 **MOJ Judicial Appointments Commission** - Responsible for development and support of the JAC application system.
 
-* Development of new features
-* Support of existing features and infrastructure.
-* Application debugging and performance monitoring/improvements.
+* Development of new features using Drupal and PHP.
+* Support of existing features and infrastructure. Implementing and monitoring the support queue.
+* Application debugging and performance monitoring/improvements at the server and code level.
 
 #### Senior Developer - WunderUK - January 2016 to June 2016
 
-**Ministry of Justice JAC/JARS** - Complex reporting functionality across hundreds of datasets.
+**Ministry of Justice JAC/JARS** - Complex reporting functionality across hundreds of datasets. This involved liaising with many MOJ team members to get a greater understanding of the data they have and how they wanted to use it.
 
 **Kew Gardens** - A large print and TV campaign that required high availability form submissions using a custom PHP API.
 
@@ -50,6 +52,14 @@ I'm a DevOps Engineer that focuses on helping others do their jobs easier and be
 #### Drupal Technical Lead - Ixis - January 2010 to August 2013
 
 #### Web Developer - Inphinet - April 2008 – December 2009
+
+### Commitment to Open Source and Community
+
+I like to give back to open source communities whether that be in code contributions or speaking at conferences. I'm a confident public speaker and am proud to have keynoted at DrupalCon Barcelona and spoken at PHPNW Conference, two of my bucket list items.
+
+In the past I have run Drupal user groups and hack days focused on committing code back to the Drupal project.
+
+I part administer a mental health support group on Slack for people within the tech community, I've also contributed to Geek Mental Health week including maintaining the website and running events. I also attend remote meetups where possible to further my knowledge.
 
 ### Education
 
