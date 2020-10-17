@@ -8,7 +8,11 @@ template: "page"
 
 ### About me
 
-I'm a DevOps Engineer that focuses on helping others do their jobs easier and better. I love building new things and getting into existing projects. Before I transitioned into this role I spent 10 years building and supporting Drupal (PHP) applications, my experience in developing these has allowed me to have a greater understanding of the requirements for a DevOps/SRE role. Outside of work I maintain my own ProxMox server in my garage where I run Kubernetes and home automation software/various lab exercises. When I'm not working I love to build Lego, design and build custom keyboards, lounge by the pool in a hot country, cook and play with my 2 awesome cats (sometimes they like to help cook, not very well though).
+DevOps Engineer that focuses on improving efficiency for others while simplifying processes and developing new ones. Before moving into this role I spent 10 years building and supporting Drupal (PHP) applications, my experience in developing these has allowed me to have a greater understanding of the requirements for a DevOps/SRE role.
+
+Experience of working remotely, taking responsibility of my own time management and able to work with teams based anywhere in the world.
+
+Outside of work I maintain my own ProxMox server in my garage where it runs Kubernetes and home automation software/various lab exercises. When not working I love to build Lego, design and build custom keyboards, cook and play with my 2 cats.
 
 ### Employment History
 
@@ -22,12 +26,12 @@ I'm a DevOps Engineer that focuses on helping others do their jobs easier and be
 * Prometheus
 * Kibana
 
-**GDS TechDocs** - With the help of others via pair programming we built the API integration for the TechDocs gem. This required an in-depth knowledge of the OpenAPI specification and learning Ruby on Rails.
+**GDS TechDocs** - With the help of others via pair programming we built the API integration for the TechDocs gem. This required an in-depth knowledge of the OpenAPI specification and learning Ruby on Rails. A challenging project but one where I scoped the features we could deliver within the time given.
 
 **Internal Systems** - Responsible for the development and maintainership of Convivios internal infrastructure.
 
 * Terraform
-* AWS
+* AWS, EC2/S3/DynamoDB/RDS
 * Ansible
 * Concourse
 
@@ -43,7 +47,7 @@ I'm a DevOps Engineer that focuses on helping others do their jobs easier and be
 
 **Ministry of Justice JAC/JARS** - Complex reporting functionality across hundreds of datasets. This involved liaising with many MOJ team members to get a greater understanding of the data they have and how they wanted to use it.
 
-**Kew Gardens** - A large print and TV campaign that required high availability form submissions using a custom PHP API.
+**Kew Gardens Grow Wild** - A large print and TV campaign that required high availability form submissions using a custom PHP API.
 
 **Internal Projects** - Wunderhub - a headless Drupal 8 site with built in API for exposing various bits of information about users and their skills.
 
