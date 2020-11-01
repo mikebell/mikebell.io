@@ -45,3 +45,12 @@ jobs:
       #   with:
       #     dest-s3-bucket: mikebell.io
       #     cloudfront-id-to-invalidate: ${{ secrets.CLOUDFRONTID }}
+
+      - name: invalidate
+        uses: chetan/invalidate-cloudfront-action@master
+        env:
+          DISTRIBUTION: ${{ secrets.CLOUDFRONTID }}
+          PATHS: '*'
+          AWS_REGION: 'eu-west-2'
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
