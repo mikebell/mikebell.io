@@ -1,0 +1,89 @@
+baseURL: 'https://mikebell.io'
+title: Mike Bell - Blog & Stuff
+paginate: 5
+theme: hugo-PaperMod
+# theme: ananke
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpored: false
+
+googleAnalytics: UA-73379983-2
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - name: About
+          url: /about/
+          weight: 1
+        - name: CV
+          url: /cv/
+          weight: 2
+        - name: Archives
+          url: /archives/
+          weight: 5
+        - name: Tags
+          url: /tags/
+          weight: 10
+        - name: Contact
+          url: /contact/
+          weight: 11
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Mike Bell - Blog & Stuff
+  description: 'ExampleSites description'
+  author: Mike Bell
+  # author: ["Me", "You"] # multiple authors
+
+  images: "/code.png"
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  comments: false
+  defaultTheme: auto
+  disableThemeToggle : false
+  disableSpecial1stPost : false
+
+  assets:
+    favicon: '/code.png'
+
+  label:
+    text: "Home"
+    icon: /code.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: ExampleSite
+    # imageUrl: '<img location>'
+    # imageTitle: my image
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Mike Bell - Blog & Stuff"
+    Content:
+
+  socialIcons:
+    - name: twitter
+      url: 'https://twitter.com/mikebell_'
+    # - name: stackoverflow
+    #   url: 'https://stackoverflow.com'
+    - name: github
+      url: 'https://github.com/mikebell'
+    - name: email
+      url: 'hello@mikebell.io'

@@ -19,7 +19,7 @@ I installed the Ubuntu image and switch shell to ZSH. After importing all my dot
 ## Docker CE for Windows
 
 This installed and worked fine straight off the bat. I run Powershell to interact with `docker` and `docker compose`. I've seen a few StackOverflow posts about running this directly inside Ubuntu WSL but haven't gotten around to setting that up. Will be interesting to see how things work as I start introducing more complex network structures.
-"
+
 ## Visual Studio Code
 
 I really like this editor, it seems quite light and has a load of really good plugins that support my ever shifting development needs.
