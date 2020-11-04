@@ -10,7 +10,7 @@ template: "page"
 
 DevOps Engineer that focuses on improving efficiency for others while simplifying processes and developing new ones. Before moving into this role I spent 10 years building and supporting Drupal (PHP) applications, my experience in developing these has allowed me to have a greater understanding of the requirements for a DevOps/SRE role.
 
-Experience of working remotely, taking responsibility of my own time management and able to work with teams based anywhere in the world.
+Experience of working remotely, taking responsibility of my own time management and able to work with teams based anywhere in the world. As part of my role at Convivio I regularly run stand-ups and meetings both internally and with clients.
 
 Outside of work I maintain my own ProxMox server in my garage where it runs Kubernetes and home automation software/various lab exercises. When not working I love to build Lego, design and build custom keyboards, cook and play with my 2 cats.
 
@@ -28,7 +28,7 @@ Outside of work I maintain my own ProxMox server in my garage where it runs Kube
 
 **GDS TechDocs** - With the help of others via pair programming we built the API integration for the TechDocs gem. This required an in-depth knowledge of the OpenAPI specification and learning Ruby on Rails. A challenging project but one where I scoped the features we could deliver within the time given.
 
-**Internal Systems** - Responsible for the development and maintainership of Convivios internal infrastructure.
+**Internal Systems** - Responsible for the development and maintaining of Convivios internal infrastructure.
 
 * Terraform
 * AWS, EC2/S3/DynamoDB/RDS
