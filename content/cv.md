@@ -40,7 +40,7 @@ Outside of work I maintain my own ProxMox server in my garage where it runs Kube
 **MOJ Judicial Appointments Commission** - Responsible for development and support of the JAC application system.
 
 * Development of new features using Drupal and PHP.
-* Support of existing features and infrastructure. Implementing and monitoring the support queue.
+* Support of existing features and infrastructure including CI and deployment. Implementing and monitoring the support queue.
 * Application debugging and performance monitoring/improvements at the server and code level.
 
 #### Senior Developer - WunderUK - January 2016 to June 2016
