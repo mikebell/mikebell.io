@@ -1,0 +1,22 @@
+@media print {
+    body {
+        background-color: #fff;
+    }
+
+    p,
+    a,
+    h1,
+    h2,
+    h3,
+    h4,
+    li {
+        color: #000;
+    }
+
+    header,
+    footer {
+        display: none;
+    }
+
+    /* @page { size: auto;  margin: 0mm; } */
+}
