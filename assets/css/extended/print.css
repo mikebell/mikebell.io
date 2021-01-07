@@ -1,6 +1,7 @@
 @media print {
-    body {
-        background-color: #fff;
+    body,
+    article {
+        background-color: #fff !IMPORTANT;
     }
 
     p,
@@ -13,9 +14,13 @@
         color: #000;
     }
 
-    header,
-    footer {
+    .header,
+    .footer {
         display: none;
+    }
+
+    .entry-footer {
+        color: #000;
     }
 
     /* @page { size: auto;  margin: 0mm; } */
