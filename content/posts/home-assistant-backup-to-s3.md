@@ -2,6 +2,8 @@
 title: "Home Assistant Backup to S3"
 date: 2021-04-08T10:10:35+01:00
 draft: false
+tags:
+  - Home Assistant
 ---
 
 How to easily backup your Home Assistant configuration to an S3 bucket.
