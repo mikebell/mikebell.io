@@ -4,19 +4,29 @@ template: "page"
 ---
 
 # Mike Bell
-## DevOps Engineer - Remote & Manchester UK
+## Platform Engineer - Remote & Manchester UK
 
 ### About me
 
-DevOps Engineer that focuses on improving efficiency for others while simplifying processes and developing new ones. Before moving into this role I spent 10 years building and supporting Drupal (PHP) applications, my experience in developing these has allowed me to have a greater understanding of the requirements for a DevOps/SRE role.
+Platform Engineer that focuses on improving efficiency for others while simplifying processes and developing new ones. Before moving into this role I spent 10 years building and supporting Drupal (PHP) applications, my experience in developing these has allowed me to have a greater understanding of the requirements for a Platform Engineer/DevOps/SRE role.
 
-Experience of working remotely, taking responsibility of my own time management and able to work with teams based anywhere in the world. As part of my role at Convivio I regularly run stand-ups and meetings both internally and with clients.
+Experience of working remotely, taking responsibility of my own time management and able to work with teams based anywhere in the world. As part of my role at Convivio I regularly ran stand-ups and meetings both internally and with clients.
 
 Outside of work I maintain my own ProxMox server in my garage where it runs Kubernetes and home automation software/various lab exercises. When not working I love to build Lego, design and build custom keyboards, cook and play with my 2 cats.
 
 ### Employment History
 
-#### DevOps Engineer (previously Senior Developer) - Convivio - June 2016 to Present
+#### Platform Engineer - Hippo Digital - February 2021 to present
+
+** Government Property Association ** - Built and maintain a multi environment AWS setup for a transactional data processing platform.
+
+* Cloudformation
+* CodePipeline
+* RDS
+* Lambda (Python)
+* Ansible
+
+#### DevOps Engineer (previously Senior Developer) - Convivio - June 2016 to February 2021
 
 **Cabinet Office National Leadership Centre** - I helped to build and maintain an AWS EKS cluster for their now defunct leadership network Connect. The first objective of the project was to compare existing architectures available through the Government such as GOV.UK PaaS and GSP (GDS Supported Platform), while both have their benefits we were unable to use them for our needs so proceeded to build our own. Following building our own we made sure to open source [our](https://github.com/cabinetoffice/national-leadership-centre-terragrunt) [work](https://github.com/cabinetoffice/national-leadership-centre-terraform) to create a repeatable UK government friendly Kubernetes cluster.
 
