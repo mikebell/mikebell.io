@@ -8,11 +8,11 @@ template: "page"
 
 ### About me
 
-Platform Engineer that focuses on improving efficiency for others while simplifying processes and developing new ones. Before moving into this role I spent 10 years building and supporting Drupal (PHP) applications, my experience in developing these has allowed me to have a greater understanding of the requirements for a Platform Engineer/DevOps/SRE role.
+Platform Engineer that focuses on improving efficiency for others while simplifying processes and developing new ones. Before moving into this role I spent 10 years building and supporting Drupal (PHP) applications, my experience in developing these has given me a greater understanding of the requirements for a Platform Engineer/DevOps/SRE role.
 
-Experience of working remotely, taking responsibility of my own time management and able to work with teams based anywhere in the world. As part of my role at Convivio I regularly ran stand-ups and meetings both internally and with clients.
+I've been remote working for over 5 years, taking responsibility of my own time management and ability to work with teams based anywhere in the world. As part of my role at Convivio I regularly ran stand-ups, meetings, restropectives and workshops.
 
-Outside of work I maintain my own ProxMox server in my garage where it runs Kubernetes and home automation software/various lab exercises. When not working I love to build Lego, design and build custom keyboards, cook and play with my 2 cats.
+Outside of work I maintain my own ProxMox server in my garage where it runs Kubernetes/Docker and home automation software. When not working I love to build Lego, design and build custom keyboards, cook and play with my cat.
 
 ### Employment History
 
@@ -20,11 +20,20 @@ Outside of work I maintain my own ProxMox server in my garage where it runs Kube
 
 **Government Property Association** - Built and maintain a multi environment AWS setup for a transactional data processing platform.
 
-* Cloudformation
-* CodePipeline
+* Cloudformation and subsequent refactor to Terraform
+* CodePipeline and Codebuild
 * RDS
-* Lambda (Python)
+* Lambda (Python using Chalice)
 * Ansible
+
+**Unavailable** - PaaS for highly available multilingual static sites with a focus on security.
+
+* Terraform/Terragrunt for a repeatable multi environment platform
+* CodePipeline and Codebuild
+* API Gateway
+* Cognito
+* Cloudfront
+* ECR
 
 #### DevOps Engineer (previously Senior Developer) - Convivio - June 2016 to February 2021
 
@@ -69,11 +78,11 @@ Outside of work I maintain my own ProxMox server in my garage where it runs Kube
 
 ### Commitment to Open Source and Community
 
-I like to give back to open source communities whether that be in code contributions or speaking at conferences. I'm a confident public speaker and am proud to have keynoted at DrupalCon Barcelona and spoken at PHPNW Conference, two of my bucket list items.
+I like to give back to open source communities whether that be in code contributions or speaking at conferences. I'm a confident public speaker and proud to have keynoted at DrupalCon Barcelona and spoken at PHPNW Conference, two of my bucket list items.
 
 In the past I have run Drupal user groups and hack days focused on committing code back to the Drupal project.
 
-I part administer a mental health support group on Slack for people within the tech community, I've also contributed to Geek Mental Health week including maintaining the website and running events. I also attend remote meetups where possible to further my knowledge.
+I part administer a mental health support group on Slack for people within the tech community, I've also contributed to Geek Mental Health week including maintaining the website and running events.
 
 ### Education
 
@@ -95,4 +104,4 @@ I part administer a mental health support group on Slack for people within the t
 
 References available upon request.
 
-Last updated 13/11/2020
+Last updated 30/11/2021
