@@ -10,9 +10,9 @@ template: "page"
 
 Platform Engineer that focuses on improving efficiency for others while simplifying processes and developing new ones. Before moving into this role I spent 10 years building and supporting Drupal (PHP) applications, my experience in developing these has given me a greater understanding of the requirements for a Platform Engineer/DevOps/SRE role.
 
-I've been remote working for over 5 years, taking responsibility of my own time management and ability to work with teams based anywhere in the world. As part of my role at Convivio I regularly ran stand-ups, meetings, restropectives and workshops.
+I've been remote working for over 6 years, taking responsibility of my own time management and ability to work with teams based anywhere in the world. At Hippo Digital I build infrastructure, develop software and maintain pipelines and standards for multiple teams. While at Convivio I regularly ran stand-ups, meetings, restrospectives and workshops.
 
-Outside of work I maintain my own ProxMox server in my garage where it runs Kubernetes/Docker and home automation software. When not working I love to build Lego, design and build custom keyboards, cook and play with my cat.
+Outside of work I maintain my own ProxMox server in my garage where it runs Kubernetes/Docker and home automation software. When not working I love to build Lego, design and build custom keyboards, cook and play with my cats.
 
 ### Employment History
 
@@ -20,20 +20,24 @@ Outside of work I maintain my own ProxMox server in my garage where it runs Kube
 
 **Government Property Association** - Built and maintain a multi environment AWS setup for a transactional data processing platform.
 
-* Cloudformation and subsequent refactor to Terraform
+* Cloudformation and subsequent refactor to Terraform/Terragrunt
 * CodePipeline and Codebuild
 * RDS
 * Lambda (Python using Chalice)
 * Ansible
+* Github Actions
 
-**Unavailable** - PaaS for highly available multilingual static sites with a focus on security.
+**Large Company** - PaaS for highly available multilingual static sites with a focus on security.
 
 * Terraform/Terragrunt for a repeatable multi environment platform
-* CodePipeline and Codebuild
+* CodePipeline, Codebuild and CodeDeploy
 * API Gateway
 * Cognito
 * Cloudfront
 * ECR
+* ELB/ALB
+* VPC/EC2
+* S3
 
 #### DevOps Engineer (previously Senior Developer) - Convivio - June 2016 to February 2021
 
@@ -54,7 +58,7 @@ Outside of work I maintain my own ProxMox server in my garage where it runs Kube
 * Ansible
 * Concourse
 
-**Cyber Essentials Plus** - I have run the company through the CE and CE+ audits to ensure that we're compliant with their standards. As part of this I've also started our investigation into ISO 27001. I chose to run this as a Kanban project to make sure it was visible to everyone what they had to provide and where we were going through the process. It worked really well and there was a very quick turn around.
+**Cyber Essentials Plus** - I have run the company through the CE and CE+ audits to ensure that we're compliant with their standards. As part of this I've also started our investigation into ISO 27001. I chose to run Cyber Essentials project as a Kanban to make sure it was visible to everyone what they had to provide and where we were going through the process. It worked really well and there was a very quick turn around.
 
 **MOJ Judicial Appointments Commission** - Responsible for development and support of the JAC application system.
 
@@ -80,7 +84,7 @@ Outside of work I maintain my own ProxMox server in my garage where it runs Kube
 
 I like to give back to open source communities whether that be in code contributions or speaking at conferences. I'm a confident public speaker and proud to have keynoted at DrupalCon Barcelona and spoken at PHPNW Conference, two of my bucket list items.
 
-In the past I have run Drupal user groups and hack days focused on committing code back to the Drupal project.
+In the past I co-ran a Drupal usergroup in manchester for many years and regularly ran hackdays for the community.
 
 I part administer a mental health support group on Slack for people within the tech community, I've also contributed to Geek Mental Health week including maintaining the website and running events.
 
@@ -104,4 +108,4 @@ I part administer a mental health support group on Slack for people within the t
 
 References available upon request.
 
-Last updated 30/11/2021
+Last updated 30/12/2021
