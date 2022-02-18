@@ -12,7 +12,7 @@ Platform Engineer that focuses on improving efficiency for others while simplify
 
 I've been remote working for over 6 years, taking responsibility of my own time management and ability to work with teams based anywhere in the world. At Hippo Digital I build infrastructure, develop software and maintain pipelines and standards for multiple teams. While at Convivio I regularly ran stand-ups, meetings, restrospectives and workshops.
 
-Outside of work I maintain my own ProxMox server in my garage where it runs Kubernetes/Docker and home automation software. When not working I love to build Lego, design and build custom keyboards, cook and play with my cats.
+Outside of work I maintain my own ProxMox server in my garage where it runs multiple VMs with Docker and home automation software. When not working I love to build Lego, design and build custom keyboards, cook and play with my cats.
 
 ### Employment History
 
@@ -21,11 +21,12 @@ Outside of work I maintain my own ProxMox server in my garage where it runs Kube
 **Government Property Association** - Built and maintain a multi environment AWS setup for a transactional data processing platform.
 
 * Cloudformation and subsequent refactor to Terraform/Terragrunt
-* CodePipeline and Codebuild
+* CodePipeline, Codebuild and Github Actions
 * RDS
 * Lambda (Python using Chalice)
 * Ansible
 * Github Actions
+* Cognito
 
 **Large Company** - PaaS for highly available multilingual static sites with a focus on security.
 
