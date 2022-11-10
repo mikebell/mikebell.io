@@ -25,10 +25,9 @@ Outside of work I maintain my own ProxMox server in my garage where it runs mult
 * RDS
 * Lambda (Python using Chalice)
 * Ansible
-* Github Actions
 * Cognito
 
-**Large Company** - PaaS for highly available multilingual static sites with a focus on security.
+**Sega, Creative Assembly** - PaaS for highly available multilingual static sites with a focus on security. Consultancy around other properties in the Sega portfolio.
 
 * Terraform/Terragrunt for a repeatable multi environment platform
 * CodePipeline, Codebuild and CodeDeploy
