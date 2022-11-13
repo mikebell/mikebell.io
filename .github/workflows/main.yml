@@ -34,7 +34,7 @@ jobs:
 
       - name: S3 sync to bucket
         run: |
-          aws s3 sync public s3://mikebell.io --acl public-read --followe-symlinks -- delete
+          aws s3 sync public s3://mikebell.io --acl public-read --follow-symlinks --delete
 
       # - uses: jakejarvis/s3-sync-action@master
       #   with:
