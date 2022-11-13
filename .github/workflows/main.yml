@@ -33,7 +33,7 @@ jobs:
           role-to-assume: ${{ secrets.DEPLOY_ROLE }}
 
       - run: aws s3 sync public s3://mikebell.io --acl public-read --follow-symlinks --delete
-        with: bash
+        shell: bash
 
       # - uses: jakejarvis/s3-sync-action@master
       #   with:
