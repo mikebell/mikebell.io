@@ -32,6 +32,10 @@ jobs:
           aws-region: eu-west-2
           role-to-assume: ${{ secrets.DEPLOY_ROLE }}
 
+      - name: S3 sync to bucket
+        run: |
+          aws s3 sync public s3://mikebell.io --acl public-read --followe-symlinks -- delete
+
       # - uses: jakejarvis/s3-sync-action@master
       #   with:
       #     args: --acl public-read --follow-symlinks --delete
