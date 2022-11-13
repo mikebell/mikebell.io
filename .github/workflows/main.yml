@@ -28,7 +28,6 @@ jobs:
         with:
           aws-region: eu-west-2
           role-to-assume: ${{ secrets.DEPLOY_ROLE }}
-          role-session-name: OIDCSession
 
       # - uses: jakejarvis/s3-sync-action@master
       #   with:
