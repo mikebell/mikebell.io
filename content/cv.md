@@ -18,7 +18,7 @@ Outside of work I maintain my own ProxMox server in my garage where it runs mult
 
 #### Platform Engineer - Hippo Digital - February 2021 to present
 
-**Government Property Association** - Built and maintain a multi environment AWS setup for a transactional data processing platform.
+**Government Property Agency** - Built and maintain a multi environment AWS setup for a transactional data processing platform.
 
 * Cloudformation and subsequent refactor to Terraform/Terragrunt
 * CodePipeline, Codebuild and Github Actions
