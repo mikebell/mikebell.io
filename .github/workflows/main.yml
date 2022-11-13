@@ -30,7 +30,7 @@ jobs:
         uses: aws-actions/configure-aws-credentials@v1-node16
         with:
           aws-region: eu-west-2
-          role-to-assume: ${{ secrets.DEPLOY_ROLE }}
+          role-to-assume: arn:aws:iam::261964097300:role/github-mikebellio-deploy
 
       - run: aws s3 sync public s3://mikebell.io --acl public-read --follow-symlinks --delete
         shell: bash
