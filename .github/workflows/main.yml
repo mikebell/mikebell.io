@@ -35,7 +35,7 @@ jobs:
       - run: aws s3 sync public s3://mikebell.io --acl public-read --follow-symlinks --delete
         shell: bash
 
-      - run: aws cloudfront create-invalidation --distribution-id ${{ secrets.CLOUDFRONTID }} --paths "**"
+      - run: aws cloudfront create-invalidation --distribution-id ${{ secrets.CLOUDFRONTID }} --paths "/*"
 
       # - uses: jakejarvis/s3-sync-action@master
       #   with:
