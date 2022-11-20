@@ -6,7 +6,7 @@ template: "page"
 # Mike Bell
 ## Platform Engineer - Remote & Manchester UK
 
-### About me
+### About meh
 
 Platform Engineer that focuses on improving efficiency for others while simplifying processes and developing new ones. Before moving into this role I spent 10 years building and supporting Drupal (PHP) applications, my experience in developing these has given me a greater understanding of the requirements for a Platform Engineer/DevOps/SRE role.
 
@@ -18,7 +18,7 @@ Outside of work I maintain my own ProxMox server in my garage where it runs mult
 
 #### Platform Engineer - Hippo Digital - February 2021 to present
 
-**Government Property Agency** - Built and maintain a multi environment AWS setup for a transactional data processing platform.
+**Government Property Agency** - Built and maintain a multi environment AWS setup for a data warehouse and acompanying ingestion ands APIs.
 
 * Cloudformation and subsequent refactor to Terraform/Terragrunt
 * CodePipeline, Codebuild and Github Actions
