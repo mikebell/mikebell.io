@@ -6,7 +6,7 @@ template: "page"
 # Mike Bell
 ## Platform Engineer - Remote & Manchester UK
 
-### About meh
+### About me
 
 Platform Engineer that focuses on improving efficiency for others while simplifying processes and developing new ones. Before moving into this role I spent 10 years building and supporting Drupal (PHP) applications, my experience in developing these has given me a greater understanding of the requirements for a Platform Engineer/DevOps/SRE role.
 
