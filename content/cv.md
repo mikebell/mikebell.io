@@ -16,7 +16,7 @@ Outside of work I maintain my own ProxMox server in my garage where it runs mult
 
 ### Employment History
 
-#### Platform Engineer - Hippo Digital - February 2021 to present
+#### Senior Consultant - Platform Engineer - Hippo Digital - February 2021 to present
 
 **Government Property Agency** - Built and maintain a multi environment AWS setup for a data warehouse and acompanying ingestion ands APIs.
 
