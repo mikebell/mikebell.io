@@ -82,6 +82,8 @@ params:
     Content:
 
   socialIcons:
+    - name: mastodon
+      url: 'https://mastodon.online/@mikebell'
     - name: twitter
       url: 'https://twitter.com/mikebell_'
     # - name: stackoverflow
