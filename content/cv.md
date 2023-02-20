@@ -4,21 +4,21 @@ template: "page"
 ---
 
 # Mike Bell
-## Platform Engineer - Remote & Manchester UK
+## Platform Engineer and Senior Consultant - Remote & Manchester UK
 
 ### About me
 
-Platform Engineer that focuses on improving efficiency for others while simplifying processes and developing new ones. Before moving into this role I spent 10 years building and supporting Drupal (PHP) applications, my experience in developing these has given me a greater understanding of the requirements for a Platform Engineer/DevOps/SRE role.
+Platform Engineer and Senior Consultant focused on the AWS stack, management, building and maintaining of infrastructure and projects.
 
-I've been remote working for over 6 years, taking responsibility of my own time management and ability to work with teams based anywhere in the world. At Hippo Digital I build infrastructure, develop software and maintain pipelines and standards for multiple teams. While at Convivio I regularly ran stand-ups, meetings, restrospectives and workshops.
+I’ve been remote working for over 7 years, taking responsibility of my own time management and ability to work with teams based anywhere in the world. At Hippo Digital I build and manage enterprise level infrastructure, develop software and maintain pipelines and standards for multiple teams.
 
-Outside of work I maintain my own ProxMox server in my garage where it runs multiple VMs with Docker and home automation software. When not working I love to build Lego, design and build custom keyboards, cook and play with my cats.
+Outside of work I maintain my own on-prem and cloud infrastructure where I run multiple VMs and containers focusing on home automation software. When not working I love to build Lego, design and build custom keyboards, cook and play with my cats.
 
 ### Employment History
 
 #### Senior Consultant - Platform Engineer - Hippo Digital - February 2021 to present
 
-**Government Property Agency** - Built and maintain a multi environment AWS setup for a data warehouse and acompanying ingestion ands APIs.
+**Government Property Agency** - Built and maintain a multi environment AWS setup for a data warehouse and accompanying ingestion and APIs. Currently managing 12 AWS accounts for two different projects (ETL and Data Warehouse).
 
 * Cloudformation and subsequent refactor to Terraform/Terragrunt
 * CodePipeline, Codebuild and Github Actions
@@ -41,7 +41,7 @@ Outside of work I maintain my own ProxMox server in my garage where it runs mult
 
 #### DevOps Engineer (previously Senior Developer) - Convivio - June 2016 to February 2021
 
-**Cabinet Office National Leadership Centre** - I helped to build and maintain an AWS EKS cluster for their now defunct leadership network Connect. The first objective of the project was to compare existing architectures available through the Government such as GOV.UK PaaS and GSP (GDS Supported Platform), while both have their benefits we were unable to use them for our needs so proceeded to build our own. Following building our own we made sure to open source [our](https://github.com/cabinetoffice/national-leadership-centre-terragrunt) [work](https://github.com/cabinetoffice/national-leadership-centre-terraform) to create a repeatable UK government friendly Kubernetes cluster.
+**Cabinet Office National Leadership Centre** - I helped to build and maintain an AWS EKS cluster for their now defunct Leadership Network Connect. The first objective of the project was to compare existing architectures available through the Government such as GOV.UK PaaS and GSP (GDS Supported Platform), while both have their benefits we were unable to use them for our needs so proceeded to build our own. Following building our own we made sure to open source [our](https://github.com/cabinetoffice/national-leadership-centre-terragrunt) [work](https://github.com/cabinetoffice/national-leadership-centre-terraform) to create a repeatable UK government friendly Kubernetes cluster.
 
 * Terraform
 * AWS
@@ -84,7 +84,7 @@ Outside of work I maintain my own ProxMox server in my garage where it runs mult
 
 I like to give back to open source communities whether that be in code contributions or speaking at conferences. I'm a confident public speaker and proud to have keynoted at DrupalCon Barcelona and spoken at PHPNW Conference, two of my bucket list items.
 
-In the past I co-ran a Drupal usergroup in manchester for many years and regularly ran hackdays for the community.
+In the past I co-ran a Drupal user group in Manchester for many years and regularly ran hackdays for the community.
 
 I part administer a mental health support group on Slack for people within the tech community, I've also contributed to Geek Mental Health week including maintaining the website and running events.
 
