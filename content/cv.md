@@ -10,13 +10,21 @@ template: "page"
 
 Platform Engineer and Senior Consultant focused on the AWS stack, management, building and maintaining of infrastructure and projects.
 
-I’ve been remote working for over 7 years, taking responsibility of my own time management and ability to work with teams based anywhere in the world. At Hippo Digital I build and manage enterprise level infrastructure, develop software and maintain pipelines and standards for multiple teams.
+I’ve been remote working for over 7 years, taking responsibility of my own time management and ability to work with teams based anywhere in the world. At Spareroom I build and manage enterprise level infrastructure, support critical applications and maintain testing infrastructure.
 
 Outside of work I maintain my own on-prem and cloud infrastructure where I run multiple VMs and containers focusing on home automation software. When not working I love to build Lego, design and build custom keyboards, cook and play with my cats.
 
 ### Employment History
 
-#### Senior Consultant - Platform Engineer - Hippo Digital - February 2021 to present
+#### Platform Engineer - SpareRoom
+
+Responsible for managing and maintaining GCP infrastructure.
+
+* Terraform
+* Jenkins and Github Actions
+* GCP
+
+#### Senior Consultant - Platform Engineer - Hippo Digital - February 2021 to February 2023
 
 **Government Property Agency** - Built and maintain a multi environment AWS setup for a data warehouse and accompanying ingestion and APIs. Currently managing 12 AWS accounts for two different projects (ETL and Data Warehouse).
 
