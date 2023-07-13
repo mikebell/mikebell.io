@@ -83,7 +83,7 @@ params:
 
   socialIcons:
     - name: mastodon
-      url: 'https://mastodon.online/@mikebell'
+      url: 'https://remotelab.uk/@mikebell'
     - name: twitter
       url: 'https://twitter.com/mikebell_'
     # - name: stackoverflow
