@@ -24,9 +24,9 @@ languages:
         - name: About
           url: /about/
           weight: 1
-        - name: Thoughts
-          url: /categories/thoughts/
-          weight: 2
+        # - name: Thoughts
+        #   url: /categories/thoughts/
+        #   weight: 2
         - name: CV
           url: /cv/
           weight: 3
