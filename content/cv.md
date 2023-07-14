@@ -4,13 +4,13 @@ template: "page"
 ---
 
 # Mike Bell
-## Platform Engineer and Senior Consultant - Remote & Manchester UK
+## Platform and Cloud Engineer - Remote & Manchester UK
 
 ### About me
 
-Platform Engineer and Senior Consultant focused on the AWS stack, management, building and maintaining of infrastructure and projects.
+Platform and Cloud Engineer focused on AWS and GCP, management, building and maintaining of infrastructure and projects.
 
-I’ve been remote working for over 7 years, taking responsibility of my own time management and ability to work with teams based anywhere in the world. At Spareroom I build and manage enterprise level infrastructure, support critical applications and maintain testing infrastructure.
+I’ve been remote working for over 8 years, taking responsibility of my own time management and ability to work with teams based anywhere in the world. At Spareroom I build and manage enterprise level infrastructure, support critical applications and maintain testing applications.
 
 Outside of work I maintain my own on-prem and cloud infrastructure where I run multiple VMs and containers focusing on home automation software. When not working I love to build Lego, design and build custom keyboards, cook and play with my cats.
 
@@ -31,7 +31,7 @@ Responsible for managing and maintaining GCP infrastructure.
 * Cloudformation and subsequent refactor to Terraform/Terragrunt
 * CodePipeline, Codebuild and Github Actions
 * RDS
-* Lambda (Python using Chalice)
+* Lambda Functions (Python using Chalice)
 * Ansible
 * Cognito
 
@@ -39,13 +39,7 @@ Responsible for managing and maintaining GCP infrastructure.
 
 * Terraform/Terragrunt for a repeatable multi environment platform
 * CodePipeline, Codebuild and CodeDeploy
-* API Gateway
-* Cognito
-* Cloudfront
-* ECR
-* ELB/ALB
-* VPC/EC2
-* S3
+* API Gateway, Cognito, Cloudfront, ECR, ELB/ALB, VPC/EC2, S3
 
 #### DevOps Engineer (previously Senior Developer) - Convivio - June 2016 to February 2021
 
