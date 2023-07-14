@@ -109,5 +109,3 @@ I part administer a mental health support group on Slack for people within the t
 * Geography (C), German (D)
 
 References available upon request.
-
-Last updated 30/12/2021
