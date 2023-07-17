@@ -18,8 +18,7 @@ jobs:
 
       - uses: docker://pandoc/extra:3.1.1.0
         with:
-          args: --output=content/cv.pdf content/cv.md -V block-headings --template eisvogel --listings
-          
+          args: content/cv.md --output=content/cv.pdf --template eisvogel --listings -V block-headings
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v1-node16
         with:
