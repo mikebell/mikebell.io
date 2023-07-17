@@ -1,4 +1,7 @@
 name: CV to PDF
+permissions:
+  id-token: write
+  contents: read
 
 on: 
   push:
