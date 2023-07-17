@@ -1,0 +1,26 @@
+name: CV to PDF
+
+on: 
+  push:
+    paths:
+      - content/cv.md
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: docker://pandoc/latex:2.9
+        with:
+          args: --output=content/cv.pdf content/cv.md -V block-headings
+          
+      - name: Configure AWS Credentials
+        uses: aws-actions/configure-aws-credentials@v1-node16
+        with:
+          aws-region: eu-west-2
+          role-to-assume: arn:aws:iam::261964097300:role/github-mikebellio-deploy
+
+      - run: aws s3 sync content/cv.pdf s3://mikebell.io/cv/cv.pdf --acl public-read --follow-symlinks --delete
+        shell: bash
