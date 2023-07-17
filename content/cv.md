@@ -1,7 +1,6 @@
 ---
 title: "CV"
 template: "page"
-fontfamily: Arial
 ---
 
 # Mike Bell
