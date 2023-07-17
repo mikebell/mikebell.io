@@ -1,12 +1,11 @@
 ---
 title: "CV"
 template: "page"
+fontfamily: Arial
 ---
 
 # Mike Bell
 ## Platform and Cloud Engineer - Remote & Manchester UK
-
-### About me
 
 Platform and Cloud Engineer focused on AWS and GCP, management, building and maintaining of infrastructure and projects.
 
@@ -16,7 +15,7 @@ Outside of work I maintain my own on-prem and cloud infrastructure where I run m
 
 ### Employment History
 
-#### Platform Engineer - SpareRoom
+#### Platform Engineer - SpareRoom - May 2023 to present
 
 Responsible for managing and maintaining GCP infrastructure.
 
@@ -84,11 +83,11 @@ Responsible for managing and maintaining GCP infrastructure.
 
 ### Commitment to Open Source and Community
 
-I like to give back to open source communities whether that be in code contributions or speaking at conferences. I'm a confident public speaker and proud to have keynoted at DrupalCon Barcelona and spoken at PHPNW Conference, two of my bucket list items.
+I like to give back to open source communities whether that be in code contributions or speaking at conferences. I'm a confident public speaker and proud to have keynoted at DrupalCon Barcelona and spoken at PHPNW Conference.
 
 In the past I co-ran a Drupal user group in Manchester for many years and regularly ran hackdays for the community.
 
-I part administer a mental health support group on Slack for people within the tech community, I've also contributed to Geek Mental Health week including maintaining the website and running events.
+I part administered a mental health support group on Slack for people within the tech community, I've also contributed to Geek Mental Health week including maintaining the website and running events.
 
 ### Education
 
