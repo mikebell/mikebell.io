@@ -20,7 +20,7 @@ jobs:
         with:
           args: content/cv.md --output=content/cv.pdf --template eisvogel --listings -V block-headings
       - name: Configure AWS Credentials
-        uses: aws-actions/configure-aws-credentials@v1-node16
+        uses: aws-actions/configure-aws-credentials@v2
         with:
           aws-region: eu-west-2
           role-to-assume: arn:aws:iam::261964097300:role/github-mikebellio-deploy
