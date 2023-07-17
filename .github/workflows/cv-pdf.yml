@@ -7,6 +7,7 @@ on:
   push:
     paths:
       - content/cv.md
+  workflow_dispatch:
 
 jobs:
   convert:
