@@ -16,9 +16,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: docker://pandoc/latex:2.9
+      - uses: docker://pandoc/extra
         with:
-          args: --output=content/cv.pdf content/cv.md -V block-headings
+          args: --output=content/cv.pdf content/cv.md -V block-headings --template eisvogel --listings
           
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v1-node16
