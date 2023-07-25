@@ -19,11 +19,12 @@ jobs:
       - uses: docker://pandoc/extra:3.1.1.0
         with:
           args: content/cv.md --output=content/cv.pdf --template /.pandoc/templates/eisvogel.latex --listings -V block-headings
+      
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v2
         with:
           aws-region: eu-west-2
           role-to-assume: arn:aws:iam::261964097300:role/github-mikebellio-deploy
 
-      - run: aws s3 mv content/cv.pdf s3://mikebell.io/cv/
+      - run: aws s3 mv content/cv.pdf s3://mikebell.io/static/
         shell: bash
