@@ -26,5 +26,5 @@ jobs:
           aws-region: eu-west-2
           role-to-assume: arn:aws:iam::261964097300:role/github-mikebellio-deploy
 
-      - run: aws s3 mv content/cv.pdf s3://mikebell.io/static/
+      - run: aws s3 mv content/cv.pdf s3://mikebell.io/
         shell: bash
