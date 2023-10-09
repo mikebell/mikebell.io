@@ -14,7 +14,7 @@ Outside of work I maintain my own on-prem and cloud infrastructure where I run m
 
 ### Employment History
 
-#### Platform Engineer - SpareRoom - May 2023 to present
+#### Platform Engineer - SpareRoom - May 2023 to September 2023
 
 Responsible for managing and maintaining GCP infrastructure.
 
