@@ -27,6 +27,9 @@ languages:
         # - name: Thoughts
         #   url: /categories/thoughts/
         #   weight: 2
+        - name: Search
+          url: /search/
+          weight: 2
         - name: CV
           url: /cv/
           weight: 3
@@ -88,3 +91,9 @@ params:
       url: 'https://github.com/mikebell'
     - name: email
       url: 'hello@mikebell.io'
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
