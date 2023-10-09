@@ -7,6 +7,8 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -22,6 +24,11 @@ jobs:
         with:
           hugo-version: 'latest'
           # extended: true
+      
+      - name: Create CV
+        uses: docker://pandoc/extra:3.1.1.0
+        with:
+          args: content/cv.md --output=static/cv.pdf --template /.pandoc/templates/eisvogel.latex --listings -V block-headings
 
       - name: Build
         run: hugo --minify
@@ -32,7 +39,9 @@ jobs:
           aws-region: eu-west-2
           role-to-assume: arn:aws:iam::261964097300:role/github-mikebellio-deploy
 
-      - run: aws s3 sync public s3://mikebell.io --acl public-read --follow-symlinks --delete
+      - name: S3 Sync
+        run: aws s3 sync public s3://mikebell.io --acl public-read --follow-symlinks --delete
         shell: bash
 
-      - run: aws cloudfront create-invalidation --distribution-id ${{ secrets.CLOUDFRONTID }} --paths "/*"
+      - name: Invalidate cloudfront
+        run: aws cloudfront create-invalidation --distribution-id ${{ secrets.CLOUDFRONTID }} --paths "/*"
