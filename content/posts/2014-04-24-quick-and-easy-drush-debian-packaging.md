@@ -19,13 +19,13 @@ You’ll need the following:
 
 You can then run the following commands to setup your base environment for packaging:
 
-`git clone git@github.com:drush-ops/drush.git`
+```shell
+git clone git@github.com:drush-ops/drush.git
+cd drush
+composer install
+sudo gem install fpm
+```
 
-`cd drush`
-
-`composer install`
-
-`sudo gem install fpm`
 
 To test to make sure your latest master copy of drush is working quickly run either `drush` or `drush —version`
 

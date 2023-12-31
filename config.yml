@@ -36,9 +36,9 @@ languages:
         - name: Archives
           url: /archives/
           weight: 5
-        - name: Tags
-          url: /tags/
-          weight: 10
+        # - name: Tags
+        #   url: /tags/
+        #   weight: 10
         - name: Contact
           url: /contact/
           weight: 11
@@ -97,3 +97,19 @@ outputs:
         - HTML
         - RSS
         - JSON # is necessary
+
+markup:
+  highlight:
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: false
+    hl_Lines: ""
+    hl_inline: false
+    lineAnchors: ""
+    lineNoStart: 1
+    lineNos: true
+    lineNumbersInTable: true
+    noClasses: true
+    noHl: false
+    style: nord
+    tabWidth: 2
