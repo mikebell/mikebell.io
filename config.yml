@@ -91,6 +91,8 @@ params:
       url: 'https://github.com/mikebell'
     - name: email
       url: 'hello@mikebell.io'
+    - name: rss
+      url: 'https://mikebell.io/index.xml'
 
 outputs:
     home:
