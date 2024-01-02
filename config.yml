@@ -54,6 +54,7 @@ params:
 
   ShowReadingTime: true
   ShowShareButtons: false
+  ShowFullTextinRSS: true
   comments: false
   defaultTheme: auto
   disableThemeToggle : false
@@ -115,3 +116,7 @@ markup:
     noHl: false
     style: nord
     tabWidth: 2
+
+services:
+  rss:
+    limit: 10
