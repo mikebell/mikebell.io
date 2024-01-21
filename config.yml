@@ -33,6 +33,9 @@ languages:
         - name: CV
           url: /cv/
           weight: 3
+        - name: Blog Roll
+          url: /blog/roll/
+          weight: 4
         - name: Archives
           url: /archives/
           weight: 5
