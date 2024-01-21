@@ -13,5 +13,5 @@ Borrowed/Stolen idea from [Robb Knight](https://rknight.me/blog/roll/).
 
 ## News
 
-* [Hacker News: Front Page](https://news.ycombinator.com/) - [RSS]
-* [The long read | The Guardian](https://hnrss.org/frontpage) - [RSS]
+* [Hacker News: Front Page](https://news.ycombinator.com/) - [RSS](https://hnrss.org/frontpage)
+* [The long read | The Guardian](https://www.theguardian.com/news/series/the-long-read) - [RSS](https://www.theguardian.com/news/series/the-long-read/rss)
