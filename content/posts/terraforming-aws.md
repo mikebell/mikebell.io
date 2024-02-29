@@ -8,7 +8,6 @@ keywords:
 tags:
     - terraform
     - aws
-preview: /pawel-czerwinski-rc9ZkXFNscI-unsplash.jpg
 cover:
     image: /pawel-czerwinski-rc9ZkXFNscI-unsplash.jpg
     alt: Abstract picture of waves
