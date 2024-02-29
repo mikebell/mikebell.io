@@ -1,7 +1,14 @@
 ---
-title: "Terraforming AWS"
+title: Terraforming AWS
 date: 2024-01-16T20:00:00Z
 draft: false
+keywords:
+    - terraform
+    - aws
+tags:
+    - terraform
+    - aws
+preview: /pawel-czerwinski-rc9ZkXFNscI-unsplash.jpg
 ---
 
 TLDR; template code can be found [here](https://github.com/mikebell-dev/tf-template).
@@ -26,7 +33,7 @@ I have a few rules that my TF repos need to follow:
 
 ## Base Terraform
 
-This contains all the base terraform code that doesn't belong in an application, things like s3/dyanmodb for terraform (applications use this) and IAM roles for Github OIDC.
+This contains all the base terraform code that doesn't belong in an application, things like s3/dynamodb for terraform (applications use this) and IAM roles for Github OIDC.
 
 ```
 -> % tree -a
