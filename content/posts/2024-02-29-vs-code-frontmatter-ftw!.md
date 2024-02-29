@@ -1,8 +1,8 @@
 ---
 title: VS Code Frontmatter FTW!
 description: ""
-date: 2024-02-29T13:18:02.389Z
-draft: true
+date: 2024-02-29T13:35:42.026Z
+draft: false
 tags: []
 categories: []
 cover:
