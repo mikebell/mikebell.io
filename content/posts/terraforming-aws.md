@@ -9,6 +9,9 @@ tags:
     - terraform
     - aws
 preview: /pawel-czerwinski-rc9ZkXFNscI-unsplash.jpg
+cover:
+    image: /pawel-czerwinski-rc9ZkXFNscI-unsplash.jpg
+    alt: Abstract picture of waves
 ---
 
 TLDR; template code can be found [here](https://github.com/mikebell-dev/tf-template).
