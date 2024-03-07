@@ -17,4 +17,4 @@ Borrowed/Stolen idea from [Robb Knight](https://rknight.me/blog/roll/).
 
 * [Hacker News: Front Page](https://news.ycombinator.com/) - [RSS](https://hnrss.org/frontpage)
 * [The long read | The Guardian](https://www.theguardian.com/news/series/the-long-read) - [RSS](https://www.theguardian.com/news/series/the-long-read/rss)
-* [GamingOnLinux Latest Articles](GamingOnLinux Latest Articles) - [RSS](https://www.gamingonlinux.com/article_rss.php)
+* [GamingOnLinux Latest Articles](https://www.gamingonlinux.com/) - [RSS](https://www.gamingonlinux.com/article_rss.php)
