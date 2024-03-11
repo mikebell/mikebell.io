@@ -23,11 +23,11 @@ Parsing all that data is the next job, I ended up using [Your Spotify](https://g
 
 ## Where does the music come from?
 
-This is where Your Spotify comes in really handy I can search around my data and find albums that I want to buy first. Most of my music is purchased from [Bandcamp](https://bandcamp.com/), it turns out that supporting artists properly (ish) is quite a lot more than £14.99 a month. It's a slow process as I'm not quite ready to drop thousands on all the music from my Spotify account but I'm getting there. I reckon it'll probably take me around 5-10 years at the rate I'm going to fully rebuild my collection. I'm ok with this.
+This is where Your Spotify comes in really handy I can search around my data and find albums that I want to buy first. Most of my music is purchased from [Bandcamp](https://bandcamp.com/), it turns out that supporting artists properly (ish) is quite a lot more than £17.99 a month. It's a slow process as I'm not quite ready to drop thousands on all the music from my Spotify account but I'm getting there. I reckon it'll probably take me around 5-10 years at the rate I'm going to fully rebuild my collection. I'm ok with this.
 
 ## Where do I store it?
 
-I've lost my music collection once before many many years ago and it's heartbreaking so this time everything is a bit more secure. I have a 20tb NAS which has redundencies in case of failure, I'm also planning some form of cloud backup in the future.
+I've lost my music collection once before many many years ago and it's heartbreaking so this time everything is a bit more secure. I have a 20tb NAS which has redundancies in case of failure, I'm also planning some form of cloud backup in the future.
 
 ## How do I sort it?
 
