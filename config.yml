@@ -119,6 +119,9 @@ markup:
     noHl: false
     style: nord
     tabWidth: 2
+  goldmark:
+    renderer: 
+      unsafe: true
 
 services:
   rss:

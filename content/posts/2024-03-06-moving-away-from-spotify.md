@@ -56,3 +56,9 @@ I need to play around with Opus Audio to get an idea of what it's capable but th
 ## Conclusion
 
 I'm really happy with this setup, I'm not tied to any one application and any component can be swapped out at any time giving me the freedom to try different things.
+
+---
+
+## Discuss at
+
+<iframe src="https://remotelab.uk/@mikebell/112087551082246586/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://remotelab.uk/embed.js" async="async"></script>
