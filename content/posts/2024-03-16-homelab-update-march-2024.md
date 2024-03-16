@@ -9,6 +9,7 @@ cover:
   image: ""
   alt: ""
 slug: homelab-update-march-2024
+type: posts
 ---
 
 This is a replacement for my [Kubernetes Homelab Pt0](posts/kubernetes-homelab-journey-pt0/). I figured that it was best to write about my homelab in general since I'm not running k8s at the moment.
@@ -52,3 +53,9 @@ I'm in the process of upgrading drives in my 4 bay Synology NAS, I currently hav
 
 
 That's about it for now. Lot's done and even more still to do.
+
+---
+
+## Discuss at
+
+<iframe src="https://remotelab.uk/@mikebell/112104916102946175/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://remotelab.uk/embed.js" async="async"></script>
