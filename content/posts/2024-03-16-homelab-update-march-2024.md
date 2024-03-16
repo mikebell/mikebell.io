@@ -8,7 +8,6 @@ categories: []
 cover:
   image: ""
   alt: ""
-type: default
 slug: homelab-update-march-2024
 ---
 
