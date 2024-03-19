@@ -23,7 +23,7 @@ I temporarily have 2 servers, ones provisioned and ready for installation at my 
 * 16GB ram
 * 512gb hd
 
-It came to around £123 after shipping from AliExpress. After confirming everything was working I formatted it and installed Proxmox. It now mirrors pretty much how I have my main server setup so it should be easy remote manage in case there are any problems.
+It came to around £123 after shipping from AliExpress. After confirming everything was working I formatted it and installed Proxmox. It now mirrors pretty much how I have my main server setup so it should be easy remote to manage in case there are any problems.
 
 I did spend a while looking at SBCs but there's just no point in using them any more, there too expensive for the performance. It's a real shame as I used to really like playing around with Raspberry Pis.
 
