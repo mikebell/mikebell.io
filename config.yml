@@ -49,7 +49,7 @@ languages:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Mike Bell - Blog & Stuff
-  description: 'ExampleSites description'
+  description: 'My ramblings on engineering, homelabs and me/cfs.'
   author: Mike Bell
   # author: ["Me", "You"] # multiple authors
 
@@ -120,7 +120,7 @@ markup:
     style: nord
     tabWidth: 2
   goldmark:
-    renderer: 
+    renderer:
       unsafe: true
 
 services:
