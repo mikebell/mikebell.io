@@ -9,6 +9,7 @@ cover:
   image: ""
   alt: ""
 type: posts
+slug: worst-24-hours
 ---
 Back in 2023 I had the worst 24 hours for a long time. It feels weird writing about this since when I look back it's just so completely insane that everything happened like it did. I'm trying to be as eloquent as possible but it's hard for reasons you'll read.
 
@@ -20,7 +21,7 @@ When I went to bed I couldn't sleep, my brain wouldn't shut down I had this anxi
 
 I got a random phone call around 5am, it somehow managed to get through Androids "Do Not Disturb" mode, I didn't think much at the time as I was so tired, I just swiped it off and went back to sleep. When I eventually woke up I checked my phone and I had a voice mail. Fuck. I knew that number and I knew what it was about. As I went to listen to the voicemail I broke out into tears, I didn't need to know what the nice lady was going to say. Our cat Snowy was dead. I listened to the message and broke the news to my partner. We both sat together and cried mourning the loss. We don't really know what happened other than he was taken to the emergency vets where he passed away.
 
-My partner went off to work (I wish she hadn't) and I decided that wouldn't be going to `$place` for the team retro, I didn't want to travel and no one wants to see a grown man cry over the death of his cat. My team were lovely and completely understood, I ended up spending the day on the video call they set up. Things should have ended there but they don't. I was applying to `$work` because of issues I was having at `$work`, a story for another time if I ever feel like it is I was being bullied by `$someone` and my position had become untenable. It was during that long video retro that `$person` decided to be extra special and go to town on me in front my colleagues. I messaged my PM and pointed them to the Slack thread and politely said I'm done for the day and signed off. I was angry, sad and disappointed. I hadn't quite decided that I was serious about moving jobs but that cemented it.
+My partner went off to work (I wish she hadn't) and I decided that wouldn't be going to `$place` for the team retro, I didn't want to travel and no one wants to see a grown man cry over the death of his cat. My team were lovely and completely understood, I ended up spending the day on the video call they set up. Things should have ended there but they didn't. I was applying to `$work` because of issues I was having at `$work`, a story for another time if I ever feel like it is I was being bullied by `$someone` and my position had become untenable. It was during that long video retro that `$person` decided to be extra special and go to town on me in front my colleagues. I messaged my PM and pointed them to the Slack thread and politely said I'm done for the day and signed off. I was angry, sad and disappointed. I hadn't quite decided that I was serious about moving jobs but that cemented it.
 
 I spent the rest of the day in a haze, it was horrible everything that could have gone wrong did and there was just no escaping how horrible the entire thing was. I was glad for the day to be over.
 
@@ -33,3 +34,7 @@ I quit `$work` not long after and moved to `$work` which itself was a mistake. A
 I'm finally happy at `$work` it's not perfect but nowhere ever is but I'm *enjoying* it which if you now me in real life is something I say very rarely.
 
 We still have Lilly who's Snowys half-sister and Shadow. Both cats are awesome and we love them even more.
+
+## Discuss at
+
+<iframe src="https://remotelab.uk/@mikebell/112382053715004999/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://remotelab.uk/embed.js" async="async"></script>
