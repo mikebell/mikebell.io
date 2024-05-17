@@ -19,7 +19,7 @@ Here's a very quick update on my homelab.
 * Deprecated Homer
 * Implemented [gethomepage.dev](https://gethomepage.dev)
 * Update all the containers
-* Implemented [FressRSS](https://freshrss.org/index.html)
+* Implemented [FreshRSS](https://freshrss.org/index.html)
 * Semi-deprecated Commafeed
 
 ## gethomepage.dev
