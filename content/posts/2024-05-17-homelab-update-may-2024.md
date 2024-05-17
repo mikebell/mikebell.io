@@ -26,7 +26,7 @@ Here's a very quick update on my homelab.
 
 Not sure where I picked this up from but it's been really cool so far. I really like the service discovery using docker labels and widgets that pull in additional information.
 
-## FreshRSS
+## FreshRSS
 
 I looked at FreshRSS before I went with commafeed but dismissed it for some reason. I've enjoyed using commafeed for a while but found it's mobile and tablet ui not amazing. With FreshRSS I can use a third party client with it although I've not found I've needed to yet. The baked in Nord colour scheme is really nice as well.
 
@@ -37,3 +37,9 @@ I'm looking into setting up Nextcloud and Immich. I want Nextcloud as a replacem
 ## Other News
 
 * [🚢.it.com](https://🚢.it.com)
+
+---
+
+## Discuss at
+
+<iframe src="https://remotelab.uk/@mikebell/112455353969671765/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://remotelab.uk/embed.js" async="async"></script>
