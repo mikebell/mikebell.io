@@ -2,14 +2,12 @@ baseURL: 'https://mikebell.io'
 title: Mike Bell - Blog & Stuff
 paginate: 5
 theme: PaperMod
-# theme: ananke
+languageCode: en-gb
 
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpored: false
-
-# googleAnalytics: UA-73379983-2
 
 minify:
   disableXML: true
@@ -24,9 +22,6 @@ languages:
         - name: About
           url: /about/
           weight: 1
-        # - name: Thoughts
-        #   url: /categories/thoughts/
-        #   weight: 2
         - name: Search
           url: /search/
           weight: 2
@@ -39,19 +34,14 @@ languages:
         - name: Archives
           url: /archives/
           weight: 5
-        # - name: Tags
-        #   url: /tags/
-        #   weight: 10
         - name: Contact
           url: /contact/
           weight: 11
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Mike Bell - Blog & Stuff
   description: 'My ramblings on engineering, homelabs and me/cfs.'
   author: Mike Bell
-  # author: ["Me", "You"] # multiple authors
 
   images: "/code.png"
 
