@@ -19,3 +19,4 @@ Borrowed/Stolen idea from [Robb Knight](https://rknight.me/blog/roll/).
 * [The long read | The Guardian](https://www.theguardian.com/news/series/the-long-read) - [RSS](https://www.theguardian.com/news/series/the-long-read/rss)
 * [GamingOnLinux Latest Articles](https://www.gamingonlinux.com/) - [RSS](https://www.gamingonlinux.com/article_rss.php)
 * [Web3 is Going Just Great](https://www.web3isgoinggreat.com/) - [RSS](https://www.web3isgoinggreat.com/feed.xml)
+* [We Distribute](https://wedistribute.org/) - [RSS](https://wedistribute.org/feed/)
