@@ -7,7 +7,7 @@ languageCode: en-gb
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
-buildExpored: false
+buildExpired: false
 
 minify:
   disableXML: true
@@ -43,7 +43,7 @@ params:
   description: 'My ramblings on engineering, homelabs and me/cfs.'
   author: Mike Bell
 
-  images: "/code.png"
+  # images: "/code.png"
 
   ShowReadingTime: true
   ShowShareButtons: false
