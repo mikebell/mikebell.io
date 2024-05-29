@@ -22,6 +22,9 @@ languages:
         - name: About
           url: /about/
           weight: 1
+        - name: Now
+          url: /now/
+          weight: 1
         - name: Search
           url: /search/
           weight: 2
