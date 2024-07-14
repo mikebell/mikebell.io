@@ -26,7 +26,9 @@ This has just recently passed it's 10 year birthday. I bought it around the time
 
 ## Stowa Flieger Classic 40
 
-This is the watch I really wanted when I got the Ikarus but I couldn't afford it. I finally pulled the trigger last year to celebrate finishing 2 shitty jobs and moving onto my latest role. Me and my partner have an inside joke that it's the watch that $work bought. I absolutely adore this watch you can wear it with anything and easily get lost in the dial. Even though it was bought around the time when things weren't great it'll always be something I'm proud and happy to wear.
+This is the watch I really wanted when I got the Ikarus but I couldn't afford it. I finally pulled the trigger last year to celebrate finishing 2 shitty jobs and moving onto my latest role. Me and my partner have an inside joke that it's the watch that $work bought. I absolutely adore this watch you can wear it with anything and easily get lost in the dial. Even though it was bought around the time when things weren't great it'll always be something I'm proud and happy to wear. The black dial is really something else, it just looks good in any whether. If it's been super sunny while wearing it outside the lume on the dial is super bright, it usually lasts about 2-3 hours. 
+
+My only criticism is the Stowa logo on it, I was unlucky enough to buy this just before they switched back to their old and arguably better logo. Still it's an awesome watch and is currently on my wrist while writing this.
 
 > We're a Stowa family, a few years after I bought the Ikarus my brother bought a Marine and not long after that my dad bought a limited edition Marine Blue Automatik as a birthday present for himself.
 
@@ -38,3 +40,10 @@ This is my first G-Shock and first solar watch. It's an amazing looking piece, i
 
 This is the "inverted" version of the 1ER. It's difficult to read without the backlight and I absolutely love it. Both the 1ER and 1BER often go on sale for 20/30% off on Amazon so if you keep an eye out then you can get a bargain.
 
+## Christopher Ward C60 Trident Pro 300
+
+Don't drink and buy watches folks! Not quite as bad as that but I'd had my eye on a diver for a while and showed my wife it when we were out and about and we both agreed it was a stunning watch. A few drinks later and I bought it. I don't wear this anywhere near as much as I should, it's one of the few watches I own that you have to coordinate your clothes with. The trident on the seconds hand is a really nice touch and goes to show how much such a little thing really can set a watch off.
+
+## Seiko SRPD79K1
+
+This is quite an interesting watch, those that follow the cheaper end of the watch market will instantly recognise that it's a Seiko 5, there are lots of versions of this watch out there and you can usually pick one up quite cheap. I don't really wear this anymore, it's an ok watch but the outer ring is mis-aligned (a common problem) which bugs me. My intention for this watch is to take it apart and have a go at modding it. I like the idea of making it into a cheap Snoopy or replacing the hands with white/yellow hands. I've never gotten around to opening it up and taking it apart but will do at some point. It's also worth noting that this thing keeps terrible time, it's off by at least 10 seconds a day.
