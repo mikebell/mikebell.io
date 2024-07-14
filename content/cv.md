@@ -14,6 +14,8 @@ Outside of work I maintain my own on-prem and cloud infrastructure where I run m
 
 ### Employment History
 
+#### Ministry of Justice - Cloud Platform - November 2023
+
 #### Platform Engineer - SpareRoom - May 2023 to September 2023
 
 Responsible for managing and maintaining GCP infrastructure.
