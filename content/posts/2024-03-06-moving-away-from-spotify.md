@@ -15,6 +15,8 @@ slug: moving-away-from-spotify
 
 Spotifys quality sucks, it's UX is horrible and it pays it's artists pretty much sod all so it's time to move away and build my own cloud music service. It's a lot easier than it sounds!
 
+<!--more-->
+
 ## How do I get my data?
 
 Replacing each and every album I have saved on Spotify is no mean feat, I have hundreds saved on there. My first problem was getting all that data out of Spotify into something easy to understand, you can request *all* your data from Spotify [here](https://support.spotify.com/uk/article/data-rights-and-privacy-settings/). You request your data then wait a few days for it to show up, you get a boat load of badly organised JSON which isn't great.

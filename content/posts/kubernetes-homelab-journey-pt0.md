@@ -5,6 +5,8 @@ draft: false
 ---
 I'm going to attempt to document my journey migrating from my current homelab setup to kubernetes. I can't promise when these posts will come as I'm finding I have less time and energy outside of work to do these things but here goes!
 
+<!--more-->
+
 ## Where are we now?
 
 Currently I have two main setups:

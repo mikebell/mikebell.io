@@ -14,6 +14,8 @@ slug: homelab-update-may-2024
 
 Here's a very quick update on my homelab.
 
+<!--more-->
+
 ## Changelog
 
 * Deprecated Homer
