@@ -1,0 +1,123 @@
+{{- define "main" }}
+
+<article class="post-single">
+  <header class="post-header">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="post-title entry-hint-parent">
+      {{ .Title }}
+      {{- if .Draft }}
+      <span class="entry-hint" title="Draft">
+        <svg xmlns="http://www.w3.org/2000/svg" height="35" viewBox="0 -960 960 960" fill="currentColor">
+          <path
+            d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
+        </svg>
+      </span>
+      {{- end }}
+    </h1>
+    {{- if .Description }}
+    <div class="post-description">
+      {{ .Description }}
+    </div>
+    {{- end }}
+    {{- if not (.Param "hideMeta") }}
+    <div class="post-meta">
+      {{- partial "post_canonical.html" . -}}
+    </div>
+    {{- end }}
+  </header>
+  {{- $isHidden := (.Param "cover.hiddenInSingle") | default (.Param "cover.hidden") | default false }}
+  {{- partial "cover.html" (dict "cxt" . "IsSingle" true "isHidden" $isHidden) }}
+  {{- if (.Param "ShowToc") }}
+  {{- partial "toc.html" . }}
+  {{- end }}
+
+  {{- if .Content }}
+  <div class="post-content">
+    <p>I’ve been collecting watches for 10 years now there’s something about them that really appeals to me. I rarely
+      ever show them off they’re quite a personal part of me and each watch has it’s own story. For reasons that most
+      watch collectors will understand (even if they don’t practice) I have strict rules on purchasing watches:</p>
+    <ol>
+      <li>I can only own 6 at a time.</li>
+      <li>No watch over £2000 (Moonwatch will break this eventually)</li>
+      <li>The watch must either be automatic/solar/kinetic</li>
+    </ol>
+    <p>The only rule I’ve struggled with is 1, letting go of a watch is always hard and it’s like letting a piece of me
+      go, apart from the Samsung Galaxy watch 5, that thing sucked and I’m not a fan of smart watches.</p>
+    <p>In no particular order:</p>
+    <h2 id="stowa-ikarus">Stowa Ikarus<a hidden="" class="anchor" aria-hidden="true" href="#stowa-ikarus">#</a></h2>
+    <p>This has just recently passed it’s 10 year birthday. I bought it around the time I got engaged so it’s become my
+      engagement watch, it was going to be my wedding watch (my dad did the same) but my partner convinced me to get a
+      ring instead. This is a pretty interesting watch, when Stowa first released them they didn’t come with an onion
+      crown I had to ask for this especially. They’d later start including the onion crown on all future versions. It
+      also has their “upgraded” movement which looks stunning. It’s quite a classy watch and goes with formal wear if I
+      ever have the occasion to wear a suit (never).</p>
+    <h2 id="stowa-flieger-classic-40">Stowa Flieger Classic 40<a hidden="" class="anchor" aria-hidden="true"
+        href="#stowa-flieger-classic-40">#</a></h2>
+    <p>This is the watch I really wanted when I got the Ikarus but I couldn’t afford it. I finally pulled the trigger
+      last year to celebrate finishing 2 shitty jobs and moving onto my latest role. Me and my partner have an inside
+      joke that it’s the watch that $work bought. I absolutely adore this watch you can wear it with anything and easily
+      get lost in the dial. Even though it was bought around the time when things weren’t great it’ll always be
+      something I’m proud and happy to wear. The black dial is really something else, it just looks good in any whether.
+      If it’s been super sunny while wearing it outside the lume on the dial is super bright, it usually lasts about 2-3
+      hours.</p>
+    <p>My only criticism is the Stowa logo on it, I was unlucky enough to buy this just before they switched back to
+      their old and arguably better logo. Still it’s an awesome watch and is currently on my wrist while writing this.
+    </p>
+    <blockquote>
+      <p>We’re a Stowa family, a few years after I bought the Ikarus my brother bought a Marine and not long after that
+        my dad bought a limited edition Marine Blue Automatik as a birthday present for himself.</p>
+    </blockquote>
+    <h2 id="casio-g-shock-gw-m5610u-1er">Casio G-Shock GW-M5610U-1ER<a hidden="" class="anchor" aria-hidden="true"
+        href="#casio-g-shock-gw-m5610u-1er">#</a></h2>
+    <p>This is my first G-Shock and first solar watch. It’s an amazing looking piece, it’s not huge and in your face
+      like other G-Shocks, I’ve knocked it around a fair bit when doing work around the house or in a data centre. It’s
+      traveled with me on cruises and always kept the correct time. I love it for just how indestructible it is. The
+      only reason I knew this existed was because at the time an ex-colleague showed me the <a
+        href="https://g-shock.co.uk/gw-m5610bwd20-1er">Bamford</a> version (I still want it but refuse to pay what it’s
+      going for now) but it was out of stock everywhere. If you’re looking for a cheap and practical watch then this is
+      for you.</p>
+    <h2 id="casio-g-shock-gw-m5610u-1ber">Casio G-Shock GW-M5610U-1BER<a hidden="" class="anchor" aria-hidden="true"
+        href="#casio-g-shock-gw-m5610u-1ber">#</a></h2>
+    <p>This is the “inverted” version of the 1ER. It’s difficult to read without the backlight and I absolutely love it.
+      Both the 1ER and 1BER often go on sale for 20/30% off on Amazon so if you keep an eye out then you can get a
+      bargain.</p>
+    <h2 id="christopher-ward-c60-trident-pro-300">Christopher Ward C60 Trident Pro 300<a hidden="" class="anchor"
+        aria-hidden="true" href="#christopher-ward-c60-trident-pro-300">#</a></h2>
+    <p>Don’t drink and buy watches folks! Not quite as bad as that but I’d had my eye on a diver for a while and showed
+      my wife it when we were out and about and we both agreed it was a stunning watch. A few drinks later and I bought
+      it. I don’t wear this anywhere near as much as I should, it’s one of the few watches I own that you have to
+      coordinate your clothes with. The trident on the seconds hand is a really nice touch and goes to show how much
+      such a little thing really can set a watch off.</p>
+    <h2 id="seiko-srpd79k1">Seiko SRPD79K1<a hidden="" class="anchor" aria-hidden="true" href="#seiko-srpd79k1">#</a>
+    </h2>
+    <p>This is quite an interesting watch, those that follow the cheaper end of the watch market will instantly
+      recognise that it’s a Seiko 5, there are lots of versions of this watch out there and you can usually pick one up
+      quite cheap. I don’t really wear this anymore, it’s an ok watch but the outer ring is mis-aligned (a common
+      problem) which bugs me. My intention for this watch is to take it apart and have a go at modding it. I like the
+      idea of making it into a cheap Snoopy or replacing the hands with white/yellow hands. I’ve never gotten around to
+      opening it up and taking it apart but will do at some point. It’s also worth noting that this thing keeps terrible
+      time, it’s off by at least 10 seconds a day.</p>
+  </div>
+  {{- end }}
+
+  <footer class="post-footer">
+    {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
+    <ul class="post-tags">
+      {{- range ($.GetTerms $tags) }}
+      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+      {{- end }}
+    </ul>
+    {{- if (.Param "ShowPostNavLinks") }}
+    {{- partial "post_nav_links.html" . }}
+    {{- end }}
+    {{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
+    {{- partial "share_icons.html" . -}}
+    {{- end }}
+  </footer>
+
+  {{- if (.Param "comments") }}
+  {{- partial "comments.html" . }}
+  {{- end }}
+</article>
+
+{{- end }}{{/* end main */}}

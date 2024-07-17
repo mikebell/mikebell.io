@@ -1,14 +1,15 @@
 ---
 title: My Watch Collection
 description: ""
-date: 2024-03-20T07:54:20.072Z
-draft: true
+date: 2024-07-17T18:46:25.019Z
+draft: false
 tags: []
 categories: []
 cover:
   image: ""
   alt: ""
-slug: watch-collection
+slug: watches
+layout: "watches"
 ---
 I've been collecting watches for 10 years now there's something about them that really appeals to me. I rarely ever show them off they're quite a personal part of me and each watch has it's own story. For reasons that most watch collectors will understand (even if they don't practice) I have strict rules on purchasing watches:
 
