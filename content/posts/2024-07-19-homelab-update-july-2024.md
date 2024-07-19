@@ -20,7 +20,7 @@ June/July update on my Homelab
 
 Not much happened in june, I spent most of it on holiday and I "cleaned" up my ssh keys so locked myself out from my phone and tablet. I really need to figure out a better solution for managing ssh keys. I've been talking about doing it for years but haven't gotten around to putting a solution in place.
 
-## Changelog
+## Changelog
 
 * New k3s server running on Debian 12
 * New VM running on Debian 12
@@ -29,7 +29,7 @@ Not much happened in june, I spent most of it on holiday and I "cleaned" up my s
 
 All new VMs are now running on Debian 12 as a replacement of whatever stupidly named Ubuntu Server is the latest LTS. I really like Debian, it just works without any bloat, I've finally got out of the habit of `apt update && apt upgrade` every 5 seconds like I used to do on Ubuntu Server. It has it's quirks and I'm still getting my head around some of it's nuances. I'll most likely create my own Debian 12 image with a few extra utils installed by default soon.
 
-## K3S
+## K3S
 
 Kubernetes is back in the homelab! It's not doing anything yet, there's an issue with accessing port 6443 outside of the VM so `kubectl` isn't working from my main dev machine. It's probably a firewall issue but not had time to look into it and sort it out.
 
