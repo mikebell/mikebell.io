@@ -41,7 +41,7 @@ pageRef = "now"
 [[main]]
 name = "Watches"
 parent = "Other"
-pageRef = "content/posts/watches"
+pageRef = "watches"
 
 [[main]]
 name = "Blog Roll"

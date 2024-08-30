@@ -2,17 +2,18 @@
 title: My Watch Collection
 description: ""
 date: 2024-03-20T07:54:20.072Z
-draft: true
+draft: false
 tags: []
 categories: []
 cover:
   image: ""
   alt: ""
-slug: watch-collection
+slug: watches
+showDate: false
 ---
 I've been collecting watches for 10 years now there's something about them that really appeals to me. I rarely ever show them off they're quite a personal part of me and each watch has it's own story. For reasons that most watch collectors will understand (even if they don't practice) I have strict rules on purchasing watches:
 
-1. I can only own 6 at a time.
+1. I can only own ~~6~~ 7 at a time.
 2. No watch over £2000 (Moonwatch will break this eventually)
 3. The watch must either be automatic/solar/kinetic
 
@@ -47,3 +48,7 @@ Don't drink and buy watches folks! Not quite as bad as that but I'd had my eye o
 ## Seiko SRPD79K1
 
 This is quite an interesting watch, those that follow the cheaper end of the watch market will instantly recognise that it's a Seiko 5, there are lots of versions of this watch out there and you can usually pick one up quite cheap. I don't really wear this anymore, it's an ok watch but the outer ring is mis-aligned (a common problem) which bugs me. My intention for this watch is to take it apart and have a go at modding it. I like the idea of making it into a cheap Snoopy or replacing the hands with white/yellow hands. I've never gotten around to opening it up and taking it apart but will do at some point. It's also worth noting that this thing keeps terrible time, it's off by at least 10 seconds a day.
+
+## Stowa Bronze Flieger
+
+@todo
