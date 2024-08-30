@@ -2,6 +2,9 @@
 title: "About me"
 template: "page"
 showTableOfContents: false
+showDate: false
+showReadingTime: false
+showWordCount: false
 ---
 My name is Mike Bell, I'm a 30 something:
 
