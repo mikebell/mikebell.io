@@ -20,6 +20,29 @@
  pageRef = "about"
  weight = 20
 
+[[main]]
+name = "Other"
+weight = 30
+
+[[main]]
+name = "/pages"
+weight = 29
+
+[[main]]
+name = "now"
+parent = "/pages"
+pageRef = "now"
+
+[[main]]
+name = "Watches"
+parent = "Other"
+pageRef = "content/posts/watches"
+
+[[main]]
+name = "Blog Roll"
+parent = "Other"
+pageRef = "blog/roll"
+
 #[[main]]
 #  name = "example sub-menu 1"
 #  parent = "Parent"
