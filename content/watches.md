@@ -27,7 +27,7 @@ This has just recently passed it's 10 year birthday. I bought it around the time
 
 ## Stowa Flieger Classic 40
 
-This is the watch I really wanted when I got the Ikarus but I couldn't afford it. I finally pulled the trigger last year to celebrate finishing 2 shitty jobs and moving onto my latest role. Me and my partner have an inside joke that it's the watch that $work bought. I absolutely adore this watch you can wear it with anything and easily get lost in the dial. Even though it was bought around the time when things weren't great it'll always be something I'm proud and happy to wear. The black dial is really something else, it just looks good in any whether. If it's been super sunny while wearing it outside the lume on the dial is super bright, it usually lasts about 2-3 hours. 
+This is the watch I really wanted when I got the Ikarus but I couldn't afford it. I finally pulled the trigger last year to celebrate finishing 2 shitty jobs and moving onto my latest role. Me and my partner have an inside joke that it's the watch that `$work` bought. I absolutely adore this watch you can wear it with anything and easily get lost in the dial. Even though it was bought around the time when things weren't great it'll always be something I'm proud and happy to wear. The black dial is really something else, it just looks good in any weather. If it's been sunny while wearing it outside the lume on the dial is super bright, it usually lasts about 2-3 hours. 
 
 My only criticism is the Stowa logo on it, I was unlucky enough to buy this just before they switched back to their old and arguably better logo. Still it's an awesome watch and is currently on my wrist while writing this.
 
