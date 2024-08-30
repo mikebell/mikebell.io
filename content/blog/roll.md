@@ -1,6 +1,7 @@
 ---
 title: "Blog Roll"
 template: "page"
+showTableOfContents: false
 ---
 A list of everything I'm subscribed to in [Commafeed](https://www.commafeed.com/#/welcome) at the moment. If you have any suggestions then send them to me on [Mastodon](https://remotelab.uk/@mikebell)
 

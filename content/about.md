@@ -1,6 +1,7 @@
 ---
 title: "About me"
 template: "page"
+showTableOfContents: false
 ---
 My name is Mike Bell, I'm a 30 something:
 
