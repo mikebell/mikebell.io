@@ -14,7 +14,7 @@ title = "Mike Bell - Blog & Stuff"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-[author]
+[params.author]
   name = "Mike Bell"
   email = "hello@mikebell.io"
   image = "img/code.png"
