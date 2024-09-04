@@ -2,17 +2,18 @@
 title: My Watch Collection
 description: ""
 date: 2024-03-20T07:54:20.072Z
-draft: true
+draft: false
 tags: []
 categories: []
 cover:
   image: ""
   alt: ""
-slug: watch-collection
+slug: watches
+showDate: false
 ---
 I've been collecting watches for 10 years now there's something about them that really appeals to me. I rarely ever show them off they're quite a personal part of me and each watch has it's own story. For reasons that most watch collectors will understand (even if they don't practice) I have strict rules on purchasing watches:
 
-1. I can only own 6 at a time.
+1. I can only own ~~6~~ 7 at a time.
 2. No watch over £2000 (Moonwatch will break this eventually)
 3. The watch must either be automatic/solar/kinetic
 
@@ -26,7 +27,7 @@ This has just recently passed it's 10 year birthday. I bought it around the time
 
 ## Stowa Flieger Classic 40
 
-This is the watch I really wanted when I got the Ikarus but I couldn't afford it. I finally pulled the trigger last year to celebrate finishing 2 shitty jobs and moving onto my latest role. Me and my partner have an inside joke that it's the watch that $work bought. I absolutely adore this watch you can wear it with anything and easily get lost in the dial. Even though it was bought around the time when things weren't great it'll always be something I'm proud and happy to wear. The black dial is really something else, it just looks good in any whether. If it's been super sunny while wearing it outside the lume on the dial is super bright, it usually lasts about 2-3 hours. 
+This is the watch I really wanted when I got the Ikarus but I couldn't afford it. I finally pulled the trigger last year to celebrate finishing 2 shitty jobs and moving onto my latest role. Me and my partner have an inside joke that it's the watch that `$work` bought. I absolutely adore this watch you can wear it with anything and easily get lost in the dial. Even though it was bought around the time when things weren't great it'll always be something I'm proud and happy to wear. The black dial is really something else, it just looks good in any weather. If it's been sunny while wearing it outside the lume on the dial is super bright, it usually lasts about 2-3 hours. 
 
 My only criticism is the Stowa logo on it, I was unlucky enough to buy this just before they switched back to their old and arguably better logo. Still it's an awesome watch and is currently on my wrist while writing this.
 
@@ -47,3 +48,7 @@ Don't drink and buy watches folks! Not quite as bad as that but I'd had my eye o
 ## Seiko SRPD79K1
 
 This is quite an interesting watch, those that follow the cheaper end of the watch market will instantly recognise that it's a Seiko 5, there are lots of versions of this watch out there and you can usually pick one up quite cheap. I don't really wear this anymore, it's an ok watch but the outer ring is mis-aligned (a common problem) which bugs me. My intention for this watch is to take it apart and have a go at modding it. I like the idea of making it into a cheap Snoopy or replacing the hands with white/yellow hands. I've never gotten around to opening it up and taking it apart but will do at some point. It's also worth noting that this thing keeps terrible time, it's off by at least 10 seconds a day.
+
+## Stowa Bronze Flieger
+
+@todo

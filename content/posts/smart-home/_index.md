@@ -72,8 +72,8 @@ I've been really happy with all the integrations and I'm always on the look out 
 
 Once I've settled on a brand then I'll work on getting it integrated into HA.
 
-[smarthome-mobile]: /images/smarthome-mobile.png "Home assistant mobile"
-[smarthome-integrations]: /images/smarthome-integrations.png "Home assistant integrations"
-[smarthome-plug]: /images/smarthome-plug.png "Home assistant cat calmer"
-[smarthome-switch]: /images/smarthome-switch.png "Home assistant switch"
-[smarthome-full]: /images/smarthome-full.png "Home assistant full"
+[smarthome-mobile]: smarthome-mobile.png "Home assistant mobile"
+[smarthome-integrations]: smarthome-integrations.png "Home assistant integrations"
+[smarthome-plug]: smarthome-plug.png "Home assistant cat calmer"
+[smarthome-switch]: smarthome-switch.png "Home assistant switch"
+[smarthome-full]: smarthome-full.png "Home assistant full"

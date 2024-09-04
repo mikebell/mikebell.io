@@ -33,7 +33,7 @@ Are Pandas worth the hype? I'm not sure at the moment they seem ok but I'll have
 ![Quefrency Rev 3 close up on drop pandas][quefrency-rev3-pandas]
 ![Quefrency Rev 3 together][quefrency-rev3-together]
 
-[quefrency-rev3]: /images/quefrency/20210611_142509.jpg "Quefrency Rev 3"
-[quefrency-rev3-close]: /images/quefrency/20210611_142453.jpg "Quefrency Rev 3 close"
-[quefrency-rev3-pandas]: /images/quefrency/20210611_141359.jpg "Quefrency Rev 3 pandas"
-[quefrency-rev3-together]: /images/quefrency/20210611_142524.jpg "Quefrency Rev 3 together"
+[quefrency-rev3]: 20210611_142509.jpg "Quefrency Rev 3"
+[quefrency-rev3-close]: 20210611_142453.jpg "Quefrency Rev 3 close"
+[quefrency-rev3-pandas]: 20210611_141359.jpg "Quefrency Rev 3 pandas"
+[quefrency-rev3-together]: 20210611_142524.jpg "Quefrency Rev 3 together"

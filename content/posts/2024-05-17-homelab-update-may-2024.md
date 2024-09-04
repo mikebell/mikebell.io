@@ -10,6 +10,7 @@ cover:
   alt: ""
 type: posts
 slug: homelab-update-may-2024
+showTableOfContents: true
 ---
 
 Here's a very quick update on my homelab.

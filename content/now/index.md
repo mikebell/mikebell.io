@@ -1,6 +1,10 @@
 ---
 title: "Now"
 template: "page"
+showTableOfContents: false
+showDate: false
+showReadingTime: false
+showWordCount: false
 ---
 
 Currently a DevOps Engineer. Enjoying working with Kubernetes at scale and improving processes and developer experience.

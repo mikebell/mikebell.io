@@ -1,6 +1,10 @@
 ---
 title: "CV"
 template: "page"
+showTableOfContents: false
+showDate: false
+showReadingTime: false
+showWordCount: false
 ---
 
 # Mike Bell
