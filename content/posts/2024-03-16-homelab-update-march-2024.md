@@ -14,8 +14,6 @@ type: posts
 
 This is a replacement for my [Kubernetes Homelab Pt0](posts/kubernetes-homelab-journey-pt0/). I figured that it was best to write about my homelab in general since I'm not running k8s at the moment.
 
-<!--more-->
-
 # Temporary 2nd homelab
 
 I temporarily have 2 servers, ones provisioned and ready for installation at my parents place to replace their aging Raspberry Pi Home Assistant setup. Here are the specs:

@@ -13,8 +13,6 @@ slug: "vscode-fronmatter-ftw"
 
 While reading Kev Quirks latest post on [#100DaysToOffload](https://kevquirk.com/i-ve-finally-completed-100-days-to-offload) (RSS ftw as well) he hits upon the exact problem I've been having with creating more content for the blog.
 
-<!--more-->
-
 > At the back-end I effectively have a custom-built CMS that has been designed, from the ground-up, to work exactly how I want it to.
 
 Emphasis on the "to work exactly how I want". This blog is built using Hugo, posts are committed to git and then a github action pushes the compiled html to an S3 bucket. On the face of it that's pretty simple but the workflow has been slowing me down a lot. There are too many steps to getting content live:
