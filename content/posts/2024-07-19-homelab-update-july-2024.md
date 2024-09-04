@@ -10,6 +10,7 @@ cover:
   alt: ""
 type: posts
 slug: homelab-update-july-2024
+showTableOfContents: true
 ---
 
 June/July update on my Homelab
