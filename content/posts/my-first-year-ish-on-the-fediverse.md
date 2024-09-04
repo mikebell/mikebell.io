@@ -6,6 +6,8 @@ draft: false
 
 It's about this time of year that marks my first year on the fediverse. I've really enjoyed it, I decided to quit Twitter just over a year ago and Reddit after they cut off third party apps. I have both my own [Mastodon](https://remotelab.uk/home) and Lemmy server. Mastodon is hosted with [Masto.host](https://masto.host/), at the time I was pretty ill and didn't want the hassle of managing it all myself, I also wanted the option of easily scaling it if I ever decided to open it up to friends/family.
 
+<!--more-->
+
 ## Mastodon
 
 Moving over from Twitter to Mastodon was super easy I hadn't really been active for a while and I'd lost all interest in scrolling my feed.

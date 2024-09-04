@@ -11,7 +11,9 @@ cover:
 slug: "vscode-fronmatter-ftw"
 ---
 
-While reading Kev Quirks latest post on [#100DaysToOffload](https://kevquirk.com/i-ve-finally-completed-100-days-to-offload) (RSS ftw as well) he hits upon the exact problem I've been having with creating more content for the blog:
+While reading Kev Quirks latest post on [#100DaysToOffload](https://kevquirk.com/i-ve-finally-completed-100-days-to-offload) (RSS ftw as well) he hits upon the exact problem I've been having with creating more content for the blog.
+
+<!--more-->
 
 > At the back-end I effectively have a custom-built CMS that has been designed, from the ground-up, to work exactly how I want it to.
 

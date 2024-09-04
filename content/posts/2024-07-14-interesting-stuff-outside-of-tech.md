@@ -14,6 +14,8 @@ slug: cool-stuff-tech
 
 I spend all my online life in tech (I started setting up devenv.sh while I had covid ffs) so decided to branch out and find other things to read that are interesting but NOT tech related (maybe).
 
+<!--more-->
+
 [Matt Lakeman - Notes on Tajikistan](https://mattlakeman.org/2024/06/20/notes-on-tajikistan/)
 
 I found this from Hacker News and decided to give it a click not only is it really interesting but it's very well written. Matts humour comes across really well and I like it. There's a heavy emphasis on history which isn't quite my thing but the actual details of his travels is something else. I wish I'd have the guts to travel to some of the places he has.

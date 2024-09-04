@@ -9,10 +9,11 @@ tags:
     - terraform
     - aws
 ---
+I've had my personal AWS setup for 10 years now and it's time that it got organised. I've made previous attempts at this using Terraformer but it's output wasn't structure enough for my liking.
+
+<!--more-->
 
 TLDR; template code can be found [here](https://github.com/mikebell-dev/tf-template).
-
-I've had my personal AWS setup for 10 years now and it's time that it got organised. I've made previous attempts at this using Terraformer but it's output wasn't structure enough for my liking.
 
 This time round I've decided to split it up into two components:
 

@@ -13,6 +13,8 @@ slug: worst-24-hours
 ---
 Back in 2023 I had the worst 24 hours for a long time. It feels weird writing about this since when I look back it's just so completely insane that everything happened like it did. I'm trying to be as eloquent as possible but it's hard for reasons you'll read.
 
+<!--more-->
+
 I've redacted everything I can, `$work` is whatever job I was working at at the time, while not impossible to find out where it's not worth it.
 
 It all started at around 5pm on a Thursday (it wasn't) I started my coding test for `$work` a semi simple application that takes some photos does some processing no big deal. Side note: shame on `$work` for trying to get a free solution out of interviewees. I spent a few hours on it, was happy with the result committed it to Github, sent if off and went about the rest of my day. I cooked food for us both and watched tv for the rest of the evening.
