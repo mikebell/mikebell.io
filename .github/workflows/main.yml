@@ -25,10 +25,10 @@ jobs:
           hugo-version: 'latest'
           # extended: true
 
-      - name: Create CV
-        uses: docker://pandoc/extra:3.1.1.0
-        with:
-          args: content/cv.md --output=static/cv.pdf --template /.pandoc/templates/eisvogel.latex --listings -V block-headings
+      # - name: Create CV
+      #   uses: docker://pandoc/extra:3.1.1.0
+      #   with:
+      #     args: content/cv.md --output=static/cv.pdf --template /.pandoc/templates/eisvogel.latex --listings -V block-headings
 
       - name: Build
         run: hugo --minify
