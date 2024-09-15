@@ -10,7 +10,7 @@ cover:
   alt: ""
 ---
 
-August/JulySeptember update on my Homelab
+August/September update on my Homelab
 
 <!--more-->
 
