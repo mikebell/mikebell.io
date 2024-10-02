@@ -19,7 +19,7 @@ Like most people after the Reddit enshitification I was looking for a new home, 
 
 Selfhosting Lemmy was actually a lot easier than Mastodon so I was quite surprised to be up and running ans quickly as I was, posts started federating very quickly and I was seeing content from around 40-50 different communities I subscribed to across some of the bigger servers.
 
-## Why take it down?
+## Why take it down?
 
 1. Content - the communities I follow have been slowly dying, the mass exodus from reddit fueled a gold rush to Lemmy which was great but over time content quality and quantity has declined.
 2. Moderation - every so often I find that communities I follow have been abandoned and waves of spam hit them, it's not fun knowing that you have no power other than to block a million accounts. Reporting posts only affects my instance which isn't very useful.
