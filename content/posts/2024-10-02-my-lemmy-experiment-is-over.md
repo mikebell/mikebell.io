@@ -17,7 +17,7 @@ After over a year I'm going to take down my personal Lemmy server. Running it on
 
 Like most people after the Reddit enshitification I was looking for a new home, Lemmy seemed like the right place. Rather than jump on the bigger servers I decided I'd selfhost it and have a another little part of the internet for myself, similar to how I have my own Mastodon instance.
 
-Selfhosting Lemmy was actually a lot easier than Mastodon so I was quite surprised to be up and running ans quickly as I was, posts started federating very quickly and I was seeing content from around 40-50 different communities I subscribed to across some of the bigger servers.
+Selfhosting Lemmy was actually a lot easier than Mastodon so I was quite surprised to be up and running as quickly as I was, posts started federating very quickly and I was seeing content from around 40-50 different communities I subscribed to across some of the bigger servers.
 
 ## Why take it down?
 
@@ -30,3 +30,4 @@ Selfhosting Lemmy was actually a lot easier than Mastodon so I was quite surpris
 ## Will I come back?
 
 Nah, the web has fundamentally changed and my usage of it has to as well. Reddit was great, a fountain of useful knowledge until it wasn't. What I wanted out of Lemmy was the same thing but you can't beat Reddit and Google, you can only try and avoid them and build your own piece of the internet.
+
