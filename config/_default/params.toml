@@ -138,10 +138,10 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   # domain = "llama.yoursite.com"
 
 [umamiAnalytics]
-  # websiteid = "ABC12345"
-  # domain = "llama.yoursite.com"
-  # dataDomains = "yoursite.com,yoursite2.com"
-  # enableTrackEvent = true
+  websiteid = "a5842d5d-c753-4379-8507-ad6a6918cf30"
+  domain = "mikebell.io"
+  dataDomains = "mikebell.io"
+  enableTrackEvent = true
 
 [selineAnalytics]
   # token = "XXXXXX"
