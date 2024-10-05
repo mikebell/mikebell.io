@@ -43,11 +43,6 @@ name = "Watches"
 parent = "Other"
 pageRef = "watches"
 
-[[main]]
-name = "Blog Roll"
-parent = "Other"
-pageRef = "blog/roll"
-
 #[[main]]
 #  name = "example sub-menu 1"
 #  parent = "Parent"
