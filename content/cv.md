@@ -8,11 +8,12 @@ showWordCount: false
 ---
 
 # Mike Bell
-## Platform and Cloud Engineer - Remote & Manchester UK
 
-Platform and Cloud Engineer focused on AWS and GCP, management, building and maintaining of infrastructure and projects.
+## DevOps Engineer - Remote & Manchester UK
 
-I’ve been remote working for over 8 years, taking responsibility of my own time management and ability to work with teams based anywhere in the world. At Spareroom I build and manage enterprise level infrastructure, support critical applications and maintain testing applications.
+DevOps Engineer focused on AWS, management, building and maintaining of infrastructure and projects.
+
+I’ve been remote working for over 9 years, taking responsibility of my own time management and ability to work with teams based anywhere in the world. At Spareroom I build and manage enterprise level infrastructure, support critical applications and maintain testing application
 
 Outside of work I maintain my own on-prem and cloud infrastructure where I run multiple VMs and containers focusing on home automation software. When not working I love to build Lego, design and build custom keyboards, cook and play with my cats.
 
