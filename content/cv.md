@@ -13,13 +13,20 @@ showWordCount: false
 
 DevOps Engineer focused on AWS, management, building and maintaining of infrastructure and projects.
 
-I’ve been remote working for over 9 years, taking responsibility of my own time management and ability to work with teams based anywhere in the world. At Spareroom I build and manage enterprise level infrastructure, support critical applications and maintain testing application
+I’ve been remote working for over 9 years, taking responsibility of my own time management and ability to work with teams based anywhere in the world. At MoJ Cloud Platform I manage and maintain vital components in our Kubernetes cluster. I've managed critical incidents professionally and often help other team members. I enjoy pairing up with colleagues and working on tough and interesting problems.
 
 Outside of work I maintain my own on-prem and cloud infrastructure where I run multiple VMs and containers focusing on home automation software. When not working I love to build Lego, design and build custom keyboards, cook and play with my cats.
 
 ### Employment History
 
 #### Ministry of Justice - Cloud Platform - November 2023
+
+Cloud Platform team.
+
+* Kubernetes
+* Terraform
+* AWS
+* Incident management
 
 #### Platform Engineer - SpareRoom - May 2023 to September 2023
 
