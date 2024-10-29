@@ -13,7 +13,7 @@ showWordCount: false
 
 DevOps Engineer focused on AWS, management, building and maintaining of infrastructure and projects.
 
-I’ve been remote working for over 9 years, taking responsibility of my own time management and ability to work with teams based anywhere in the world. At MoJ Cloud Platform I manage and maintain vital components in our Kubernetes cluster. I've managed critical incidents professionally and often help other team members. I enjoy pairing up with colleagues and working on tough and interesting problems.
+I’ve been remote working for over 9 years, taking responsibility of my own time management and ability to work with teams based anywhere in the world. At MoJ Cloud Platform I manage, maintain and support users in our Kubernetes cluster. I've managed critical incidents professionally and often help other team members. I enjoy pairing up with colleagues and working on tough and interesting problems.
 
 Outside of work I maintain my own on-prem and cloud infrastructure where I run multiple VMs and containers focusing on home automation software. When not working I love to build Lego, design and build custom keyboards, cook and play with my cats.
 
@@ -27,6 +27,8 @@ Cloud Platform team.
 * Terraform
 * AWS
 * Incident management
+
+My role on the Cloud Platform team takes me across many different areas of Kubernetes, Terraform and AWS. I'm currently running an initiative to decouple or terraform/k8s stack ready for upcoming work on moving to multi cluster, this has included creating a custom Python tool to migrate terraform state and Concourse pipelines to automate the process. I also provide support to our users and often have to solve complex issues. I've been involved in Kubernetes cluster upgrades and managed critical incidents.
 
 #### Platform Engineer - SpareRoom - May 2023 to September 2023
 
