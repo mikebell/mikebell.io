@@ -2,7 +2,7 @@
 title: Bilateral Pulmonary Embolisms Suck
 description: ""
 date: 2024-10-29T20:27:43.854Z
-draft: true
+draft: false
 tags: []
 categories: []
 cover:
