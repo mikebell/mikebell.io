@@ -13,7 +13,7 @@ showDate: false
 ---
 I've been collecting watches for 10 years now there's something about them that really appeals to me. I rarely ever show them off they're quite a personal part of me and each watch has it's own story. For reasons that most watch collectors will understand (even if they don't practice) I have strict rules on purchasing watches:
 
-1. I can only own ~~6~~ 7 at a time.
+1. I can only own ~~6~~ ~~7~~ 8 at a time.
 2. No watch over £2000 (Moonwatch will break this eventually)
 3. The watch must either be automatic/solar/kinetic
 
@@ -51,4 +51,8 @@ This is quite an interesting watch, those that follow the cheaper end of the wat
 
 ## Stowa Bronze Flieger
 
-@todo
+I promised myself no more watches but this just jumped out at me. It's very classy and sophisticated. I find the crown very stiff to wind which is a bit odd but other than that it's just amazing to wear. I guess this could be classed as the watch that `$work` (2.0) bought. I don't think I could recommend this watch to people though, it's an extravagance for me, I probably shouldn't have bought it but it looks so good!
+
+## Timex Expedition Solar
+
+A complete random purchase after seeing it on sale on Amazon US for £40, yup a whole £40! Such a bargain for a solar powered watch. This is my first watch of this style and I really like the 24 hours sub numbers. I'm really impressed with the lume on this as well, while it doesn't last too long it is bright. Amusingly because of the british weather it did take a while and my torch to get this fully charged so I could wear it properly. I've heard that Timex are supposed to be quite loud but this is fine, only slightly louder than my Stowas but not enough to cause an issue.
