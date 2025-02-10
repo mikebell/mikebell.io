@@ -9,9 +9,9 @@ showWordCount: false
 
 # Mike Bell
 
-## DevOps Engineer - Remote & Manchester UK
+## Senior DevOps Engineer - Remote & Manchester UK
 
-DevOps Engineer focused on AWS, management, building and maintaining of infrastructure and projects.
+Senior DevOps Engineer focused on AWS, management, building and maintaining of infrastructure and projects.
 
 I’ve been remote working for over 9 years, taking responsibility of my own time management and ability to work with teams based anywhere in the world. At MoJ Cloud Platform I manage, maintain and support users in our Kubernetes cluster. I've managed critical incidents professionally and often help other team members. I enjoy pairing up with colleagues and working on tough and interesting problems.
 
@@ -19,7 +19,9 @@ Outside of work I maintain my own on-prem and cloud infrastructure where I run m
 
 ### Employment History
 
-#### Ministry of Justice - Cloud Platform - November 2023
+#### Senior DevOps Engineer - MoJ - Cloud Platform - January 2025
+
+#### DevOps Engineer - MoJ - Cloud Platform - November 2023
 
 Cloud Platform team.
 
