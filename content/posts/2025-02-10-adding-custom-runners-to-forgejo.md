@@ -44,7 +44,7 @@ Your runner file has a section called `labels` this is where you add the images 
 
 When you restart the runner you should see you have the `ubuntu-act-latest` label available for your actions.
 
-caththehackers images are great but they don't have the `aws` cli installed which is a hard requirement for me since I manage a lot of AWS infrastructure with terraform 100% via gitops. To fix this I quickly hacked together a docker file to add in the cli tool:
+[caththehackers](https://github.com/catthehacker/docker_images) images are great but they don't have the `aws` cli installed which is a hard requirement for me since I manage a lot of AWS infrastructure with terraform 100% via gitops. To fix this I quickly hacked together a docker file to add in the cli tool:
 
 ```
 FROM ghcr.io/catthehacker/ubuntu:act-latest
@@ -55,8 +55,16 @@ RUN unzip awscliv2.zip && ./aws/install
 
 As a quick and dirty hack I pushed this up manually to forgejo (it fully supports docker images and provides a registry as well!). I can know reference that image inside my `.runner` file.
 
+You can then reference this in your action:
+
+```
+jobs:
+  configure-aws:
+    runs-on: ubuntu-act-latest
+```
+
 I still have a few things to tidy up:
 
 1. Automate building my custom image
 2. Migrate all repos to forgejo
-3. Migrat to OpenTofu
+3. Migrate to OpenTofu
