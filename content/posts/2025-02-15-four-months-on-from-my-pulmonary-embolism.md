@@ -8,18 +8,13 @@ categories: []
 cover:
   image: ""
   alt: ""
-template: ""
-showTableOfContents: false
-showDate: false
-showReadingTime: false
-showWordCount: false
 slug: months-pulmonary-embolism
 ---
 > "You did it proper."
 >
 > Consultant
 
-Adding to my list of things I never want to hear again. 
+Adding to my list of things I never want to hear again.
 
 Those words were proceeded by my consultant showing me the images of my chest and the two bright white spots that were the clots that nearly killed me.
 

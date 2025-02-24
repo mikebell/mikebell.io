@@ -8,11 +8,6 @@ categories: []
 cover:
   image: ""
   alt: ""
-template: ""
-showTableOfContents: false
-showDate: false
-showReadingTime: false
-showWordCount: false
 slug: building-docker-image-forgejo-actions
 ---
 aka how I nearly went crazy trying to figure out how to build docker images in Forgejo Actions.
