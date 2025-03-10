@@ -56,6 +56,7 @@ services:
       DOCKER_HOST: docker-in-docker
     volumes:
       - docker_certs:/certs
+    restart: unless-stopped
 
   runner-register:
     image: code.forgejo.org/forgejo/runner:6.2.2
@@ -93,6 +94,7 @@ services:
     volumes:
       - ./data:/data
       - docker_certs:/certs
+    restart: 'unless-stopped'
     command: >-
       bash -c '
       while : ; do test -w .runner && forgejo-runner --config config.yml daemon ; sleep 1 ; done
