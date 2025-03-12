@@ -23,6 +23,8 @@ In no particular order:
 
 ## Stowa Ikarus
 
+![Stowa Ikarus](stowa_ikarus.jpg)
+
 This has just recently passed it's 10 year birthday. I bought it around the time I got engaged so it's become my engagement watch, it was going to be my wedding watch (my dad did the same) but my partner convinced me to get a ring instead. This is a pretty interesting watch, when Stowa first released them they didn't come with an onion crown I had to ask for this especially. They'd later start including the onion crown on all future versions. It also has their "upgraded" movement which looks stunning. It's quite a classy watch and goes with formal wear if I ever have the occasion to wear a suit (never).
 
 ## Stowa Flieger Classic 40
