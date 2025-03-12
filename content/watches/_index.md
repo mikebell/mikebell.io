@@ -39,9 +39,13 @@ My only criticism is the Stowa logo on it, I was unlucky enough to buy this just
 
 ## Casio G-Shock GW-M5610U-1ER
 
+![Casio G-Shock Normal](casio_1er.jpg)
+
 This is my first G-Shock and first solar watch. It's an amazing looking piece, it's not huge and in your face like other G-Shocks, I've knocked it around a fair bit when doing work around the house or in a data centre. It's traveled with me on cruises and always kept the correct time. I love it for just how indestructible it is. The only reason I knew this existed was because at the time an ex-colleague showed me the [Bamford](https://g-shock.co.uk/gw-m5610bwd20-1er) version (I still want it but refuse to pay what it's going for now) but it was out of stock everywhere. If you're looking for a cheap and practical watch then this is for you.
 
 ## Casio G-Shock GW-M5610U-1BER
+
+![Casio G-Shock Inverted](casio_1ber.jpg)
 
 This is the "inverted" version of the 1ER. It's difficult to read without the backlight and I absolutely love it. Both the 1ER and 1BER often go on sale for 20/30% off on Amazon so if you keep an eye out then you can get a bargain.
 
