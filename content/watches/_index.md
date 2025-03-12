@@ -43,6 +43,8 @@ This is the "inverted" version of the 1ER. It's difficult to read without the ba
 
 ## Christopher Ward C60 Trident Pro 300
 
+![Christopher Ward C60 Trident Pro 300](cw_c60_300.jpg)
+
 Don't drink and buy watches folks! Not quite as bad as that but I'd had my eye on a diver for a while and showed my wife it when we were out and about and we both agreed it was a stunning watch. A few drinks later and I bought it. I don't wear this anywhere near as much as I should, it's one of the few watches I own that you have to coordinate your clothes with. The trident on the seconds hand is a really nice touch and goes to show how much such a little thing really can set a watch off.
 
 ## Seiko SRPD79K1
