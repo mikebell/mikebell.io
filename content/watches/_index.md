@@ -27,7 +27,7 @@ This has just recently passed it's 10 year birthday. I bought it around the time
 
 ## Stowa Flieger Classic 40
 
-This is the watch I really wanted when I got the Ikarus but I couldn't afford it. I finally pulled the trigger last year to celebrate finishing 2 shitty jobs and moving onto my latest role. Me and my partner have an inside joke that it's the watch that `$work` bought. I absolutely adore this watch you can wear it with anything and easily get lost in the dial. Even though it was bought around the time when things weren't great it'll always be something I'm proud and happy to wear. The black dial is really something else, it just looks good in any weather. If it's been sunny while wearing it outside the lume on the dial is super bright, it usually lasts about 2-3 hours. 
+This is the watch I really wanted when I got the Ikarus but I couldn't afford it. I finally pulled the trigger last year to celebrate finishing 2 shitty jobs and moving onto my latest role. Me and my partner have an inside joke that it's the watch that `$work` bought. I absolutely adore this watch you can wear it with anything and easily get lost in the dial. Even though it was bought around the time when things weren't great it'll always be something I'm proud and happy to wear. The black dial is really something else, it just looks good in any weather. If it's been sunny while wearing it outside the lume on the dial is super bright, it usually lasts about 2-3 hours.
 
 My only criticism is the Stowa logo on it, I was unlucky enough to buy this just before they switched back to their old and arguably better logo. Still it's an awesome watch and is currently on my wrist while writing this.
 
@@ -50,6 +50,8 @@ Don't drink and buy watches folks! Not quite as bad as that but I'd had my eye o
 This is quite an interesting watch, those that follow the cheaper end of the watch market will instantly recognise that it's a Seiko 5, there are lots of versions of this watch out there and you can usually pick one up quite cheap. I don't really wear this anymore, it's an ok watch but the outer ring is mis-aligned (a common problem) which bugs me. My intention for this watch is to take it apart and have a go at modding it. I like the idea of making it into a cheap Snoopy or replacing the hands with white/yellow hands. I've never gotten around to opening it up and taking it apart but will do at some point. It's also worth noting that this thing keeps terrible time, it's off by at least 10 seconds a day.
 
 ## Stowa Bronze Flieger
+
+![Bronze Stowa Fleiger](stowa_bronze.jpg)
 
 I promised myself no more watches but this just jumped out at me. It's very classy and sophisticated. I find the crown very stiff to wind which is a bit odd but other than that it's just amazing to wear. I guess this could be classed as the watch that `$work` (2.0) bought. I don't think I could recommend this watch to people though, it's an extravagance for me, I probably shouldn't have bought it but it looks so good!
 
