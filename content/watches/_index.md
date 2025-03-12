@@ -14,7 +14,7 @@ showDate: false
 I've been collecting watches for 10 years now there's something about them that really appeals to me. I rarely ever show them off they're quite a personal part of me and each watch has it's own story. For reasons that most watch collectors will understand (even if they don't practice) I have strict rules on purchasing watches:
 
 1. I can only own ~~6~~ ~~7~~ 8 at a time.
-2. No watch over £2000 (Moonwatch will break this eventually)
+2. No watch over £2000 (Moonwatch will break this eventually)(I broke it already)
 3. The watch must either be automatic/solar/kinetic
 
 The only rule I've struggled with is 1, letting go of a watch is always hard and it's like letting a piece of me go, apart from the Samsung Galaxy watch 5, that thing sucked and I'm not a fan of smart watches.
