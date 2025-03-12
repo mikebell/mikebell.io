@@ -53,6 +53,8 @@ Don't drink and buy watches folks! Not quite as bad as that but I'd had my eye o
 
 ## Seiko SRPD79K1
 
+![Seiko Stealth](seiko_5_stealth.jpg)
+
 This is quite an interesting watch, those that follow the cheaper end of the watch market will instantly recognise that it's a Seiko 5, there are lots of versions of this watch out there and you can usually pick one up quite cheap. I don't really wear this anymore, it's an ok watch but the outer ring is mis-aligned (a common problem) which bugs me. My intention for this watch is to take it apart and have a go at modding it. I like the idea of making it into a cheap Snoopy or replacing the hands with white/yellow hands. I've never gotten around to opening it up and taking it apart but will do at some point. It's also worth noting that this thing keeps terrible time, it's off by at least 10 seconds a day.
 
 ## Stowa Bronze Flieger
